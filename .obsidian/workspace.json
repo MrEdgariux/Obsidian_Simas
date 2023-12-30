@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bef65704251ca48",
+        "id": "3e024bc2fb2518cb",
         "type": "tabs",
         "children": [
           {
-            "id": "64db1b07fe3a8efa",
+            "id": "4cce6b1882bfda48",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64db1b07fe3a8efa",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2023-12-30/Simas žada sharint ekranioka.md",
     "2023-12-30/Simas parašė T ar N.md",
     "Karoče simas paskambino nes tipo rado T raide.md",
     "2023-12-30",
@@ -177,7 +178,6 @@
     "2023-12-28/Karoče priminė kad 10€ duot turėsiu.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
-    "2023-12-27/Simas irgi rašysis užsirašom.md",
     "2023-12-27",
     "Untitled.canvas",
     "2023-12-26/Žaidimui",
