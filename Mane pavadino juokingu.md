@@ -1,0 +1,1 @@
+Karoče [[InsaneSimas]] mane pavadino juokingu pakol [[Ya]]

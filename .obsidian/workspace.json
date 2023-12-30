@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3d7d2f11d89aa5e2",
+        "id": "e63ddb0c7aedd0a7",
         "type": "tabs",
         "children": [
           {
-            "id": "91bd9e7310b36b03",
+            "id": "0013df57fffc5b44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mane pavadino juokingu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mane pavadino juokingu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mane pavadino juokingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mane pavadino juokingu.md"
+              }
             }
           },
           {
@@ -145,8 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "0013df57fffc5b44",
   "lastOpenFiles": [
+    "Mane pavadino juokingu.md",
+    "2023-12-30/Yanderio nepereina.md",
+    "2023-12-30/Simas užsirašė.md",
     "2023-12-30/Nedavė muzikos ir sakė neegzistuoja tokia.md",
     "2023-12-30/MIRĖ TOWERYJE.md",
     "2023-12-30/Simas pavadino gd lygi šūdinu.md",
@@ -173,9 +184,6 @@
     "2023-12-27/Žaidimui/GabasOnTop prisijungė.md",
     "2023-12-27/Žaidimui/Apiplešėm juvelyrinę.md",
     "2023-12-27/Simas žaidžia Brawl stars.md",
-    "2023-12-27/Simas vėl chupa chupa dainuoja.md",
-    "2023-12-27/Simas tingi rašytis 1.md",
-    "2023-12-27/Mane pavadino grybu.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",

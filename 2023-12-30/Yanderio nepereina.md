@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė užrašyt, tai užrašiau kad [[GD Lygis]] nepereina snarglys nemokša

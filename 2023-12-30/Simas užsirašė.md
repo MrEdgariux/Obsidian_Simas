@@ -1,0 +1,1 @@
+Karoče [[InsaneSimas]] užsirašė karoče kad dyzelinas nepadarė avarijos kai važiavo atgal xd
