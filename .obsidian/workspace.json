@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e63ddb0c7aedd0a7",
+        "id": "70b066d9bd2a8385",
         "type": "tabs",
         "children": [
           {
-            "id": "0013df57fffc5b44",
+            "id": "c70f6832928c01a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mane pavadino juokingu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mane pavadino juokingu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mane pavadino juokingu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mane pavadino juokingu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,9 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0013df57fffc5b44",
+  "active": "c70f6832928c01a1",
   "lastOpenFiles": [
-    "Mane pavadino juokingu.md",
+    "2023-12-30/Nusipirko krč.md",
+    "2023-12-30/Užsimutino snarglys.md",
+    "2023-12-30/Gavo bobuxus.md",
+    "2023-12-30/Simas pirksis byg bloky kad pataikyt galėčiau.md",
+    "2023-12-30/Mane pavadino juokingu.md",
     "2023-12-30/Yanderio nepereina.md",
     "2023-12-30/Simas užsirašė.md",
     "2023-12-30/Nedavė muzikos ir sakė neegzistuoja tokia.md",
@@ -180,10 +176,6 @@
     "2023-12-27/Žaidėm roblox siaubo žaidimą.md",
     "2023-12-27/Žaidimui/Praėjau mantioną XD.md",
     "2023-12-27/Žaidimui/Nespėjom apiplėšt muziejaus krč.md",
-    "2023-12-27/Žaidimui/Mentas campino bazėje krč.md",
-    "2023-12-27/Žaidimui/GabasOnTop prisijungė.md",
-    "2023-12-27/Žaidimui/Apiplešėm juvelyrinę.md",
-    "2023-12-27/Simas žaidžia Brawl stars.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",

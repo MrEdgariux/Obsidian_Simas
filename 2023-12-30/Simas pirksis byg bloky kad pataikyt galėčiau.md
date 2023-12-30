@@ -1,0 +1,1 @@
+Karoče [[InsaneSimas]] pirks mini blocky karoč kad nepataiykyčiau į jį nieko bled kurva keksė [[roblox]]

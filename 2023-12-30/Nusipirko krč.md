@@ -1,0 +1,1 @@
+[[InsaneSimas]] nusipirko [[Simas pirksis byg bloky kad pataikyt galėčiau]] karoče bled aš jo nekenčiu db plyta skris jam į galva DB
