@@ -1,0 +1,1 @@
+Man [[InsaneSimas]] kątik uždavė klausimą [[T ar N]] karoče tai pasiunčiau aš jį eiti nx

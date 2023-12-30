@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1e5b1f007f87d232",
+        "id": "451e86425b862431",
         "type": "tabs",
         "children": [
           {
-            "id": "15055dd573b298d0",
+            "id": "e261597a62727e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "file": "2023-12-30/Simas parašė T ar N.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91e0b21ee28b4bee",
+            "id": "25d05ab0b116099f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-29/Žodžiu paskambino asilas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "489e9e6e2bc1139f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-29/Variau į konca.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md"
+                "file": "Untitled.md"
               }
             }
+          },
+          {
+            "id": "965df5a8582c0afa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "25d05ab0b116099f",
   "lastOpenFiles": [
-    "Simo_uzsirasom",
+    "2023-12-30/Simas parašė T ar N.md",
+    "Untitled.md",
+    "2023-12-30",
+    "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
     "2023-12-29/Žodžiu paskambino asilas.md",
     "2023-12-29/Variau į konca.md",
-    "Untitled",
-    "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+    "Simo_uzsirasom",
     "2023-12-29",
     "2023-12-28/Pavadino mane vabalu.md",
     "2023-12-27/Nuvarė simą miegot.md",
@@ -201,13 +199,11 @@
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27/Simas irgi rašysis užsirašom.md",
-    "Klauso spotify bet sako kad neklauso.md",
     "2023-12-27",
     "Untitled.canvas",
     "2023-12-26/Žaidimui",
     "Frazės/Draugai",
     "Frazės",
-    "2023-12-26",
-    "2023-12-25"
+    "2023-12-26"
   ]
 }
