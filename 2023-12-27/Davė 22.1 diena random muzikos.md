@@ -1,0 +1,1 @@
+Ne tik kad [[Random songs]] 2 karta šiandiena davė [[InsaneSimas]] bet ir da davė [[GD Lygis]] muzika blemba Tidal Wave pizda verksiu aš

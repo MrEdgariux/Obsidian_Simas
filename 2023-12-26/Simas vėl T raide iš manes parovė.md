@@ -1,0 +1,1 @@
+Nu blemba, su tuo simu visada blemba sudetinga, vis kai rašau jam kažka išdygsta [[T]] raidė iš manęs XD

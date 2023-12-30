@@ -1,0 +1,1 @@
+Ot kokia kurva, įkėliau [[Roblox žaidimas]] kur žaidžiau [[Jailbreak]] ir pasakė man [[Arūnė]] kad jei nepatiko, nepalaikino mano video ir prikomentavo karoče [[InsaneSimas]] visokių šūdu xd

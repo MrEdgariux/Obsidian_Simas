@@ -1,0 +1,2 @@
+Žodžiu padla parašė man kad eisim tuoj VC nes tipo rado [[T]] raidę šiandiena, nu taip nes [[Simas vėl T raide iš manes parovė]] o tą [[T]] raidė galioja tiek laiko, kiek yra parašyta [[T ar N]] taisyklėse.
+:(

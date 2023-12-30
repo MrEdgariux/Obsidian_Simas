@@ -1,0 +1,1 @@
+Padariau OMG o [[InsaneSimas]] ne ir 2 gavo o aš 40 points gavau omg per [[Roblox žaidimas]] [[Presentation Excerience]]

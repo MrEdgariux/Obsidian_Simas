@@ -1,0 +1,1 @@
+Sakė trinti visas man [[T ar N]] taisyklęs ir karoče dabar taip įsižeidžiau nepatiko jam kai paprašiau pasakyt ar patenkintas su jom. Zaraza

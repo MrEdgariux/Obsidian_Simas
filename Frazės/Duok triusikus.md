@@ -1,0 +1,1 @@
+Žodžiu šitas prikolas kilo kai mes su simu per [[YouTube]] radome video kur tiesiog tan bandėm nesijuokti, tai tan pasakiau "Nu duok triusikus" kai katinas bandė paimti, tai jis db erzina mane XD

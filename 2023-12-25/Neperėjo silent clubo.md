@@ -1,0 +1,1 @@
+[[InsaneSimas]] žaidė [[GD Lygis]] bet jo neperėjo net 1% snarglys o tan taip ez butu su noclipu pizda

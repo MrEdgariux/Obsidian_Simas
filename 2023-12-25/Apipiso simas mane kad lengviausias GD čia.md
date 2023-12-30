@@ -1,0 +1,1 @@
+[[InsaneSimas]] net mirė ant 17% per [[GD Lygis]] kur sakė kad lengviausias demonas tan yra, ot gaidys koks

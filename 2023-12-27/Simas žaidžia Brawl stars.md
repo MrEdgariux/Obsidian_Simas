@@ -1,0 +1,1 @@
+Žodžiu žiauriai supykau nes [[InsaneSimas]] vietoj [[GD Lygis]] lošt pradėjo kažkokįtais Brawl Stars smirda tas games vemt verčia, tulike čj sedėsiu 2h

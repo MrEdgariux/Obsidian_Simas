@@ -1,0 +1,1 @@
+Žodžiu dainuoja Million Eyes ir tan lyricsus pakeitęs esu tipo jugging me į chatgpt XD taip juokinga man ngl xd ir db padainavęs [[Dainuoja Chapa Chapa bled kurva]] dainuoja šita bled.

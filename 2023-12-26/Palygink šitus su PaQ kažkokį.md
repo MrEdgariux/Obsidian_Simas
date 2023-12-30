@@ -1,0 +1,1 @@
+Tan sakė dega čipsai tulike sedėsi 3 dienas ir negalėsi nulipt [[InsaneSimas]] bent taip sakė buvo.

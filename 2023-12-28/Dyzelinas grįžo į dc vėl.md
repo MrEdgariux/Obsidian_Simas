@@ -1,0 +1,1 @@
+Tai taip ir sakiau kad [[Dyzelinas]] grįš į discordą kai jis [[Dyzelinas paliko discord platforma]] xd

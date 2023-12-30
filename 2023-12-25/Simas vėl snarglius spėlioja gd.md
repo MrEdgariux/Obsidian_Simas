@@ -1,0 +1,1 @@
+Vėl ans paleido [[GD Quiz]] karoče nu neturi ans ką veikt [[GD Lygis]] karoče paleido zaraza per [[YouTube]] ir da [[Negirdžiu muzikos nes visa ss sharina]] bet jau sharina normaliai ans XD

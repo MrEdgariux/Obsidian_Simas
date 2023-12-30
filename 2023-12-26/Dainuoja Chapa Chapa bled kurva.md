@@ -1,0 +1,1 @@
+Karoče, man taip nepatinka tą daina, nes tiktoke labai man ją mėto su boy kissers krč ir da simas ble [[Davė chapa chapa]] ir db žino lyricsus ir erzina jis mane su ta daina... pizda

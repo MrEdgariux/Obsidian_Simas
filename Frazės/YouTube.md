@@ -1,0 +1,1 @@
+YouTube platforma vaizdo įrašams dalintis hahaha

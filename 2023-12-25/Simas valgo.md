@@ -1,0 +1,1 @@
+[[InsaneSimas]] šiuo metu per VC valgo nes rado ans [[T]] raide krč tipo ir dabar prašau kad jis atsiųstu ką valgo kvailys į snapą bet db laukiu valanda visa kol atsiųs

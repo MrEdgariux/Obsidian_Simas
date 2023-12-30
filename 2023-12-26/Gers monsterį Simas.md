@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] = Traktorius, nes jis pats taip identifyina save XD ir sakė kad jam atveš monsterį energetinį gerimą todėl labai blogas yra simas. Jis man taip pasakė per [[Paskambino snarglys]] nes mes kalbames krč xd

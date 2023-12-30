@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] neįvygdė mano prašymo ir paskambino snarglys

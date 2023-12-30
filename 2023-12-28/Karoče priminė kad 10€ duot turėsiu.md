@@ -1,0 +1,1 @@
+[[InsaneSimas]] karoče rado 2 sav senumo [[YouTube]] komentarą kur parašiau jam kad duosiu 10€ nes jis gerai perėjo [[GD Lygis]] karoče... nu tai pizda

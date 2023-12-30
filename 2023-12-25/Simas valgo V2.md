@@ -1,0 +1,1 @@
+Žodžiu mes kalbam su [[InsaneSimas]] ir buvau jau rašęs apie tai: [[Simas valgo]] tai dabar jis atsiuntė man nuotrauką į snapchat'ą kad ale valgo saldainių kalną, tai reik vat mat užsirašyt.

@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] metė [[Roblox žaidimas]] [[Presentation Excerience]] 10 pieštukų + 1 kurio net neužrašiau nes tingiu db

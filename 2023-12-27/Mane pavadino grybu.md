@@ -1,0 +1,1 @@
+[[InsaneSimas]] mane pavadino grybu per vc tai belekai užgavo dantis ir labai svaigsta nosis

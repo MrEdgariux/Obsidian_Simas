@@ -1,0 +1,1 @@
+[[InsaneSimas]] susimovė ant spyglio karoče ir mirė ant 78% kažkur ir pasipjovė ant peilio per [[GD Lygis]] akies su [[Be akių liksi snargly]] kur rašiau :)

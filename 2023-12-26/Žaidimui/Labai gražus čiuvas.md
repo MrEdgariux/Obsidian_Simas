@@ -1,0 +1,1 @@
+Atvarė kažkoki kapybara ir išėjo berašant man čia bl žaidime [[Roblox žaidimas]] [[Presentation Excerience]] xd

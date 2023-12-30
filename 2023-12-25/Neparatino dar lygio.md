@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] sako kad neparatino jo [[GD Lygis]] kurį jis čia neseniai [[GD verify]] XD ale Challange 2 neparatino jam [[Perėjo ne prie manęs]] kur, taip jam ir reik

@@ -1,0 +1,1 @@
+Tai žaidimas aišku noobe tu, snargly. :)

@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] per [[Roblox žaidimas]] [[Presentation Excerience]] nufotkino mane padla

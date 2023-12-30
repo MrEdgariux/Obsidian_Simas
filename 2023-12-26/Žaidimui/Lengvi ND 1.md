@@ -1,0 +1,1 @@
+Žodžiu padariau teisingai nd easy ir gavau 20 points per [[Presentation Excerience]] [[Roblox žaidimas]] o [[InsaneSimas]] padarė neteisingai hahaha

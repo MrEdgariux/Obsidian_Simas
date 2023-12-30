@@ -1,0 +1,1 @@
+Dyzelinas = Domantas su kuriuo retai einam vc nu bet ok xd irgi draugauja jis su [[NeonPlusX]] bei tan gyvena kur neonke.

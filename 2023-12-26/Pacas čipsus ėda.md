@@ -1,0 +1,1 @@
+Aišku [[InsaneSimas]] o kas daugiau ir sakė liežuvį nusidegins be ėdant šita šūdą tai sima pasakiau kad siunti fotke man į snapą bled senį

@@ -1,0 +1,1 @@
+Dėl to zaraza man davė tą muzika [[Davė chapa chapa]] kad karoče nes pamatė su ariana grande editą kažkokį tais, tai labai jam dėl to patiko tą muzika karoče. Šūdas tan yra ne muzika

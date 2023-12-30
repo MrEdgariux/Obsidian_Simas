@@ -1,0 +1,2 @@
+Žodžiu mes su [[InsaneSimas]] lošėm [[Roblox žaidimas]] siaubo žaidimą karoče, bet vienam šūdinam žaidime tan nieko nepadarėm 6 min palošėm ir baigės mirėm tsg ir tiek krč, šiaip šūdas jis yra.
+Dar kita siaubo žaidimą lošėm bet ok? net nebaigėm nes simą nuvarė knarkt

@@ -1,0 +1,1 @@
+Pizda [[InsaneSimas]] paimė pirma vieta žaidime [[Roblox žaidimas]] [[Presentation Excerience]] nes gavo belekiek starų

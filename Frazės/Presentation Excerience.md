@@ -1,0 +1,1 @@
+Tai yra [[Roblox žaidimas]] kuriame reik tiesiog prezentacijas pateikinėti, bet mes su simu daužomes, mėtomes tulikais, mirtimis, bezdam šikam vienas ant kito juokus darome iš taškų tai va.

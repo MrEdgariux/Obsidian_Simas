@@ -1,0 +1,1 @@
+Da sakė man [[InsaneSimas]] kad tvarkysi klasę [[Roblox žaidimas]] [[Presentation Excerience]] žaidime karoče.

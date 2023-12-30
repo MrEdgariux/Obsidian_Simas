@@ -1,0 +1,1 @@
+Žodžiu pamačiau kad simas lošia [[Roblox žaidimas]] [[Jailbreak]] karoče ir tan lošia jis ne vienas o su arūne tai viena karta kaip pisiu iš tapkes, skaudės po to

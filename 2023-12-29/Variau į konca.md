@@ -1,0 +1,1 @@
+[[InsaneSimas]] liepiau krautis čimudana ir sėstis ant savo pyrdos ir varyt į pnvz ir da su tėvais aišku savo

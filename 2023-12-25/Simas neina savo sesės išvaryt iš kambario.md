@@ -1,0 +1,2 @@
+Žodžiu karoče pas [[InsaneSimas]] sesė dainuoja labai baisiai ir kai pasakiau kad išmestum per langa atsisakė mesti per langa ir sakė paukštis neskrenda nors sakiau prieš grįžtant sesei kad išsikirpk paukšio pavidalą iš kardono ar plasmasės, prisiklijuok prie lango ir tada tik sakyk kad paukštis skrenda ir stumk per langa!
+Ot koks snarglys nepadarė taip.

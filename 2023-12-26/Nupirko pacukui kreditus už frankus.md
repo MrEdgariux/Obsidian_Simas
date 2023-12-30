@@ -1,0 +1,1 @@
+[[InsaneSimas]] Amandui nupirko 120 kreditu už frankus. Žaidime [[Minecraft]] [[McPrison.LT]] serveryje todėl reikia man užsirašyti būtinai

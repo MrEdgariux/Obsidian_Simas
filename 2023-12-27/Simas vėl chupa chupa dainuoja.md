@@ -1,0 +1,1 @@
+Vėl tą [[InsaneSimas]] [[Dainuoja Chapa Chapa bled kurva]] blemba aš nesuprantu jo... kodėl nuuuu

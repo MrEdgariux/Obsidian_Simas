@@ -1,0 +1,1 @@
+Grąsina man per [[Roblox žaidimas]] [[Presentation Excerience]] kad nužudys mane karoče, bled boba kažkokia.

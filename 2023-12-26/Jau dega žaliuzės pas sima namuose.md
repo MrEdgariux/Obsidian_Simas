@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]]  [[Pacas čipsus ėda]] ir karoče sakė kad jau pas jį žaliuzės dega namuose tai bėgu su gesintuvu pas jį į namus

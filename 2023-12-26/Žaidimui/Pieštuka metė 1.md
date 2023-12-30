@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] metė man į veidą pieštuką per [[Presentation Excerience]] [[Roblox žaidimas]] karoče, zaraza

@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] kažkoks šiandiena aklas, nes TikTok parašiau žodį bet jis nerado [[T]] raidės kažkaip hmhhm strange

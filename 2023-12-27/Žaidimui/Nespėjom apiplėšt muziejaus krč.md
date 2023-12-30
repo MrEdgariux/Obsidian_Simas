@@ -1,0 +1,1 @@
+Su [[InsaneSimas]] nespėjom apiplėšt muziejaus krč

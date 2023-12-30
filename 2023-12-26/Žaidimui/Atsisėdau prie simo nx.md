@@ -1,0 +1,1 @@
+Žodžiu prie [[InsaneSimas]] atsisėdau bled kurva nx per [[Presentation Excerience]] [[Roblox žaidimas]]

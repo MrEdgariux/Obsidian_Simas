@@ -1,0 +1,1 @@
+Vėl jis mane apšiko [[InsaneSimas]] [[Roblox žaidimas]] [[Presentation Excerience]] blemba, aš negaliu.

@@ -1,0 +1,1 @@
+Nesusikalbėjau su lenko bled sakau lt ne krč sako pzda [[Roblox žaidimas]] [[Presentation Excerience]]

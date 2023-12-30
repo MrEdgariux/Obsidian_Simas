@@ -1,0 +1,1 @@
+Žodžiu [[Dyzelinas]] paliko [[Discord]] platforma karoče, todėl dabar supykau aš labai ant jo

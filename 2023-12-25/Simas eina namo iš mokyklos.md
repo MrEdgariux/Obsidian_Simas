@@ -1,0 +1,1 @@
+Žodžiu eina [[InsaneSimas]] namo per [[GD Lygis]] karoče kur tipo eis jis tą lygį 10 minučių tipo bent jau jis taip sako, tai čia labai lengvas lygis kiek matau nes jis [[Sharina man ekrana su GD]] iki šiol

@@ -1,0 +1,2 @@
+Žodžiu [[InsaneSimas]] man vėl dalinasi ekranu kaip eina savo prakeikta [[GD Lygis]] kurio aš neprašiau kad jis rodytu rodo tipo kaip [[GD verify]] savo tą [[GD Lygis]] XD tai man visiškai neįdomu
++ dar labai lagina jo streamas tegu susitaiso kompa su plaktuku

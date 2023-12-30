@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] karoče sako, kad perka sau tuoletus prezentacijai [[Presentation Excerience]] tai labai bijau eit tan nes kai pis viena tulika į mane, vėl reiks su gūzu galvoj vaikšiot savaitę

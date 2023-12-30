@@ -1,0 +1,1 @@
+Tai veiksmas, kuris yra atliekamas per geometry dash žaidimą, patvirtinamas žaidimo lygis, kurį sukurė pats asmuo.

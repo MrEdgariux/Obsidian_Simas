@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] irgi rašys kaip ir aš tik ant  popieriaus lapo

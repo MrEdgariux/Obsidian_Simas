@@ -1,0 +1,1 @@
+Karoče mane su [[InsaneSimas]] suemė boba kažkokia tais oil rige

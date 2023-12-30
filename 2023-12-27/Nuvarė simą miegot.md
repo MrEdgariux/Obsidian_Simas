@@ -1,0 +1,1 @@
+Pagaliau tą [[InsaneSimas]] nuvarė miegot, siaubas... 23 val jau blemba, [[Roblox žaidimas]] lošėm taip ir nebaigėm xd

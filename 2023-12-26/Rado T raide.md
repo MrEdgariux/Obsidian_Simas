@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] vėl rado [[T]] raide aš nesuprantu blemba aš nesuprantu ir dabar debilas ieško, nors yra taisyklės [[T ar N]]

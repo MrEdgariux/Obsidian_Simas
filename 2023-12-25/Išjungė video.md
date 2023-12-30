@@ -1,0 +1,1 @@
+Išjungė [[GD Quiz]] [[YouTube]] video karoče ot koks [[InsaneSimas]] ir taip patiko visus [[GD Lygis]] žinojau labai lengva BUVO bet mat, paimė ir išjungė padlauskienė

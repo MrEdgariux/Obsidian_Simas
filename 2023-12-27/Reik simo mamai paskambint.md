@@ -1,0 +1,1 @@
+[[InsaneSimas]] žaidžia kaip visada [[GD Lygis]] todėl reik jo mamai paskambint, bet reik pirma tel. nr susirasti.

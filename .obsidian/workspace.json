@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4457a349ff90af8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e5b1f007f87d232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15055dd573b298d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e0b21ee28b4bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-29/Žodžiu paskambino asilas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "489e9e6e2bc1139f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-29/Variau į konca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "010fe170ce1f574c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba7a1b81b1eec1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de375df0b8bbae15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "886bb3c812a32ff2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bece4f377d2a124",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b1911995f53f609",
+    "type": "split",
+    "children": [
+      {
+        "id": "0753abbb5597d7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e51739ce04f65f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4db9c7a00d0dacc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7d7da981d871d88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e848d71cbc3e44b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-12-27/Žaidimui/Suemė mus Oil Rige.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de375df0b8bbae15",
+  "lastOpenFiles": [
+    "Simo_uzsirasom",
+    "2023-12-29/Žodžiu paskambino asilas.md",
+    "2023-12-29/Variau į konca.md",
+    "Untitled",
+    "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+    "2023-12-29",
+    "2023-12-28/Pavadino mane vabalu.md",
+    "2023-12-27/Nuvarė simą miegot.md",
+    "2023-12-27/Žaidėm roblox siaubo žaidimą.md",
+    "2023-12-27/Žaidimui/Praėjau mantioną XD.md",
+    "2023-12-27/Žaidimui/Nespėjom apiplėšt muziejaus krč.md",
+    "2023-12-27/Žaidimui/Mentas campino bazėje krč.md",
+    "2023-12-27/Žaidimui/GabasOnTop prisijungė.md",
+    "2023-12-27/Žaidimui/Apiplešėm juvelyrinę.md",
+    "2023-12-27/Simas žaidžia Brawl stars.md",
+    "2023-12-27/Simas vėl chupa chupa dainuoja.md",
+    "2023-12-27/Simas tingi rašytis 1.md",
+    "2023-12-27/Mane pavadino grybu.md",
+    "2023-12-28/Nerado T raidės simas.md",
+    "2023-12-26/Gers monsterį Simas.md",
+    "Frazės/Draugai/InsaneSimas.md",
+    "2023-12-28/Dyzelinas grįžo į dc vėl.md",
+    "2023-12-26/Žaidimui/Lengvi ND 2.md",
+    "2023-12-26/Žaidimui/Simas išrinko mane 1.md",
+    "2023-12-26/Žaidimui/Labai gražus čiuvas.md",
+    "2023-12-28/Karoče priminė kad 10€ duot turėsiu.md",
+    "2023-12-28",
+    "2023-12-27/Žaidimui",
+    "2023-12-27/Simas irgi rašysis užsirašom.md",
+    "Klauso spotify bet sako kad neklauso.md",
+    "2023-12-27",
+    "Untitled.canvas",
+    "2023-12-26/Žaidimui",
+    "Frazės/Draugai",
+    "Frazės",
+    "2023-12-26",
+    "2023-12-25"
+  ]
+}

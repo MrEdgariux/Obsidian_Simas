@@ -1,0 +1,1 @@
+Tai yra su simu tik, kad T raidė reiškia noriu VC ir leidimą skambinti.

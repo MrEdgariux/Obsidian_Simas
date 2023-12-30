@@ -1,0 +1,1 @@
+Žodžiu atvarė [[InsaneSimas]] per [[Roblox žaidimas]] [[Presentation Excerience]] ir piso man per veidą

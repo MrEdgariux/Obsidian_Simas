@@ -1,0 +1,1 @@
+Nes pacukas [[InsaneSimas]] nenori kad [[T]] baigtu galioti ir nenori kad tlf paspausčiau raudono

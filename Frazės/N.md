@@ -1,0 +1,1 @@
+N raidė yra tik su simu toks dalykas, kuris neleidžia man skambinti ir atsisakau kalbėti.

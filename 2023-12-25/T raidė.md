@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] surado [[T]] raidę tarp vakar dienos chatų ir sugalvojo, kad tai bus 6x8 (kadangi 8 T raidės vakar buvo)

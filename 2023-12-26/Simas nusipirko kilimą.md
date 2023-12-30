@@ -1,0 +1,1 @@
+Aišku [[InsaneSimas]] nusipirko šiandiena kilimą bet karoče pizda sakė fotkės nesiųs man į snapą todėl rašau šita įrašą verkiu db

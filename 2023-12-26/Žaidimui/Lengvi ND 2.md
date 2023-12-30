@@ -1,0 +1,1 @@
+Žodžiu gavau nd iš mokytojos ir gavau 20 points nes ez bv nd žaidime [[Roblox žaidimas]] [[Presentation Excerience]] su [[InsaneSimas]] kartu gavom 20 points

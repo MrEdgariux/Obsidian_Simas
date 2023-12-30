@@ -1,0 +1,1 @@
+NeonPlusX = Gediminas, kuris gyvena Vilniuje krč, ir tan studijuoja, ir labai šika į kelnes kai siaubo žaidimus einam xd

@@ -1,0 +1,1 @@
+Man [[InsaneSimas]] pagrąsino, kad be akių tuoj liksiu nes jis [[GD Lygis]] pajungė su akim krč kažkokį creepy bled tragedija čia yra XD

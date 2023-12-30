@@ -1,0 +1,1 @@
+[[InsaneSimas]] taip pasakė kad tėvu nebus iki 4 val krč tai verksiu po puodu

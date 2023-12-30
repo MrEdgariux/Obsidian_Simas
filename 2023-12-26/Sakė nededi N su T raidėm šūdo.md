@@ -1,0 +1,1 @@
+Tipo dariau aš [[T ar N]] taisykles ir norėjau įdėti taisyklę, kad jeigu daugiau N raidžių negul T tai užskaitom N raidę ir nekalbam, bet jis labai prieš buvo tą taisyklę padla.

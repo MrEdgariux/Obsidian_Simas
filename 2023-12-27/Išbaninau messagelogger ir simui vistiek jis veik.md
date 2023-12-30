@@ -1,0 +1,1 @@
+Čytas tas [[InsaneSimas]] yra message loggeri nusihackino atsibanino padla

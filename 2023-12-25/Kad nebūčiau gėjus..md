@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] surado 8 [[T]] raides vakar krč mano parašytas ir jis man skambinėjo, todėl aš parašiau kad [[InsaneSimas]] gėjus nes skambinėja man, bet jis man atrašė kad jeigu aš nenoriu toks būt tada joinini. Tai žiauriai įsižeidžiau bled.

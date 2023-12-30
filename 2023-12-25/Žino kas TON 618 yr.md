@@ -1,0 +1,1 @@
+Tai yr black hole didžiausia pasauly visatoj naxui [[InsaneSimas]] mldc perėjau tan tą [[GD Lygis]] snargly tai bent tokį žino jis xd

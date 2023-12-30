@@ -1,0 +1,1 @@
+Žodžiu pasaka iš [[Simas 5€ iš sesės prašo]] karoče gavo 5€ kaip jis sakė ir dabar man turės duot bei turės stalą susitvarkyt ans db

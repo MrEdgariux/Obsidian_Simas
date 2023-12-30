@@ -1,0 +1,1 @@
+Pokalbių moderatoriai yra daug kur naudojami, bet pagrindas iš [[McPrison.LT]] serverio krč, tsg chatą tvarko ir tiek xd

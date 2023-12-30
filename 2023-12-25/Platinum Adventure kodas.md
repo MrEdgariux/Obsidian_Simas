@@ -1,0 +1,1 @@
+000000 ale tipo [[GD Lygis]] bent jau tipo sako [[InsaneSimas]] rado tarp gd komentarų

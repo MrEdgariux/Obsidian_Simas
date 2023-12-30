@@ -1,0 +1,1 @@
+Žodžiu paskambino kol rašiau aš įrašą [[Sakė kad eisim vc]] žodžiu krč. tai db blemba nžn apie ką su juo kalbėtis su juo, sako apie pacanus kalbėsimes.

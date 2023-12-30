@@ -1,0 +1,1 @@
+Blemba, ne tik kad [[T]] raidę aš jam parašiau bet dar ir [[Random songs]] įšūkyje man davė ant viršaus Chupa Chupa Chapa Chapa klausytis naxui. Ot koks zarazininkas. O aš jam tą muzika kažkada duot norėjau.

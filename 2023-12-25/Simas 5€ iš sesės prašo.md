@@ -1,0 +1,1 @@
+Žodžiu nuo dabar jau [[Simas neina savo sesės išvaryt iš kambario]] tai iš vis bet kątik priėjo sesė ir sako susitvarkai stala bet jis atsakė duodi 5€ ot koks

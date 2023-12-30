@@ -1,0 +1,1 @@
+Padariau gavau 20t nes katės nežoliaėdės xd herbivores xd pizda naujas žodis xd ir [[InsaneSimas]] gavo 2 nes pažymėjo tą xd per [[Roblox žaidimas]] [[Presentation Excerience]]

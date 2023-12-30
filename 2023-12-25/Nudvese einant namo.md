@@ -1,0 +1,1 @@
+Žodžiu bandė pereiti [[Simas eina namo iš mokyklos]] ir karoče nudvesė ant 11% ans XD ot melagis koks jis

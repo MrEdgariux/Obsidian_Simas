@@ -1,0 +1,1 @@
+[[InsaneSimas]] vėl mane pavadino šepečiu aš nebegaliu su juo blemba

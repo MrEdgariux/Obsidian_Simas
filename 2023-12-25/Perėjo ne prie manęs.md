@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] karoče perėjo savo [[GD Lygis]] ir krč sekmingai ans [[GD verify]] savo tą lygį ir krč žiauru

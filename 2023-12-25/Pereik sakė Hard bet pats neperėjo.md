@@ -1,0 +1,1 @@
+Apipiso mane [[InsaneSimas]] sakė lengviausias hard demonas bet pats neperėjo [[GD Lygis]]

@@ -1,0 +1,1 @@
+Žodžiu 2 žmonės atsiuntė tokį pat laiška per [[Roblox žaidimas]] [[Presentation Excerience]] kad miręs esi XD nemoka rašyt xd

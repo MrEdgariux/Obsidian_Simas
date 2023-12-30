@@ -1,0 +1,1 @@
+[[McPrison.LT]] serverio sukurtas šūdas, kur apsaugo serverio kalinius pvz kontrobandas atima, sodina kalinius į kalėjimą, eina pvp ir t.t

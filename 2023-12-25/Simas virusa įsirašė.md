@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] tipo kažkokį packą resursų įsikėlė su virusu kompe ir filmora krč aptiko kaip virusą tai lėkė į antivirusinę ištrinti virusą ir atkurė trojaną tai db verkia jis po puodais XD

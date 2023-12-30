@@ -1,0 +1,1 @@
+Su  saldainiu išsipurvino [[InsaneSimas]] ir sako kad eis jam [[GD verify]] savo [[GD Lygis]] tipo jei suvalgys saldainį XD

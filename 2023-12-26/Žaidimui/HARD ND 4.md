@@ -1,0 +1,1 @@
+[[InsaneSimas]] gavo 10 ir krč aš gavau 2 iš [[Roblox žaidimas]] [[Presentation Excerience]] nes nežinojau kad po lietaus vaivorykštė atsiranda xdd

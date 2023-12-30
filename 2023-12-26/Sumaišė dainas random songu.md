@@ -1,0 +1,1 @@
+Žodžiu simas sumaišė dienas su 21 įrašė 22 ir da mane apkaltino kad aš sumaišiau ot koks zarazike tipo [[Random songs]] kuria daviau aš jam.
