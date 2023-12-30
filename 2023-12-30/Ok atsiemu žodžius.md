@@ -1,0 +1,1 @@
+[[InsaneSimas]] perėjo karoče [[Nepereina Bloodbath simas]] karoče nu ždž čytas yra nu ką padarysim ane

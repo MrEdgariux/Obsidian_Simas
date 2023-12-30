@@ -1,0 +1,1 @@
+[[InsaneSimas]] yra šūdinas ant [[GD Lygis]] karoče ir toks nemokša

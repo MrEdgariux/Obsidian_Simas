@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "057a740e102d9fbb",
+        "id": "77d36f4b849739ac",
         "type": "tabs",
         "children": [
           {
-            "id": "dda454487892448b",
+            "id": "52d314184fe3b17f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,10 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dda454487892448b",
+  "active": "52d314184fe3b17f",
   "lastOpenFiles": [
-    "Nepereina Bloodbath simas.md",
-    "Pasiuntė kažka šikt.md",
+    "2023-12-30/Nusipirko čytus ant naujo GD.md",
+    "2023-12-30/Nepereina Bloodbath simas.md",
+    "2023-12-30/Ok atsiemu žodžius.md",
+    "2023-12-30/Pasiuntė kažka šikt.md",
+    "2023-12-30/Noobas ant gd.md",
     "2023-12-30/Simas žada sharint ekranioka.md",
     "2023-12-30/Simas parašė T ar N.md",
     "Karoče simas paskambino nes tipo rado T raide.md",
@@ -173,9 +176,6 @@
     "2023-12-28/Nerado T raidės simas.md",
     "2023-12-26/Gers monsterį Simas.md",
     "Frazės/Draugai/InsaneSimas.md",
-    "2023-12-28/Dyzelinas grįžo į dc vėl.md",
-    "2023-12-26/Žaidimui/Lengvi ND 2.md",
-    "2023-12-26/Žaidimui/Simas išrinko mane 1.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",

@@ -1,0 +1,1 @@
+Pizda [[InsaneSimas]] galvojau kad jau GD be čytu lošia naxui bet ne bled su čytais lošia ot kokia žėrtva yra jis
