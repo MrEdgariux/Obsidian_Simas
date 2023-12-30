@@ -1,0 +1,1 @@
+Karoče [[InsaneSimas]] paskambino, tipo rado [[T]] raidę mano sakinyje kur [[Simas parašė T ar N]] pasakojau :(

@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "Atsarginė kopija įkelta: {{date}} | {{numFiles}} buvo pakeista"
+  "autoCommitMessage": "Atsarginė kopija įkelta: {{date}}"
 }

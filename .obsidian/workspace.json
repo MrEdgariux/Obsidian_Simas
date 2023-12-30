@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "451e86425b862431",
+        "id": "0bef65704251ca48",
         "type": "tabs",
         "children": [
           {
-            "id": "e261597a62727e38",
+            "id": "64db1b07fe3a8efa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-30/Simas parašė T ar N.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d05ab0b116099f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25d05ab0b116099f",
+  "active": "64db1b07fe3a8efa",
   "lastOpenFiles": [
     "2023-12-30/Simas parašė T ar N.md",
-    "Untitled.md",
+    "Karoče simas paskambino nes tipo rado T raide.md",
     "2023-12-30",
     "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
     "2023-12-29/Žodžiu paskambino asilas.md",
