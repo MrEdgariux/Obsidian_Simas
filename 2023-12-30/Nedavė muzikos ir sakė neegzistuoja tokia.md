@@ -1,0 +1,1 @@
+Karoče [[InsaneSimas]] nenori duoti muzikos ir jeigu jam užsiminsiu apie ją tai pradės [[Dainuoja Chapa Chapa bled kurva]] čiujovai krč
