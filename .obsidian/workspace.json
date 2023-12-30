@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77d36f4b849739ac",
+        "id": "ebd7371531bf4d5c",
         "type": "tabs",
         "children": [
           {
-            "id": "52d314184fe3b17f",
+            "id": "998d07cc8c132b69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d314184fe3b17f",
+  "active": "998d07cc8c132b69",
   "lastOpenFiles": [
+    "2023-12-30/MIRĖ TOWERYJE.md",
+    "2023-12-30/Simas pavadino gd lygi šūdinu.md",
     "2023-12-30/Nusipirko čytus ant naujo GD.md",
     "2023-12-30/Nepereina Bloodbath simas.md",
     "2023-12-30/Ok atsiemu žodžius.md",
@@ -174,8 +176,6 @@
     "2023-12-27/Simas tingi rašytis 1.md",
     "2023-12-27/Mane pavadino grybu.md",
     "2023-12-28/Nerado T raidės simas.md",
-    "2023-12-26/Gers monsterį Simas.md",
-    "Frazės/Draugai/InsaneSimas.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",

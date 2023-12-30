@@ -1,0 +1,1 @@
+Nes [[InsaneSimas]] [[GD Lygis]] karoče jam sunkus snarglys 18 attempts perėjo XD the tower krč bandys tik db
