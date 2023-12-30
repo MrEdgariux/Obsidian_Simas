@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f715ab5af8101a2",
+        "id": "057a740e102d9fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "5a63956599de859d",
+            "id": "dda454487892448b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nepereina Bloodbath simas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nepereina Bloodbath simas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nepereina Bloodbath simas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nepereina Bloodbath simas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a63956599de859d",
+  "active": "dda454487892448b",
   "lastOpenFiles": [
     "Nepereina Bloodbath simas.md",
     "Pasiuntė kažka šikt.md",
