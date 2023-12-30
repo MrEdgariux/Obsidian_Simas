@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e024bc2fb2518cb",
+        "id": "7f715ab5af8101a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4cce6b1882bfda48",
+            "id": "5a63956599de859d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nepereina Bloodbath simas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nepereina Bloodbath simas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nepereina Bloodbath simas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nepereina Bloodbath simas.md"
+              }
             }
           },
           {
@@ -145,8 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "5a63956599de859d",
   "lastOpenFiles": [
+    "Nepereina Bloodbath simas.md",
+    "Pasiuntė kažka šikt.md",
     "2023-12-30/Simas žada sharint ekranioka.md",
     "2023-12-30/Simas parašė T ar N.md",
     "Karoče simas paskambino nes tipo rado T raide.md",
@@ -174,8 +184,6 @@
     "2023-12-28/Dyzelinas grįžo į dc vėl.md",
     "2023-12-26/Žaidimui/Lengvi ND 2.md",
     "2023-12-26/Žaidimui/Simas išrinko mane 1.md",
-    "2023-12-26/Žaidimui/Labai gražus čiuvas.md",
-    "2023-12-28/Karoče priminė kad 10€ duot turėsiu.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",

@@ -1,0 +1,1 @@
+Žodžiu kątik [[InsaneSimas]] pasiuntė kažkokį žmogų šikt. Ir išjungė [[Simas žada sharint ekranioka]] XD
