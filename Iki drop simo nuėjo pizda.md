@@ -1,5 +1,0 @@
-- [x] Simas nuėjo iki dropo
-- [x] Nueita 2 kartą
-- [x] Nueita 3 kartą
-- [x] Nueita 4 kartą
-- [ ] Nueita 5 kartus

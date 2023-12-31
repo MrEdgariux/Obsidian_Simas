@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd87abf622727192",
+        "id": "5ced7982551d8787",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b1c5dacaf15de8",
+            "id": "698aece37bbd616a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-30/Nepereina Bloodbath simas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-30/Nepereina Bloodbath simas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-30/Nepereina Bloodbath simas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-30/Nepereina Bloodbath simas.md"
+              }
             }
           },
           {
@@ -146,14 +154,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6b1c5dacaf15de8",
+  "active": "698aece37bbd616a",
   "lastOpenFiles": [
+    "2023-12-31/Broken Rouette Mirtys.md",
+    "Iki drop simas nuėjo pizda.md",
     "2023-12-31/Simo mirtys.md",
     "Frazės/GD Lygis.md",
     "2023-12-31/Simo mirtys 1.md",
-    "Iki drop simo nuėjo pizda.md",
-    "Broken Rouette Mirtys.md",
-    "Alien invasion Mirtys.md",
+    "2023-12-31/Alien invasion Mirtys.md",
     "Templates/Day x.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas",
