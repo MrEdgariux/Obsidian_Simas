@@ -11,11 +11,10 @@
             "id": "8644808899814571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Frazės/Random songs.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frazės/Random songs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,12 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "8644808899814571",
   "lastOpenFiles": [
+    "2023-12-30/MIRĖ TOWERYJE.md",
+    "Frazės/Random songs.md",
     "Frazės/Random Songs/Day 10.md",
     "Frazės/Random Songs/Day 9.md",
     "Frazės/Random Songs/Day 8.md",
-    "Frazės/Random songs.md",
     "Frazės/Random Songs/Day 7.md",
     "Frazės/Random Songs/Day 6.1.md",
     "Frazės/Random Songs/Day 6.md",
@@ -188,7 +184,6 @@
     "2023-12-30/Yanderio nepereina.md",
     "2023-12-30/Simas užsirašė.md",
     "2023-12-30/Nedavė muzikos ir sakė neegzistuoja tokia.md",
-    "2023-12-30/MIRĖ TOWERYJE.md",
     "2023-12-30/Simas pavadino gd lygi šūdinu.md",
     "2023-12-30/Nusipirko čytus ant naujo GD.md",
     "2023-12-30/Nepereina Bloodbath simas.md",
