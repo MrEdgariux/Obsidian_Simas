@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "693f94297adfc06c",
+        "id": "ad6e8826a1e33b00",
         "type": "tabs",
         "children": [
           {
-            "id": "8644808899814571",
+            "id": "881c3ae3942f3187",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "2023-12-27/Davė 22.1 diena random muzikos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -79,33 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e51739ce04f65f2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4db9c7a00d0dacc9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d7d7da981d871d88",
             "type": "leaf",
             "state": {
@@ -117,31 +91,45 @@
             }
           },
           {
-            "id": "0e848d71cbc3e44b",
+            "id": "5ad0f1d81f768c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-12-27/Davė 22.1 diena random muzikos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "007f09e6cb138328",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-12-27/Davė 22.1 diena random muzikos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53fee56a5f71d1bf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "965df5a8582c0afa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f1e88978e5ac22c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {
+                "file": "2023-12-27/Davė 22.1 diena random muzikos.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,8 +145,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8644808899814571",
+  "active": "d7d7da981d871d88",
   "lastOpenFiles": [
+    "Frazės/Untitled.canvas",
     "2023-12-30/MIRĖ TOWERYJE.md",
     "Frazės/Random songs.md",
     "Frazės/Random Songs/Day 10.md",
@@ -186,14 +175,12 @@
     "2023-12-30/Nedavė muzikos ir sakė neegzistuoja tokia.md",
     "2023-12-30/Simas pavadino gd lygi šūdinu.md",
     "2023-12-30/Nusipirko čytus ant naujo GD.md",
-    "2023-12-30/Nepereina Bloodbath simas.md",
     "2023-12-30",
     "Simo_uzsirasom",
     "2023-12-29",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",
-    "Untitled.canvas",
     "2023-12-26/Žaidimui",
     "Frazės/Draugai"
   ]

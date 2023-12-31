@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a61cafb5995654a1","x":-660,"y":-160,"width":250,"height":60,"type":"text","text":"2023 XD"},
+		{"id":"262d546aa175cb5c","x":-377,"y":-160,"width":250,"height":60,"type":"text","text":"2024 XD"}
+	],
+	"edges":[
+		{"id":"a609689fe33fbeef","fromNode":"a61cafb5995654a1","fromSide":"right","toNode":"262d546aa175cb5c","toSide":"left"}
+	]
+}
