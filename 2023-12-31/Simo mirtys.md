@@ -59,14 +59,43 @@ Karoče simas:
 - [x] Mirė 58 kartus
 - [x] Mirė 59 kartus
 - [x] Mirė 60 kartų
-- [ ] Mirė 61 kartą
-- [ ] Mirė 62 lartus
-- [ ] Mirė 63 kartus
-- [ ] Mirė 64 kartus
-- [ ] Mirė 65 kartus
-- [ ] Mirė 66 kartus
-- [ ] Mirė 67 kartus
-- [ ] Mirė 68 kartus
+- [x] Mirė 61 kartą
+- [x] Mirė 62 lartus
+- [x] Mirė 63 kartus
+- [x] Mirė 64 kartus
+- [x] Mirė 65 kartus
+- [x] Mirė 66 kartus
+- [x] Mirė 67 kartus
+- [x] Mirė 68 kartus
 - [ ] Mirė 69 kartus
 - [ ] Mirė 70 kartų
 - [ ] Mirė 71 kartą
+- [ ] Mirė 72 kartus
+- [ ] Mirė 73 kartus
+- [ ] Mirė 74 kartus
+- [ ] Mirė 75 kartus
+- [ ] Mirė 76 kartus
+- [ ] Mirė 77 kartus
+- [ ] Mirė 78 kartus
+- [ ] Mirė 79 kartus
+- [ ] Mirė 80 kartų
+- [ ] Mirė 81 kartą
+- [ ] Mirė 82 kartus
+- [ ] Mirė 83 kartus
+- [ ] Mirė 84 kartus
+- [ ] Mirė 85 kartus
+- [ ] Mirė 86 kartus
+- [ ] Mirė 87 kartus
+- [ ] Mirė 88 kartus
+- [ ] Mirė 89 kartus
+- [ ] Mirė 90 kartų
+- [ ] Mirė 91 kartą
+- [ ] Mirė 92 kartus
+- [ ] Mirė 93 kartus
+- [ ] Mirė 94 kartus
+- [ ] Mirė 95 kartus
+- [ ] Mirė 96 kartus
+- [ ] Mirė 97 kartus
+- [ ] Mirė 98 kartus
+- [ ] Mirė 99 kartus
+- [ ] Mirė 1
