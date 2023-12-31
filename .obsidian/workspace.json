@@ -11,8 +11,12 @@
             "id": "c70f6832928c01a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Random Songs/Day 6.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2b1911995f53f609",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Random Songs/Day 6.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Random Songs/Day 6.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Random Songs/Day 6.1.md"
+              }
             }
           },
           {
@@ -128,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4f1e88978e5ac22c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -142,11 +158,27 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c70f6832928c01a1",
   "lastOpenFiles": [
+    "Random Songs/Day 7.md",
+    "Random Songs/Day 9.md",
+    "Random Songs/Day 8.md",
+    "Random Songs/Day 6.1.md",
+    "Random Songs/Day 6.md",
+    "Random Songs/Day 5.md",
+    "Random Songs/Day 4.md",
+    "Random Songs/Day 3.md",
+    "Random Songs/Day 2.md",
+    "Random Songs/Day 1.md",
+    "Random songs.md",
+    "Templates/Day x.md",
+    "Templates",
+    "Random Songs",
+    "Random Songs.md",
     "2023-12-30/Nusipirko krč.md",
     "2023-12-30/Užsimutino snarglys.md",
     "2023-12-30/Gavo bobuxus.md",
@@ -160,29 +192,14 @@
     "2023-12-30/Nusipirko čytus ant naujo GD.md",
     "2023-12-30/Nepereina Bloodbath simas.md",
     "2023-12-30/Ok atsiemu žodžius.md",
-    "2023-12-30/Pasiuntė kažka šikt.md",
-    "2023-12-30/Noobas ant gd.md",
-    "2023-12-30/Simas žada sharint ekranioka.md",
-    "2023-12-30/Simas parašė T ar N.md",
-    "Karoče simas paskambino nes tipo rado T raide.md",
     "2023-12-30",
-    "2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
-    "2023-12-29/Žodžiu paskambino asilas.md",
-    "2023-12-29/Variau į konca.md",
     "Simo_uzsirasom",
     "2023-12-29",
-    "2023-12-28/Pavadino mane vabalu.md",
-    "2023-12-27/Nuvarė simą miegot.md",
-    "2023-12-27/Žaidėm roblox siaubo žaidimą.md",
-    "2023-12-27/Žaidimui/Praėjau mantioną XD.md",
-    "2023-12-27/Žaidimui/Nespėjom apiplėšt muziejaus krč.md",
     "2023-12-28",
     "2023-12-27/Žaidimui",
     "2023-12-27",
     "Untitled.canvas",
     "2023-12-26/Žaidimui",
-    "Frazės/Draugai",
-    "Frazės",
-    "2023-12-26"
+    "Frazės/Draugai"
   ]
 }
