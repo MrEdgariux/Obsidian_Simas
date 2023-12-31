@@ -1,0 +1,1 @@
+[[T ar N]] parašė [[InsaneSimas]] karoče ir rado [[T]] raidę karoče tai labai supykau

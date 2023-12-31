@@ -1,0 +1,72 @@
+Karoče simas:
+- [x] Mirė 1 kartą
+- [x] Mirė 2 kartus
+- [x] Mirė 3 kartus
+- [x] Mirė 4 kartus
+- [x] Mirė 5 kartus
+- [x] Mirė 6 kartus
+- [x] Mirė 7 kartus
+- [x] Mirė 8 kartus
+- [x] Mirė 9 kartus
+- [x] Mirė 10 kartus
+- [x] Mirė 11 kartų
+- [x] Mirė 12 kartų
+- [x] Mirė 13 kartų
+- [x] Mirė 14 kartų
+- [x] Mirė 15 kartų
+- [x] Mirė 16 kartų
+- [x] Mirė 17 kartų
+- [x] Mirė 18 kartų
+- [x] Mirė 19 kartų
+- [x] Mirė 20 kartų
+- [x] Mirė 21 kartų
+- [x] Mirė 22 kartus
+- [x] Mirė 23 kartus
+- [x] Mirė 24 kartus
+- [x] Mirė 25 kartus
+- [x] Mirė 26 kartus
+- [x] Mirė 27 kartus
+- [x] Mirė 28 kartus
+- [x] Mirė 29 kartus
+- [x] Mirė 30 kartų
+- [x] Mirė 31 kartą
+- [x] Mirė 32 kartus
+- [x] Mirė 33 kartus
+- [x] Mirė 34 kartus
+- [x] Mirė 35 kartus
+- [x] Mirė 36 kartus
+- [x] Mirė 37 kartus
+- [x] Mirė 38 kartus
+- [x] Mirė 39 kartus
+- [x] Mirė 40 kartų
+- [x] Mirė 41 kartą
+- [x] Mirė 42 kartus
+- [x] Mirė 43 kartus
+- [x] Mirė 44 kartus
+- [x] Mirė 45 kartus
+- [x] Mirė 46 kartus
+- [x] Mirė 47 kartus
+- [x] Mirė 48 kartus
+- [x] Mirė 49 kartus
+- [x] Mirė 50 kartų
+- [x] Mirė 51 kartą
+- [x] Mirė 52 kartus
+- [x] Mirė 53 kartus
+- [x] Mirė 54 kartus
+- [x] Mirė 55 kartus
+- [x] Mirė 56 kartus
+- [x] Mirė 57 kartus
+- [x] Mirė 58 kartus
+- [x] Mirė 59 kartus
+- [x] Mirė 60 kartų
+- [ ] Mirė 61 kartą
+- [ ] Mirė 62 lartus
+- [ ] Mirė 63 kartus
+- [ ] Mirė 64 kartus
+- [ ] Mirė 65 kartus
+- [ ] Mirė 66 kartus
+- [ ] Mirė 67 kartus
+- [ ] Mirė 68 kartus
+- [ ] Mirė 69 kartus
+- [ ] Mirė 70 kartų
+- [ ] Mirė 71 kartą

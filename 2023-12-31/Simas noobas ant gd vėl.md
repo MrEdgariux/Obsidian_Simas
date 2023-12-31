@@ -1,0 +1,1 @@
+[[InsaneSimas]] lošia [[GD Lygis]] karoče ir man vėl [[Simas sharina ekrana]] ir žuodžiu neturi jis ką veikt rodo man vis
