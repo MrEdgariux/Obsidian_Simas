@@ -1,4 +1,4 @@
-Karoče [[InsaneSimas]] ant [[GD Lygis]]:
+Karoče [[InsaneSimas]] ant [[GD Lygis |Gd Lygių]]:
 - [x] Mirė 1 kartą
 - [x] Mirė 2 kartus
 - [x] Mirė 3 kartus
@@ -99,7 +99,6 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [x] Mirė 98 kartus
 - [x] Mirė 99 kartus
 - [x] Mirė 100 kartų
----
 - [x] Mirė 101 kartą
 - [x] Mirė 102 kartus
 - [x] Mirė 103 kartus
@@ -134,7 +133,6 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [x] Mirė 132 kartų
 - [x] Mirė 133 kartų
 - [x] Mirė 134 kartų
----
 - [x] Mirė 135 kartų
 - [x] Mirė 136 kartų
 - [x] Mirė 137 kartų
@@ -157,7 +155,6 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [x] Mirė 154 kartų
 - [x] Mirė 155 kartų
 - [x] Mirė 156 kartų
----
 - [x] Mirė 157 kartų
 - [x] Mirė 158 kartų
 - [x] Mirė 159 kartų
@@ -212,93 +209,393 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [x] Mirė 208 kartų
 - [x] Mirė 209 kartų
 - [x] Mirė 210 kartų
-- [ ] Mirė 211 kartų
-- [ ] Mirė 212 kartų
-- [ ] Mirė 213 kartų
-- [ ] Mirė 214 kartų
-- [ ] Mirė 215 kartų
-- [ ] Mirė 216 kartų
-- [ ] Mirė 217 kartų
-- [ ] Mirė 218 kartų
-- [ ] Mirė 219 kartų
-- [ ] Mirė 220 kartų
-- [ ] Mirė 221 kartų
-- [ ] Mirė 222 kartų
-- [ ] Mirė 223 kartų
-- [ ] Mirė 224 kartų
-- [ ] Mirė 225 kartų
-- [ ] Mirė 226 kartų
-- [ ] Mirė 227 kartų
-- [ ] Mirė 228 kartų
-- [ ] Mirė 229 kartų
-- [ ] Mirė 230 kartų
-- [ ] Mirė 231 kartų
-- [ ] Mirė 232 kartų
-- [ ] Mirė 233 kartų
-- [ ] Mirė 234 kartų
-- [ ] Mirė 235 kartų
-- [ ] Mirė 236 kartų
-- [ ] Mirė 237 kartų
-- [ ] Mirė 238 kartų
-- [ ] Mirė 239 kartų
-- [ ] Mirė 240 kartų
-- [ ] Mirė 241 kartų
-- [ ] Mirė 242 kartų
-- [ ] Mirė 243 kartų
-- [ ] Mirė 244 kartų
-- [ ] Mirė 245 kartų
-- [ ] Mirė 246 kartų
-- [ ] Mirė 247 kartų
-- [ ] Mirė 248 kartų
-- [ ] Mirė 249 kartų
-- [ ] Mirė 250 kartų
-- [ ] Mirė 251 kartų
-- [ ] Mirė 252 kartų
-- [ ] Mirė 253 kartų
-- [ ] Mirė 254 kartų
-- [ ] Mirė 255 kartų
-- [ ] Mirė 256 kartų
-- [ ] Mirė 257 kartų
-- [ ] Mirė 258 kartų
-- [ ] Mirė 259 kartų
-- [ ] Mirė 260 kartų
-- [ ] Mirė 261 kartų
-- [ ] Mirė 262 kartų
-- [ ] Mirė 263 kartų
-- [ ] Mirė 264 kartų
-- [ ] Mirė 265 kartų
-- [ ] Mirė 266 kartų
-- [ ] Mirė 267 kartų
-- [ ] Mirė 268 kartų
-- [ ] Mirė 269 kartų
-- [ ] Mirė 270 kartų
-- [ ] Mirė 271 kartų
-- [ ] Mirė 272 kartų
-- [ ] Mirė 273 kartų
-- [ ] Mirė 274 kartų
-- [ ] Mirė 275 kartų
-- [ ] Mirė 276 kartų
-- [ ] Mirė 277 kartų
-- [ ] Mirė 278 kartų
-- [ ] Mirė 279 kartų
-- [ ] Mirė 280 kartų
-- [ ] Mirė 281 kartų
-- [ ] Mirė 282 kartų
-- [ ] Mirė 283 kartų
-- [ ] Mirė 284 kartų
-- [ ] Mirė 285 kartų
-- [ ] Mirė 286 kartų
-- [ ] Mirė 287 kartų
-- [ ] Mirė 288 kartų
-- [ ] Mirė 289 kartų
-- [ ] Mirė 290 kartų
-- [ ] Mirė 291 kartų
-- [ ] Mirė 292 kartų
-- [ ] Mirė 293 kartų
-- [ ] Mirė 294 kartų
-- [ ] Mirė 295 kartų
-- [ ] Mirė 296 kartų
-- [ ] Mirė 297 kartų
-- [ ] Mirė 298 kartų
-- [ ] Mirė 299 kartų
-- [ ] Mirė 300 kartų
+- [x] Mirė 211 kartų
+- [x] Mirė 212 kartų  
+- [x] Mirė 213 kartų
+- [x] Mirė 214 kartų
+- [x] Mirė 215 kartų
+- [x] Mirė 216 kartų
+- [x] Mirė 217 kartų
+- [x] Mirė 218 kartų
+- [x] Mirė 219 kartų
+- [x] Mirė 220 kartų
+- [x] Mirė 221 kartų
+- [x] Mirė 222 kartų
+- [x] Mirė 223 kartų
+- [x] Mirė 224 kartų
+- [x] Mirė 225 kartų
+- [x] Mirė 226 kartų
+- [x] Mirė 227 kartų
+- [x] Mirė 228 kartų
+- [x] Mirė 229 kartų
+- [x] Mirė 230 kartų
+- [x] Mirė 231 kartų
+- [x] Mirė 232 kartų
+- [x] Mirė 233 kartų
+- [x] Mirė 234 kartų
+- [x] Mirė 235 kartų
+- [x] Mirė 236 kartų
+- [x] Mirė 237 kartų
+- [x] Mirė 238 kartų
+- [x] Mirė 239 kartų
+- [x] Mirė 240 kartų
+- [x] Mirė 241 kartų
+- [x] Mirė 242 kartų
+- [x] Mirė 243 kartų
+- [x] Mirė 244 kartų
+- [x] Mirė 245 kartų
+- [x] Mirė 246 kartų
+- [x] Mirė 247 kartų
+- [x] Mirė 248 kartų
+- [x] Mirė 249 kartų
+- [x] Mirė 250 kartų
+- [x] Mirė 251 kartų
+- [x] Mirė 252 kartų
+- [x] Mirė 253 kartų
+- [x] Mirė 254 kartų
+- [x] Mirė 255 kartų
+- [x] Mirė 256 kartų
+- [x] Mirė 257 kartų
+- [x] Mirė 258 kartų
+- [x] Mirė 259 kartų
+- [x] Mirė 260 kartų
+- [x] Mirė 261 kartų
+- [x] Mirė 262 kartų
+- [x] Mirė 263 kartų
+- [x] Mirė 264 kartų
+- [x] Mirė 265 kartų
+- [x] Mirė 266 kartų
+- [x] Mirė 267 kartų
+- [x] Mirė 268 kartų
+- [x] Mirė 269 kartų
+- [x] Mirė 270 kartų
+- [x] Mirė 271 kartų
+- [x] Mirė 272 kartų
+- [x] Mirė 273 kartų
+- [x] Mirė 274 kartų
+- [x] Mirė 275 kartų
+- [x] Mirė 276 kartų
+- [x] Mirė 277 kartų
+- [x] Mirė 278 kartų
+- [x] Mirė 279 kartų
+- [x] Mirė 280 kartų
+- [x] Mirė 281 kartų
+- [x] Mirė 282 kartų
+- [x] Mirė 283 kartų
+- [x] Mirė 284 kartų
+- [x] Mirė 285 kartų
+- [x] Mirė 286 kartų
+- [x] Mirė 287 kartų
+- [x] Mirė 288 kartų
+- [x] Mirė 289 kartų
+- [x] Mirė 290 kartų
+- [x] Mirė 291 kartų
+- [x] Mirė 292 kartų
+- [x] Mirė 293 kartų
+- [x] Mirė 294 kartų
+- [x] Mirė 295 kartų
+- [x] Mirė 296 kartų
+- [x] Mirė 297 kartų
+- [x] Mirė 298 kartų
+- [x] Mirė 299 kartų
+- [x] Mirė 300 kartų
+- [x] Mirė 301 kartų
+- [x] Mirė 302 kartų
+- [x] Mirė 303 kartų
+- [x] Mirė 304 kartų
+- [x] Mirė 305 kartų
+- [x] Mirė 306 kartų
+- [x] Mirė 307 kartų
+- [x] Mirė 308 kartų
+- [x] Mirė 309 kartų
+- [x] Mirė 310 kartų
+- [x] Mirė 311 kartų
+- [x] Mirė 312 kartų
+- [x] Mirė 313 kartų
+- [x] Mirė 314 kartų
+- [x] Mirė 315 kartų
+- [x] Mirė 316 kartų
+- [x] Mirė 317 kartų
+- [x] Mirė 318 kartų
+- [x] Mirė 319 kartų
+- [x] Mirė 320 kartų
+- [x] Mirė 321 kartų
+- [x] Mirė 322 kartų
+- [x] Mirė 323 kartų
+- [x] Mirė 324 kartų
+- [x] Mirė 325 kartų
+- [x] Mirė 326 kartų
+- [x] Mirė 327 kartų
+- [x] Mirė 328 kartų
+- [x] Mirė 329 kartų
+- [x] Mirė 330 kartų
+- [x] Mirė 331 kartų
+- [x] Mirė 332 kartų
+- [x] Mirė 333 kartų
+- [x] Mirė 334 kartų
+- [x] Mirė 335 kartų
+- [x] Mirė 336 kartų
+- [x] Mirė 337 kartų
+- [x] Mirė 338 kartų
+- [x] Mirė 339 kartų
+- [x] Mirė 340 kartų
+- [x] Mirė 341 kartų
+- [x] Mirė 342 kartų
+- [x] Mirė 343 kartų
+- [x] Mirė 344 kartų
+- [x] Mirė 345 kartų
+- [x] Mirė 346 kartų
+- [x] Mirė 347 kartų
+- [x] Mirė 348 kartų
+- [x] Mirė 349 kartų
+- [x] Mirė 350 kartų
+- [x] Mirė 351 kartų
+- [x] Mirė 352 kartų
+- [x] Mirė 353 kartų
+- [x] Mirė 354 kartų
+- [x] Mirė 355 kartų
+- [x] Mirė 356 kartų
+- [x] Mirė 357 kartų
+- [x] Mirė 358 kartų
+- [x] Mirė 359 kartų
+- [x] Mirė 360 kartų
+- [x] Mirė 361 kartų
+- [x] Mirė 362 kartų
+- [x] Mirė 363 kartų
+- [x] Mirė 364 kartų
+- [x] Mirė 365 kartų
+- [x] Mirė 366 kartų
+- [x] Mirė 367 kartų
+- [x] Mirė 368 kartų
+- [x] Mirė 369 kartų
+- [x] Mirė 370 kartų
+- [x] Mirė 371 kartų
+- [x] Mirė 372 kartų
+- [x] Mirė 373 kartų
+- [x] Mirė 374 kartų
+- [x] Mirė 375 kartų
+- [x] Mirė 376 kartų
+- [x] Mirė 377 kartų
+- [x] Mirė 378 kartų
+- [x] Mirė 379 kartų
+- [x] Mirė 380 kartų
+- [x] Mirė 381 kartų
+- [x] Mirė 382 kartų
+- [x] Mirė 383 kartų
+- [x] Mirė 384 kartų
+- [x] Mirė 385 kartų
+- [x] Mirė 386 kartų
+- [x] Mirė 387 kartų
+- [x] Mirė 388 kartų
+- [x] Mirė 389 kartų
+- [x] Mirė 390 kartų
+- [x] Mirė 391 kartų
+- [x] Mirė 392 kartų
+- [x] Mirė 393 kartų
+- [x] Mirė 394 kartų
+- [x] Mirė 395 kartų
+- [x] Mirė 396 kartų
+- [x] Mirė 397 kartų
+- [x] Mirė 398 kartų
+- [x] Mirė 399 kartų
+- [x] Mirė 400 kartų
+- [x] Mirė 401 kartų
+- [x] Mirė 402 kartų
+- [x] Mirė 403 kartų
+- [x] Mirė 404 kartų
+- [x] Mirė 405 kartų
+- [x] Mirė 406 kartų
+- [x] Mirė 407 kartų
+- [x] Mirė 408 kartų
+- [x] Mirė 409 kartų
+- [x] Mirė 410 kartų
+- [x] Mirė 411 kartų
+- [x] Mirė 412 kartų
+- [x] Mirė 413 kartų
+- [x] Mirė 414 kartų
+- [x] Mirė 415 kartų
+- [x] Mirė 416 kartų
+- [x] Mirė 417 kartų
+- [x] Mirė 418 kartų
+- [x] Mirė 419 kartų
+- [x] Mirė 420 kartų
+- [x] Mirė 421 kartų
+- [x] Mirė 422 kartų
+- [x] Mirė 423 kartų
+- [x] Mirė 424 kartų
+- [x] Mirė 425 kartų
+- [x] Mirė 426 kartų
+- [x] Mirė 427 kartų
+- [x] Mirė 428 kartų
+- [x] Mirė 429 kartų
+- [x] Mirė 430 kartų
+- [x] Mirė 431 kartų
+- [x] Mirė 432 kartų
+- [x] Mirė 433 kartų
+- [x] Mirė 434 kartų
+- [x] Mirė 435 kartų
+- [x] Mirė 436 kartų
+- [x] Mirė 437 kartų
+- [x] Mirė 438 kartų
+- [x] Mirė 439 kartų
+- [x] Mirė 440 kartų
+- [x] Mirė 441 kartų
+- [x] Mirė 442 kartų
+- [x] Mirė 443 kartų
+- [x] Mirė 444 kartų
+- [x] Mirė 445 kartų
+- [x] Mirė 446 kartų
+- [x] Mirė 447 kartų
+- [x] Mirė 448 kartų
+- [x] Mirė 449 kartų
+- [x] Mirė 450 kartų
+- [x] Mirė 451 kartų
+- [x] Mirė 452 kartų
+- [x] Mirė 453 kartų
+- [x] Mirė 454 kartų
+- [x] Mirė 455 kartų
+- [x] Mirė 456 kartų
+- [x] Mirė 457 kartų
+- [x] Mirė 458 kartų
+- [x] Mirė 459 kartų
+- [x] Mirė 460 kartų
+- [x] Mirė 461 kartų
+- [x] Mirė 462 kartų
+- [x] Mirė 463 kartų
+- [x] Mirė 464 kartų
+- [x] Mirė 465 kartų
+- [x] Mirė 466 kartų
+- [x] Mirė 467 kartų
+- [x] Mirė 468 kartų
+- [x] Mirė 469 kartų
+- [x] Mirė 470 kartų
+- [x] Mirė 471 kartų
+- [x] Mirė 472 kartų
+- [x] Mirė 473 kartų
+- [x] Mirė 474 kartų
+- [x] Mirė 475 kartų
+- [x] Mirė 476 kartų
+- [x] Mirė 477 kartų
+- [x] Mirė 478 kartų
+- [x] Mirė 479 kartų
+- [x] Mirė 480 kartų
+- [x] Mirė 481 kartų
+- [x] Mirė 482 kartų
+- [x] Mirė 483 kartų
+- [x] Mirė 484 kartų
+- [x] Mirė 485 kartų
+- [x] Mirė 486 kartų
+- [x] Mirė 487 kartų
+- [x] Mirė 488 kartų
+- [x] Mirė 489 kartų
+- [x] Mirė 490 kartų
+- [x] Mirė 491 kartų
+- [x] Mirė 492 kartų
+- [x] Mirė 493 kartų
+- [x] Mirė 494 kartų
+- [x] Mirė 495 kartų
+- [x] Mirė 496 kartų
+- [x] Mirė 497 kartų
+- [x] Mirė 498 kartų
+- [x] Mirė 499 kartų
+- [x] Mirė 500 kartų
+- [x] Mirė 501 kartų
+- [x] Mirė 502 kartų
+- [x] Mirė 503 kartų
+- [x] Mirė 504 kartų
+- [x] Mirė 505 kartų
+- [x] Mirė 506 kartų
+- [x] Mirė 507 kartų
+- [x] Mirė 508 kartų
+- [x] Mirė 509 kartų
+- [x] Mirė 510 kartų
+- [x] Mirė 511 kartų
+- [x] Mirė 512 kartų
+- [x] Mirė 513 kartų
+- [x] Mirė 514 kartų
+- [x] Mirė 515 kartų
+- [x] Mirė 516 kartų
+- [x] Mirė 517 kartų
+- [x] Mirė 518 kartų
+- [x] Mirė 519 kartų
+- [x] Mirė 520 kartų
+- [x] Mirė 521 kartų
+- [x] Mirė 522 kartų
+- [x] Mirė 523 kartų
+- [x] Mirė 524 kartų
+- [x] Mirė 525 kartų
+- [x] Mirė 526 kartų
+- [x] Mirė 527 kartų
+- [x] Mirė 528 kartų
+- [x] Mirė 529 kartų
+- [x] Mirė 530 kartų
+- [x] Mirė 531 kartų
+- [x] Mirė 532 kartų
+- [x] Mirė 533 kartų
+- [x] Mirė 534 kartų
+- [x] Mirė 535 kartų
+- [x] Mirė 536 kartų
+- [x] Mirė 537 kartų
+- [x] Mirė 538 kartų
+- [x] Mirė 539 kartų
+- [x] Mirė 540 kartų
+- [x] Mirė 541 kartų
+- [x] Mirė 542 kartų
+- [x] Mirė 543 kartų
+- [x] Mirė 544 kartų
+- [ ] Mirė 545 kartų
+- [ ] Mirė 546 kartų
+- [ ] Mirė 547 kartų
+- [ ] Mirė 548 kartų
+- [ ] Mirė 549 kartų
+- [ ] Mirė 550 kartų
+- [ ] Mirė 551 kartų
+- [ ] Mirė 552 kartų
+- [ ] Mirė 553 kartų
+- [ ] Mirė 554 kartų
+- [ ] Mirė 555 kartų
+- [ ] Mirė 556 kartų
+- [ ] Mirė 557 kartų
+- [ ] Mirė 558 kartų
+- [ ] Mirė 559 kartų
+- [ ] Mirė 560 kartų
+- [ ] Mirė 561 kartų
+- [ ] Mirė 562 kartų
+- [ ] Mirė 563 kartų
+- [ ] Mirė 564 kartų
+- [ ] Mirė 565 kartų
+- [ ] Mirė 566 kartų
+- [ ] Mirė 567 kartų
+- [ ] Mirė 568 kartų
+- [ ] Mirė 569 kartų
+- [ ] Mirė 570 kartų
+- [ ] Mirė 571 kartų
+- [ ] Mirė 572 kartų
+- [ ] Mirė 573 kartų
+- [ ] Mirė 574 kartų
+- [ ] Mirė 575 kartų
+- [ ] Mirė 576 kartų
+- [ ] Mirė 577 kartų
+- [ ] Mirė 578 kartų
+- [ ] Mirė 579 kartų
+- [ ] Mirė 580 kartų
+- [ ] Mirė 581 kartų
+- [ ] Mirė 582 kartų
+- [ ] Mirė 583 kartų
+- [ ] Mirė 584 kartų
+- [ ] Mirė 585 kartų
+- [ ] Mirė 586 kartų
+- [ ] Mirė 587 kartų
+- [ ] Mirė 588 kartų
+- [ ] Mirė 589 kartų
+- [ ] Mirė 590 kartų
+- [ ] Mirė 591 kartų
+- [ ] Mirė 592 kartų
+- [ ] Mirė 593 kartų
+- [ ] Mirė 594 kartų
+- [ ] Mirė 595 kartų
+- [ ] Mirė 596 kartų
+- [ ] Mirė 597 kartų
+- [ ] Mirė 598 kartų
+- [ ] Mirė 599 kartų
+- [ ] Mirė 600 kartų
