@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70b066d9bd2a8385",
+        "id": "693f94297adfc06c",
         "type": "tabs",
         "children": [
           {
-            "id": "c70f6832928c01a1",
+            "id": "8644808899814571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Songs/Day 6.1.md",
+                "file": "Frazės/Random songs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Songs/Day 6.1.md",
+                "file": "Frazės/Random songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Songs/Day 6.1.md",
+                "file": "Frazės/Random songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Songs/Day 6.1.md"
+                "file": "Frazės/Random songs.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,22 +162,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c70f6832928c01a1",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "Random Songs/Day 7.md",
-    "Random Songs/Day 9.md",
-    "Random Songs/Day 8.md",
-    "Random Songs/Day 6.1.md",
-    "Random Songs/Day 6.md",
-    "Random Songs/Day 5.md",
-    "Random Songs/Day 4.md",
-    "Random Songs/Day 3.md",
-    "Random Songs/Day 2.md",
-    "Random Songs/Day 1.md",
-    "Random songs.md",
+    "Frazės/Random Songs/Day 10.md",
+    "Frazės/Random Songs/Day 9.md",
+    "Frazės/Random Songs/Day 8.md",
+    "Frazės/Random songs.md",
+    "Frazės/Random Songs/Day 7.md",
+    "Frazės/Random Songs/Day 6.1.md",
+    "Frazės/Random Songs/Day 6.md",
+    "Frazės/Random Songs/Day 5.md",
+    "Frazės/Random Songs/Day 4.md",
+    "Frazės/Random Songs/Day 3.md",
+    "Frazės/Random Songs/Day 2.md",
+    "Frazės/Random Songs/Day 1.md",
     "Templates/Day x.md",
     "Templates",
-    "Random Songs",
+    "Frazės/Random Songs",
     "Random Songs.md",
     "2023-12-30/Nusipirko krč.md",
     "2023-12-30/Užsimutino snarglys.md",
@@ -191,7 +192,6 @@
     "2023-12-30/Simas pavadino gd lygi šūdinu.md",
     "2023-12-30/Nusipirko čytus ant naujo GD.md",
     "2023-12-30/Nepereina Bloodbath simas.md",
-    "2023-12-30/Ok atsiemu žodžius.md",
     "2023-12-30",
     "Simo_uzsirasom",
     "2023-12-29",
