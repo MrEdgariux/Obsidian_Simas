@@ -117,10 +117,10 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [x] Mirė 116 kartų
 - [x] Mirė 117 kartų
 - [x] Mirė 118 kartų
-- [ ] Mirė 119 kartų
-- [ ] Mirė 120 kartų
-- [ ] Mirė 121 kartų
-- [ ] Mirė 122 kartų
+- [x] Mirė 119 kartų
+- [x] Mirė 120 kartų
+- [x] Mirė 121 kartų
+- [x] Mirė 122 kartų
 - [ ] Mirė 123 kartų
 - [ ] Mirė 124 kartų
 - [ ] Mirė 125 kartų
@@ -225,53 +225,29 @@ Karoče [[InsaneSimas]] ant [[GD Lygis]]:
 - [ ] Mirė 224 kartų
 - [ ] Mirė 225 kartų
 - [ ] Mirė 226 kartų
-
 - [ ] Mirė 227 kartų
-
 - [ ] Mirė 228 kartų
-
 - [ ] Mirė 229 kartų
-
 - [ ] Mirė 230 kartų
-
 - [ ] Mirė 231 kartų
-
 - [ ] Mirė 232 kartų
-
 - [ ] Mirė 233 kartų
-
 - [ ] Mirė 234 kartų
-
 - [ ] Mirė 235 kartų
-
 - [ ] Mirė 236 kartų
-
 - [ ] Mirė 237 kartų
-
 - [ ] Mirė 238 kartų
-
 - [ ] Mirė 239 kartų
-
 - [ ] Mirė 240 kartų
-
 - [ ] Mirė 241 kartų
-
 - [ ] Mirė 242 kartų
-
 - [ ] Mirė 243 kartų
-
 - [ ] Mirė 244 kartų
-
 - [ ] Mirė 245 kartų
-
 - [ ] Mirė 246 kartų
-
 - [ ] Mirė 247 kartų
-
 - [ ] Mirė 248 kartų
-
 - [ ] Mirė 249 kartų
-
 - [ ] Mirė 250 kartų
 
 - [ ] Mirė 251 kartų
