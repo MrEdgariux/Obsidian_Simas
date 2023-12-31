@@ -1,3 +1,3 @@
 [[InsaneSimas]] [[GD Lygis]] mirtys
 
-Mirė: 11
+Mirė: 17
