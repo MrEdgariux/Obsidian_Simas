@@ -9,7 +9,7 @@ Tai procesas su simu kuris yra atliekamas, kur yra klausiama, ar nori VC ar neno
 4. Kad ir kaip gaila yra, leidžiama naudoti MessageLogger, bei nėra galimybės pasakyti, kad T raidė buvo parašyta netyčia, jeigu buvo rasta, jeigu buvo rasta, tuomet tavo problema.
 5. Tačiau galima pasakyti, kad neesi namuose, ir ta T raidė galios iki 6 valandu, per 6 valandas jis galės dar paskambinti be išskirtinės T raidės.
 6. DRAUDŽIAMA RAŠYTI T RAIDES NUO 24H iki 6H, TUO METU VISI MIEGA. Kitaip pasakius, negalima skambinti tuo metu nors ir rasta T raide, taip pat ji neprisideda prie 6 valandų galiojimo.
-8. Tačiau jeigu buvo rastos kelios T raidės, galima suskaičiuoti į bendra laiko suma, pvz:
+7. Tačiau jeigu buvo rastos kelios T raidės, galima suskaičiuoti į bendra laiko suma, pvz:
 
 Jeigu buvo parašyta
 > Labas Traktoriau, Tigi eisim į lauka ane?
@@ -21,4 +21,5 @@ Taip pat jeigu yra kelios žinutės su keliom T raidėm galima pridėti juos į 
 
 8. Visos surastos T raidės PRIVALO būti nufotkintos, paryškintos, parodytos kur jos buvo, kadangi tai yra įrodymas. Be to įrodymo skambinant gali būti nekeliama.
 9. Siunčiamos T raidės negali būti užfiksuotos jeigu jau esame VC, arba buvome kai buvo siųstas tekstas ar nuotrauka ar panašiai.
-10. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
+10. Simo pridėta taisyklė: jeigu paklausi vc ir tiesiog pasako ok, galim ir pnš, tai nereikia T, galima skambint
+11. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.

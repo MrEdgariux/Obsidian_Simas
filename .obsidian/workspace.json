@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ced7982551d8787",
+        "id": "fb114e4a6c2239b4",
         "type": "tabs",
         "children": [
           {
-            "id": "698aece37bbd616a",
+            "id": "43c5faee30006294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-30/Nepereina Bloodbath simas.md",
+                "file": "Frazės/YouTube.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-30/Nepereina Bloodbath simas.md",
+                "file": "Frazės/YouTube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-30/Nepereina Bloodbath simas.md",
+                "file": "Frazės/YouTube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-30/Nepereina Bloodbath simas.md"
+                "file": "Frazės/YouTube.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "698aece37bbd616a",
+  "active": "43c5faee30006294",
   "lastOpenFiles": [
+    "Frazės/T ar N.md",
+    "2023-12-30/Nepereina Bloodbath simas.md",
     "2023-12-31/Broken Rouette Mirtys.md",
     "Iki drop simas nuėjo pizda.md",
     "2023-12-31/Simo mirtys.md",
@@ -184,8 +186,6 @@
     "Frazės/Random Songs/Day 5.md",
     "Frazės/Random Songs/Day 4.md",
     "Frazės/Random Songs/Day 3.md",
-    "Frazės/Random Songs/Day 2.md",
-    "Frazės/Random Songs/Day 1.md",
     "Templates",
     "Frazės/Random Songs",
     "2023-12-30",
