@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] išėjo iš žaidimo padla... ot koksai jis [[Roblox žaidimas]] XD

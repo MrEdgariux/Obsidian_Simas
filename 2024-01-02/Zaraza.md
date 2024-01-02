@@ -1,0 +1,1 @@
+[[InsaneSimas]] zaraza yra jei ka nes sako jailbreak ar kažkoks dar tan roleplay mc servas o aš sakau **TELEFONAS**
