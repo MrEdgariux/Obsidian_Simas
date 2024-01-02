@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57bcbf5b936aabeb",
+        "id": "5bb5297ed9bd9670",
         "type": "tabs",
         "children": [
           {
-            "id": "52ca3759a247bcdb",
+            "id": "80b64688d2f9ee88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52ca3759a247bcdb",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-02/Sakė palauksi dar.md",
     "2024-01-01/Simas užpiso mane.md",
     "2024-01-01/Simas vėl man parašė T ar N.md",
     "2024-01-02/Zaraza.md",
@@ -178,7 +179,6 @@
     "2023-12-31/Krč glassas.md",
     "2023-12-31/Simas paskambino.md",
     "README.md",
-    "2023-12-27/Davė 22.1 diena random muzikos.md",
     "2023-12-31",
     "Templates",
     "Frazės/Random Songs",
