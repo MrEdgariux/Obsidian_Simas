@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bed0e9005c8f43c9",
+        "id": "1d1faab6514d3afe",
         "type": "tabs",
         "children": [
           {
-            "id": "64b53b7d065f34e0",
+            "id": "7acac630607591e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-01/Simas vėl man parašė T ar N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-01/Simas vėl man parašė T ar N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-01/Simas vėl man parašė T ar N.md"
+              }
             }
           },
           {
@@ -146,8 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64b53b7d065f34e0",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-01",
+    "2024-01-01/Simas vėl man parašė T ar N.md",
     "Frazės/YouTube.md",
     "Frazės/T ar N.md",
     "2023-12-30/Nepereina Bloodbath simas.md",
@@ -176,8 +182,6 @@
     "Frazės/Random Songs/Day 7.md",
     "Frazės/Random Songs/Day 6.1.md",
     "Frazės/Random Songs/Day 6.md",
-    "Frazės/Random Songs/Day 5.md",
-    "Frazės/Random Songs/Day 4.md",
     "Templates",
     "Frazės/Random Songs",
     "2023-12-30",

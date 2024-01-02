@@ -1,0 +1,1 @@
+Nenu [[InsaneSimas]] vėl man parašė ar T ar N ... kaip čia su juo taip yra idk
