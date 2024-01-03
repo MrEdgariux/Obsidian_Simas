@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč ėjo prisipylė visa puoda vandens ir į gerklę ir aš jį taip prajuokinau kad net visa virtuve vandeniu apipylė ir potvynį sukurė net tsunami atvaro uodega judindama

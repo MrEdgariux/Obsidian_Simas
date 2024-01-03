@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bb5297ed9bd9670",
+        "id": "5f84e01d776ab13d",
         "type": "tabs",
         "children": [
           {
-            "id": "80b64688d2f9ee88",
+            "id": "35edabb2bf0568ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "35edabb2bf0568ff",
   "lastOpenFiles": [
+    "2024-01-03/Simas belekaip nori eit vc.md",
+    "2024-01-03/Eisim su kamerom VC omg.md",
+    "2024-01-03/Aptaškė visa virtuvę.md",
+    "2024-01-03/Sumuštinius darė.md",
+    "2024-01-03",
     "2024-01-02/Sakė palauksi dar.md",
     "2024-01-01/Simas užpiso mane.md",
     "2024-01-01/Simas vėl man parašė T ar N.md",
@@ -175,16 +180,11 @@
     "Frazės/Untitled.canvas",
     "Frazės/_IMAGES",
     "2023-12-31/Simas sharina ekrana.md",
-    "2023-12-31/Simas noobas ant gd vėl.md",
-    "2023-12-31/Krč glassas.md",
-    "2023-12-31/Simas paskambino.md",
-    "README.md",
     "2023-12-31",
     "Templates",
     "Frazės/Random Songs",
     "2023-12-30",
     "Simo_uzsirasom",
-    "2023-12-29",
-    "2023-12-28"
+    "2023-12-29"
   ]
 }

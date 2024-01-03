@@ -1,0 +1,1 @@
+[[InsaneSimas]] su kamerom vc nori keksė
