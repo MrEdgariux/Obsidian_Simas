@@ -1,0 +1,1 @@
+Krč per žaidimų tą šūdą kur valdyti aš gavau Puiki užrašinė ir tipo man tai meanina krč [[InsaneSimas]] šituos užrašus XD
