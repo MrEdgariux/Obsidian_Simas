@@ -1,0 +1,1 @@
+[[InsaneSimas]] karoče [[Roblox žaidimas]] gavo 10,000 robuxu ir nepavydžių nes nublimpino jį ir nuddosino nuo mamos kortos nupirko robuxus jam tai tuoj pareis peilis simui į veidą
