@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fced8cbed53b8e9",
+        "id": "514ec0a67bc65fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "e59d976c5f475394",
+            "id": "4e4ec81c565103ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frazės/Random Songs/Day 8.md",
+                "file": "Nupirko christmas ohio.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random Songs/Day 8.md",
+                "file": "Nupirko christmas ohio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random Songs/Day 8.md",
+                "file": "Nupirko christmas ohio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/Random Songs/Day 8.md"
+                "file": "Nupirko christmas ohio.md"
               }
             }
           },
@@ -162,10 +162,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e59d976c5f475394",
+  "active": "4e4ec81c565103ea",
   "lastOpenFiles": [
-    "Frazės/Random Songs/Day 7.md",
+    "Nupirko christmas ohio.md",
+    "2024-01-04/Pieštuka metė į mane.md",
+    "2024-01-04/Tuoleta metė į mane.md",
+    "2024-01-04/Išsityčiojo iš manęs.md",
     "Frazės/Random Songs/Day 8.md",
+    "2024-01-04/Simas apmėtė tulikais mane.md",
+    "2024-01-04/Apšiko letenytę mano.md",
+    "2024-01-04/Sviedė pieštuką.md",
+    "2024-01-04/Vėl mane apšiko.md",
+    "2024-01-04/Vėl mane apšiko 2.md",
+    "2024-01-04/Piso per klyną.md",
+    "2024-01-04/Įrašė 2 mokytoja.md",
+    "2024-01-04/Sviedė pieštuka man agen.md",
+    "2024-01-04/Išrinko mane prezentuoti.md",
+    "2024-01-04/apšiko mane nu bl.md",
+    "2024-01-04/Sviedė pieštuką 1.md",
+    "2024-01-04",
+    "Frazės/Random Songs/Day 7.md",
     "Frazės/Random Songs/Day 9.md",
     "Frazės/Random Songs/Day 10.md",
     "Frazės/Random Songs/Day 11.md",
@@ -175,21 +191,6 @@
     "Frazės/Random Songs/Day 15.md",
     "Frazės/Random Songs/Day 16.md",
     "Frazės/Random Songs/Day 17.md",
-    "Frazės/Random Songs/Day 17.1.md",
-    "Frazės/Random Songs/Day 18.md",
-    "Frazės/Random Songs/Day 19.md",
-    "Frazės/Random Songs/Day 20.md",
-    "Frazės/Random Songs/Day 21.md",
-    "Frazės/Random Songs/Day 26.1.md",
-    "Frazės/Random Songs/Day 26.md",
-    "Frazės/Random Songs/Day 25.md",
-    "Frazės/Random Songs/Day 24.md",
-    "Frazės/Random Songs/Day 27.1.md",
-    "Frazės/Random Songs/Day 27.2.md",
-    "Frazės/Random Songs/Day 28.md",
-    "Frazės/Random Songs/Day 29.md",
-    "Frazės/Random Songs/Day 27.3.md",
-    "Frazės/Random Songs/Day 27.md",
     "2024-01-03",
     "2024-01-02",
     "2024-01-01",
@@ -200,7 +201,6 @@
     "Templates",
     "Frazės/Random Songs",
     "2023-12-30",
-    "Simo_uzsirasom",
-    "2023-12-29"
+    "Simo_uzsirasom"
   ]
 }

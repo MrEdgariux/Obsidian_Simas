@@ -1,0 +1,1 @@
+Žiežula yra ir [[InsaneSimas]] tiek gavo xd
