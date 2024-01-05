@@ -1,0 +1,1 @@
+[[InsaneSimas]] vėl kurva pisa prota kad kažko noriu blemba moliux
