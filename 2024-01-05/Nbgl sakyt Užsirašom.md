@@ -1,0 +1,1 @@
+[[InsaneSimas]] uždraudė metė plytą man krč nes užpiso jam kad sakau taip

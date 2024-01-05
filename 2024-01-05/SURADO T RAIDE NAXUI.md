@@ -1,0 +1,1 @@
+[[InsaneSimas]] BLED SIMAS RADO NAXUI [[T]] RAIDĘ NAXUI SNARGLYS BLEMBA NEGALIU [[Krč simui numečiau biblija]] BIBLIJOJE

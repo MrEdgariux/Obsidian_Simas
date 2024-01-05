@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "523cda6eaf8cda00",
+        "id": "9c63b3a04a8a50e8",
         "type": "tabs",
         "children": [
           {
-            "id": "57515eb5891488b3",
+            "id": "55ef0ca46e580ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frazės/Random Songs/Day 29.3.md",
+                "file": "2024-01-05/Sakė joinini jei ne gėjus.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random Songs/Day 29.3.md",
+                "file": "2024-01-05/Sakė joinini jei ne gėjus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random Songs/Day 29.3.md",
+                "file": "2024-01-05/Sakė joinini jei ne gėjus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/Random Songs/Day 29.3.md"
+                "file": "2024-01-05/Sakė joinini jei ne gėjus.md"
               }
             }
           },
@@ -136,17 +136,9 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "c5b6fc8d76c175aa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,35 +154,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57515eb5891488b3",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "Frazės/Random Songs/Day 29.2.md",
+    "2024-01-05/Sakė joinini jei ne gėjus.md",
+    "2024-01-04/Žaidimui/Piso per klyną.md",
+    "2024-01-04/Žaidimui/Pieštuka metė į mane.md",
+    "2024-01-04/Žaidimui/Nupirko christmas ohio.md",
+    "2024-01-04/Žaidimui/Išsityčiojo iš manęs.md",
+    "2024-01-04/Žaidimui/Išrinko mane prezentuoti.md",
+    "2024-01-04/Žaidimui/Įrašė 2 mokytoja.md",
+    "2024-01-04/Žaidimui/apšiko mane nu bl.md",
+    "2024-01-04/Žaidimui/Apšiko letenytę mano.md",
+    "2024-01-04/Žaidimui",
+    "2024-01-05/Simas sako Joinini.md",
+    "2024-01-05/Nbgl sakyt Užsirašom.md",
+    "2024-01-05/SURADO T RAIDE NAXUI.md",
     "Frazės/Random Songs/Day 29.3.md",
+    "2024-01-05/Krč simui numečiau biblija.md",
+    "2024-01-05",
+    "Frazės/Random Songs/Day 29.2.md",
     "Frazės/Random Songs/Day 29.1.md",
     "Frazės/Random Songs/Day 27.md",
     "Frazės/Random Songs/Day 29.md",
     "2024-01-04/Užtildė visa video ir praskipino.md",
-    "2024-01-04/Nupirko christmas ohio.md",
-    "2024-01-04/Pieštuka metė į mane.md",
     "2024-01-04/Tuoleta metė į mane.md",
-    "2024-01-04/Išsityčiojo iš manęs.md",
     "Frazės/Random Songs/Day 8.md",
     "2024-01-04/Simas apmėtė tulikais mane.md",
-    "2024-01-04/Apšiko letenytę mano.md",
     "2024-01-04/Sviedė pieštuką.md",
     "2024-01-04/Vėl mane apšiko.md",
     "2024-01-04/Vėl mane apšiko 2.md",
-    "2024-01-04/Piso per klyną.md",
-    "2024-01-04/Įrašė 2 mokytoja.md",
     "2024-01-04/Sviedė pieštuka man agen.md",
-    "2024-01-04/Išrinko mane prezentuoti.md",
-    "2024-01-04/apšiko mane nu bl.md",
-    "2024-01-04/Sviedė pieštuką 1.md",
     "2024-01-04",
-    "Frazės/Random Songs/Day 7.md",
-    "Frazės/Random Songs/Day 9.md",
-    "Frazės/Random Songs/Day 10.md",
-    "Frazės/Random Songs/Day 11.md",
     "2024-01-03",
     "2024-01-02",
     "2024-01-01",
@@ -199,8 +193,6 @@
     "Frazės/_IMAGES",
     "2023-12-31",
     "Templates",
-    "Frazės/Random Songs",
-    "2023-12-30",
-    "Simo_uzsirasom"
+    "Frazės/Random Songs"
   ]
 }

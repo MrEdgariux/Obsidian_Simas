@@ -1,1 +1,0 @@
-[[InsaneSimas]] neatsibodo šikt ant mans?

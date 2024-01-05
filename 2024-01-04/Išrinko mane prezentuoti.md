@@ -1,1 +1,0 @@
-bet save išsirinko [[InsaneSimas]] hahaha
