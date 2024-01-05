@@ -11,8 +11,12 @@
             "id": "35170cd6ed8fd16a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-05/Nu ko jis vėl nori.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-05/Nu ko jis vėl nori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-05/Nu ko jis vėl nori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-05/Nu ko jis vėl nori.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-05/Nu ko jis vėl nori.md",
     "2024-01-05/Atpažino kūno kalba.md",
     "2024-01-05/Surinko 100 views thanatophobia vid.md",
     "2024-01-05/Simas žvengia nes krabas šoka.md",
@@ -173,7 +182,6 @@
     "Frazės/Random Songs/Day 7.md",
     "Frazės/Random Songs/Day 6.1.md",
     "Frazės/Random Songs/Day 6.md",
-    "Frazės/Random Songs/Day 5.md",
     "2024-01-04/Žaidimui",
     "2024-01-05",
     "2024-01-04",
