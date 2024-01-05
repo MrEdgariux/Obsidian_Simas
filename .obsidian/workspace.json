@@ -38,21 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "782c4fc6cc46ba9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaus 700 euru į savo banko sąskaita.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gaus 700 euru į savo banko sąskaita.md",
+                "file": "2024-01-05/Kortelėj gfg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gaus 700 euru į savo banko sąskaita.md",
+                "file": "2024-01-05/Kortelėj gfg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaus 700 euru į savo banko sąskaita.md"
+                "file": "2024-01-05/Kortelėj gfg.md"
               }
             }
           },
@@ -187,10 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "782c4fc6cc46ba9f",
+  "active": "ac823a653ab50e8e",
   "lastOpenFiles": [
-    "2024-01-05/Kortelėj gfg.md",
     "gaus 700 euru į savo banko sąskaita.md",
+    "2024-01-05/Kortelėj gfg.md",
     "2024-01-05/Krč mirėm rigę krč.md",
     "2024-01-05/Sakė joinini jei ne gėjus.md",
     "2024-01-05/Simas nžn nk.md",
