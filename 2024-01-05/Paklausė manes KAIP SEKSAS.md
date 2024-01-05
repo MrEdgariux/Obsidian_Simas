@@ -1,0 +1,1 @@
+[[InsaneSimas]] paklausė manęs "kaip seksas?" todėl reik užsirašyt

@@ -1,0 +1,1 @@
+[[InsaneSimas]] vėl blemba dainuoja [[Dainuoja Chapa Chapa bled kurva]] nebegaliu aš jau galva skauda

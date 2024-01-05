@@ -1,0 +1,1 @@
+[[InsaneSimas]] užleido krč muzika Here I Come kur visi vazonai per langa šoko pas kaimyną į namus pošimts

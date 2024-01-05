@@ -1,0 +1,1 @@
+[[InsaneSimas]] visiškai išprotėjo, ans žvengia db kaip krabas šoka, pizda... galvojau nes vazonai šoka pas mane namuose per langa
