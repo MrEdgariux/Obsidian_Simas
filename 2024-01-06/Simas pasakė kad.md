@@ -1,0 +1,1 @@
+[[InsaneSimas]] ant 7 žiedai nėr drop tai sakė patylėk žietva
