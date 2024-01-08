@@ -1,0 +1,1 @@
+Bandė [[InsaneSimas]] mane apipist kad pamokoj sėdi bet jis iš tikro ne pamokoj bv o namuose. :>

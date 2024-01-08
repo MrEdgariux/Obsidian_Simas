@@ -1,0 +1,1 @@
+Man net [[InsaneSimas]] per [[Random songs]] [[Day 32.1]] nedavė snarglys, todėl gaus jis į nosį ir be nosies vaikšios kranas
