@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] mokykloj sėdi per ledynmetį XD

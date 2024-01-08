@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97de7924017e39f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-08/Sima į mokyklą per ledynmetį išleido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-07/Šaudo rusas iš kalno.md",
+                "file": "2024-01-08/Sima į mokyklą per ledynmetį išleido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-07/Šaudo rusas iš kalno.md",
+                "file": "2024-01-08/Sima į mokyklą per ledynmetį išleido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-07/Šaudo rusas iš kalno.md"
+                "file": "2024-01-08/Sima į mokyklą per ledynmetį išleido.md"
               }
             }
           },
@@ -167,11 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "97de7924017e39f5",
   "lastOpenFiles": [
     "2024-01-07/Krč jailbreak suemė tuoletinis papierius.md",
+    "2024-01-08/Sima į mokyklą per ledynmetį išleido.md",
+    "2024-01-08",
     "2024-01-07/Šaudo rusas iš kalno.md",
-    "Untitled",
     "2024-01-07",
     "2024-01-06/Krč simas sako siunti fotke.md",
     "2024-01-06/Išgązdinau Arūnės vazonus.md",
@@ -197,7 +210,6 @@
     "2024-01-05/Žodžiu vėl simas sako užsirašom.md",
     "2024-01-05/Sakė jeigu leavini = gėjus.md",
     "2024-01-05/Krč mirėm rigę krč.md",
-    "Frazės/Random Songs/Day 16.md",
     "2024-01-04/Žaidimui",
     "2024-01-05",
     "2024-01-04",
