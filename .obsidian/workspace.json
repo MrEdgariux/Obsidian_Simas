@@ -11,11 +11,28 @@
             "id": "e6e3f1ac4b12659e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-07/Krč jailbreak suemė tuoletinis papierius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8bcab5abad041b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-07/Šaudo rusas iš kalno.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-07/Šaudo rusas iš kalno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-07/Šaudo rusas iš kalno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-07/Šaudo rusas iš kalno.md"
+              }
             }
           },
           {
@@ -146,8 +167,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6e3f1ac4b12659e",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-07/Krč jailbreak suemė tuoletinis papierius.md",
+    "2024-01-07/Šaudo rusas iš kalno.md",
+    "Untitled",
+    "2024-01-07",
     "2024-01-06/Krč simas sako siunti fotke.md",
     "2024-01-06/Išgązdinau Arūnės vazonus.md",
     "2024-01-06/Gavau FREE YT premium.md",
@@ -173,8 +198,6 @@
     "2024-01-05/Sakė jeigu leavini = gėjus.md",
     "2024-01-05/Krč mirėm rigę krč.md",
     "Frazės/Random Songs/Day 16.md",
-    "Frazės/Random Songs/Day 22.md",
-    "Frazės/Random Songs/Day 23.md",
     "2024-01-04/Žaidimui",
     "2024-01-05",
     "2024-01-04",
@@ -183,8 +206,6 @@
     "2024-01-01",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas",
-    "Frazės/_IMAGES",
-    "2023-12-31",
-    "Templates"
+    "Frazės/_IMAGES"
   ]
 }

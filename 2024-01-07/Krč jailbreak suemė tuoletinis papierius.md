@@ -1,0 +1,1 @@
+Krč mane suemė [[Jailbreak]] krč

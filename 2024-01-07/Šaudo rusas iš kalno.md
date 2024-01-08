@@ -1,0 +1,1 @@
+[[InsaneSimas]] irgi krč [[Jailbreak]] šaudėm ir šaudo dukas
