@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė jei per [[Random songs]] [[Day 34]] krč duosiu belekai žema įvertį sakė į bulve pavers tai bėgu su vazonais iš namų karoče
