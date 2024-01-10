@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč perkėliau į žaidimų dc serva krč nes [[Dyzelinas]] ale žada ateit ir eisim [[Pinewood Computer Core]] žaisti XD
