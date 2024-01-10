@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] rašo kad labai nori krč vc nes autiko lauks
