@@ -1,0 +1,1 @@
+[[InsaneSimas]] suvalgė visa surį ir mama db bėga iš pardės su suriu

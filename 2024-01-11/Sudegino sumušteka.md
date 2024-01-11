@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč sudegino sumuštinius xd
