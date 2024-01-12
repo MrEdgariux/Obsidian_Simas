@@ -1,0 +1,1 @@
+[[WhyVejas]] pavadino negru kažkoks negras

@@ -1,0 +1,1 @@
+Vėjas krč [[InsaneSimas]] draugas klasiokas xd

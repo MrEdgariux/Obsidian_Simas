@@ -1,0 +1,1 @@
+[[WhyVejas]] krč sakė mane iščiulps

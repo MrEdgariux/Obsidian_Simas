@@ -1,0 +1,1 @@
+[[InsaneSimas]] nebeturi ant [[GD Lygis]] icona pabėgo per langa iššoko
