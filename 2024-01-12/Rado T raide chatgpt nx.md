@@ -1,0 +1,1 @@
+Susinervinau kad rado t raide
