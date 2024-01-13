@@ -11,8 +11,12 @@
             "id": "b1dfc8962f724688",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frazės/Random Songs/Day 39.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frazės/Random Songs/Day 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frazės/Random Songs/Day 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frazės/Random Songs/Day 39.md"
+              }
             }
           },
           {
@@ -156,6 +164,8 @@
   },
   "active": "b1dfc8962f724688",
   "lastOpenFiles": [
+    "Frazės/Random Songs/Day 38.md",
+    "Frazės/Random Songs/Day 39.md",
     "2024-01-12/Overlay nebeturi.md",
     "2024-01-12/Negru vėja pavadino.md",
     "2024-01-12/Rado T raide chatgpt nx.md",
@@ -186,8 +196,6 @@
     "2024-01-07/Krč jailbreak suemė tuoletinis papierius.md",
     "2024-01-07/Šaudo rusas iš kalno.md",
     "Frazės/Random Songs/Day 32.1.md",
-    "2024-01-08/Klausytis reiks 3 dainų krč.md",
-    "Frazės/Random Songs/Day 32.md",
     "2024-01-08",
     "2024-01-07",
     "2024-01-06",
