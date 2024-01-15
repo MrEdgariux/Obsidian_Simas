@@ -11,8 +11,12 @@
             "id": "45ec0622b1dfef02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frazės/Random Songs/Day 39.2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frazės/Random Songs/Day 39.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frazės/Random Songs/Day 39.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frazės/Random Songs/Day 39.2.md"
+              }
             }
           },
           {
@@ -156,6 +164,8 @@
   },
   "active": "45ec0622b1dfef02",
   "lastOpenFiles": [
+    "Frazės/Random Songs/Day 39.1.md",
+    "Frazės/Random Songs/Day 39.2.md",
     "2024-01-12/Smurfu mane pavadino.md",
     "Frazės/Random Songs/Day 39.md",
     "2024-01-12/Overlay nebeturi.md",
@@ -187,8 +197,6 @@
     "2024-01-08/Bėgu su vazonais nuo simo nes į bulvę pavers.md",
     "2024-01-08/Simas nedavė dainos vakar kvailys.md",
     "Frazės/Random Songs/Day 33.md",
-    "2024-01-08/Apipiso mane simas kad ne mokykloj.md",
-    "2024-01-07/Krč jailbreak suemė tuoletinis papierius.md",
     "2024-01-08",
     "2024-01-07",
     "2024-01-06",
