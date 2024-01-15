@@ -1,0 +1,1 @@
+[[Dyzelinas]] kompas užgęso xd [[NeonPlusX]] pasakė man xd bluescreenus mėto sakė

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e06d6fbbe65ceae2",
+        "id": "fe5bccf7f61b6f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "45ec0622b1dfef02",
+            "id": "9b05bffb8429549f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frazės/Random Songs/Day 39.2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random Songs/Day 39.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random Songs/Day 39.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frazės/Random Songs/Day 39.2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +154,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45ec0622b1dfef02",
+  "active": "9b05bffb8429549f",
   "lastOpenFiles": [
-    "Frazės/Random Songs/Day 39.1.md",
     "Frazės/Random Songs/Day 39.2.md",
+    "2024-01-15/Dyzelio pc gg.md",
+    "2024-01-15",
+    "Frazės/Random Songs/Day 39.1.md",
     "2024-01-12/Smurfu mane pavadino.md",
     "Frazės/Random Songs/Day 39.md",
     "2024-01-12/Overlay nebeturi.md",
@@ -195,13 +189,10 @@
     "2024-01-08/Tipo dyzelis ateis eisim pinewooda.md",
     "Frazės/Random Songs/Day 34.md",
     "2024-01-08/Bėgu su vazonais nuo simo nes į bulvę pavers.md",
-    "2024-01-08/Simas nedavė dainos vakar kvailys.md",
-    "Frazės/Random Songs/Day 33.md",
     "2024-01-08",
     "2024-01-07",
     "2024-01-06",
     "2024-01-04/Žaidimui",
-    "2024-01-05",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas"
   ]
