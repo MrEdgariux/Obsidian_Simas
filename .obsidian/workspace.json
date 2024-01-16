@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5bccf7f61b6f3a",
+        "id": "b4301fd884ee8bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "9b05bffb8429549f",
+            "id": "43fbbd607a3caf5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frazės/Random Songs/Day 40.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frazės/Random Songs/Day 40.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frazės/Random Songs/Day 40.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frazės/Random Songs/Day 40.1.md"
+              }
             }
           },
           {
@@ -154,14 +162,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b05bffb8429549f",
+  "active": "43fbbd607a3caf5f",
   "lastOpenFiles": [
+    "Frazės/Random Songs/Day 40.md",
+    "Frazės/Random Songs/Day 40.1.md",
     "Frazės/Random Songs/Day 39.2.md",
+    "Frazės/Random Songs/Day 39.1.md",
+    "Frazės/Random Songs/Day 39.md",
+    "2024-01-15/The Mimic Book 2 Chapter 3 perėjom.md",
+    "2024-01-16/Simo nėr.md",
+    "2024-01-16",
     "2024-01-15/Dyzelio pc gg.md",
     "2024-01-15",
-    "Frazės/Random Songs/Day 39.1.md",
     "2024-01-12/Smurfu mane pavadino.md",
-    "Frazės/Random Songs/Day 39.md",
     "2024-01-12/Overlay nebeturi.md",
     "2024-01-13/Vagia tepalus iš rigo.md",
     "2024-01-13",
@@ -186,13 +199,9 @@
     "2024-01-10",
     "2024-01-08/Daug prisirašęs simas.md",
     "2024-01-08/Pinewood Computer Core.md",
-    "2024-01-08/Tipo dyzelis ateis eisim pinewooda.md",
-    "Frazės/Random Songs/Day 34.md",
-    "2024-01-08/Bėgu su vazonais nuo simo nes į bulvę pavers.md",
     "2024-01-08",
     "2024-01-07",
     "2024-01-06",
-    "2024-01-04/Žaidimui",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas"
   ]
