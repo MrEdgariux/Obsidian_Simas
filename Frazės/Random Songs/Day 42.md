@@ -1,5 +1,5 @@
 | Kas davė?       |   Muzika   | Mėgstamiausi lyricsai | Mėgstamiausia vieta | Įvertinimas |
 | --------------- |:----------:|:---------------------:|:-------------------:|:-----------:|
-| **MrEdgariux**  | Hero |                      |                 |             |
-| **InsaneSimas** | Heartbeat   | -                      | 1:00                    | 3            |
+| **MrEdgariux**  | The Wolf |                      |                 |             |
+| **InsaneSimas** | Senpai   | -                      | 0:33                    | 10            |
 
