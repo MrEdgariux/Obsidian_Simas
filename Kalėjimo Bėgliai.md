@@ -1,1 +1,1 @@
-Jie dažniausiai yra žaidžiami su [[InsaneSimas]] [[Minecraft]] žaidime
+Jie dažniausiai yra žaidžiami su [[InsaneSimas]] [[Minecraft]] simo serveryje
