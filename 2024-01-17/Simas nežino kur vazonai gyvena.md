@@ -1,0 +1,1 @@
+[[InsaneSimas]] užleido vakar man Senpai mzk ir krč db be vazonu esu ir simas nežino kur vazonai krč gyvena
