@@ -1,5 +1,5 @@
 | Kas davė?       |   Muzika   | Mėgstamiausi lyricsai | Mėgstamiausia vieta | Įvertinimas |
 | --------------- |:----------:|:---------------------:|:-------------------:|:-----------:|
-| **MrEdgariux**  | Megalovania |                      |                 |             |
+| **MrEdgariux**  | Megalovania | -                     | 1:37                | 7            |
 | **InsaneSimas** |    |                       |                     |             |
 
