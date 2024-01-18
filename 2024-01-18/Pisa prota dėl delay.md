@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč skundžias kad per medaly delay belekoks
