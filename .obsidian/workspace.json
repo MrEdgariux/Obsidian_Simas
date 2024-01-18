@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3a9e10cd1f2cd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-18/Užsimutino simas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92de55fdbbf266f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pisa prota dėl delay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random Songs/Day 43.md",
+                "file": "Pisa prota dėl delay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random Songs/Day 43.md",
+                "file": "Pisa prota dėl delay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/Random Songs/Day 43.md"
+                "file": "Pisa prota dėl delay.md"
               }
             }
           },
@@ -162,13 +187,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5e0ec21057f6e85",
+  "active": "92de55fdbbf266f9",
   "lastOpenFiles": [
+    "2024-01-18/Užsimutino simas.md",
+    "Pisa prota dėl delay.md",
+    "Frazės/Random Songs/Day 43.md",
+    "2024-01-18",
     "Frazės/Random Songs/Day 42.1.md",
     "Frazės/Random Songs/Day 41.md",
     "Frazės/Random Songs/Day 39.2.md",
     "Frazės/Random Songs/Day 40.md",
-    "Frazės/Random Songs/Day 43.md",
     "Frazės/Random Songs/Day 42.md",
     "Frazės/Random Songs/Day 40.1.md",
     "Day 43.md",
@@ -176,7 +204,6 @@
     "2024-01-16/Simas restorane krč.md",
     "2024-01-17/Sakė eisim vc po trefkes.md",
     "2024-01-17/Simas nežino kur vazonai gyvena.md",
-    "Untitled",
     "2024-01-17",
     "2024-01-16/Tingi simas rašyt anketa ant telefo.md",
     "2024-01-16/Simas su morka gd lošia.md",
@@ -193,8 +220,6 @@
     "2024-01-13",
     "Frazės/Random Songs/Day 38.md",
     "2024-01-12/Negru vėja pavadino.md",
-    "2024-01-12/Rado T raide chatgpt nx.md",
-    "Frazės/WhyVejas.md",
     "2024-01-12",
     "Untitled 1.canvas",
     "Untitled.canvas",
