@@ -22,4 +22,6 @@ Taip pat jeigu yra kelios žinutės su keliom T raidėm galima pridėti juos į 
 8. Visos surastos T raidės PRIVALO būti nufotkintos, paryškintos, parodytos kur jos buvo, kadangi tai yra įrodymas. Be to įrodymo skambinant gali būti nekeliama.
 9. Siunčiamos T raidės negali būti užfiksuotos jeigu jau esame VC, arba buvome kai buvo siųstas tekstas ar nuotrauka ar panašiai.
 10. Simo pridėta taisyklė: jeigu paklausi vc ir tiesiog pasako ok, galim ir pnš, tai nereikia T, galima skambint
-11. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
+11. Jeigu yra pateisinama priežastis, tuomet skambinti galima tada, kada vartotojas ATSILAISVINO BE LAIKO APRIBOJIMU (t.y jeigu šiandiena visa diena neatsiliepiama, tuomet)
+12. Jeigu neatsilaisvinome per 6 valandas nuo pateisinamos priežasties, tuomet T raidė prasitęsia pakol vartotojas gali kalbėti.
+13. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
