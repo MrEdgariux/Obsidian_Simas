@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a3284966014fda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/T ar N.md",
+                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/T ar N.md",
+                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/T ar N.md"
+                "file": "2024-01-20/Simo vardas nuo šiol molis.md"
               }
             }
           },
@@ -187,8 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "2a3284966014fda8",
   "lastOpenFiles": [
+    "2024-01-19/Rado iš lempos 3T raides.md",
+    "2024-01-20/Simo vardas nuo šiol molis.md",
+    "2024-01-20",
+    "Frazės/T ar N.md",
+    "2024-01-19",
     "Frazės/Random Songs/Day 43.md",
     "2024-01-18/Užsimutino simas.md",
     "2024-01-18/Pisa prota dėl delay.md",
@@ -216,17 +233,12 @@
     "2024-01-15",
     "2024-01-12/Smurfu mane pavadino.md",
     "2024-01-12/Overlay nebeturi.md",
-    "2024-01-13/Vagia tepalus iš rigo.md",
     "2024-01-13",
-    "Frazės/Random Songs/Day 38.md",
-    "2024-01-12/Negru vėja pavadino.md",
     "2024-01-12",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-01-11",
     "2024-01-09",
-    "2024-01-10",
-    "2024-01-08",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas"
   ]
