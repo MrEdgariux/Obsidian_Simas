@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12c97979c18d41ed",
+        "id": "6723248335ba322d",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e0ec21057f6e85",
+            "id": "43e75b6e310d809d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frazės/Random Songs/Day 43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3a9e10cd1f2cd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-18/Užsimutino simas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92de55fdbbf266f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frazės/T ar N.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a3284966014fda8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-20/Simo vardas nuo šiol molis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-20/Simo vardas nuo šiol molis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,10 +154,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a3284966014fda8",
+  "active": "43e75b6e310d809d",
   "lastOpenFiles": [
-    "2024-01-19/Rado iš lempos 3T raides.md",
+    "2024-01-20/Mane moliu pavadino nx.md",
     "2024-01-20/Simo vardas nuo šiol molis.md",
+    "2024-01-19/Rado iš lempos 3T raides.md",
     "2024-01-20",
     "Frazės/T ar N.md",
     "2024-01-19",
@@ -232,7 +188,6 @@
     "2024-01-15/Dyzelio pc gg.md",
     "2024-01-15",
     "2024-01-12/Smurfu mane pavadino.md",
-    "2024-01-12/Overlay nebeturi.md",
     "2024-01-13",
     "2024-01-12",
     "Untitled 1.canvas",

@@ -1,1 +1,1 @@
-[[InsaneSimas]] var
+[[InsaneSimas]] vardeliai buvo: Sidras, Simsonas ir dabar pabus jis man Molis nx

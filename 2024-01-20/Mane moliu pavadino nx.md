@@ -1,0 +1,1 @@
+[[InsaneSimas]] įžeidė mane ir moliu pavadino
