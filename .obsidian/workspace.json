@@ -11,8 +11,12 @@
             "id": "43e75b6e310d809d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md"
+              }
             }
           },
           {
@@ -156,6 +164,8 @@
   },
   "active": "43e75b6e310d809d",
   "lastOpenFiles": [
+    "2024-01-20/Nusipirko autocollect.md",
+    "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md",
     "2024-01-20/Mane moliu pavadino nx.md",
     "2024-01-20/Simo vardas nuo šiol molis.md",
     "2024-01-19/Rado iš lempos 3T raides.md",
@@ -185,9 +195,7 @@
     "2024-01-15/The Mimic Book 2 Chapter 3 perėjom.md",
     "2024-01-16/Simo nėr.md",
     "2024-01-16",
-    "2024-01-15/Dyzelio pc gg.md",
     "2024-01-15",
-    "2024-01-12/Smurfu mane pavadino.md",
     "2024-01-13",
     "2024-01-12",
     "Untitled 1.canvas",
