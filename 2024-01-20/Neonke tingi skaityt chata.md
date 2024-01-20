@@ -1,0 +1,1 @@
+[[NeonPlusX]] tingi žiūrėt chata ką [[InsaneSimas]] parašė
