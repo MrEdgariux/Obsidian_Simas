@@ -11,8 +11,12 @@
             "id": "590d7aefe8a98dff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-21/Simas nk nerašo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-21/Simas nk nerašo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-21/Simas nk nerašo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-21/Simas nk nerašo.md"
+              }
             }
           },
           {
@@ -154,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "590d7aefe8a98dff",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-21/Simas nk nerašo.md",
+    "2024-01-21",
     "2024-01-20/Simas bandė rašyt diary.md",
     "2024-01-18/Pisa prota dėl delay.md",
     "2024-01-19/Rado iš lempos 3T raides.md",
@@ -185,7 +195,6 @@
     "2024-01-17",
     "2024-01-16/Tingi simas rašyt anketa ant telefo.md",
     "2024-01-16/Simas su morka gd lošia.md",
-    "Frazės/Random Songs/Day 39.1.md",
     "2024-01-16",
     "2024-01-15",
     "2024-01-13",
@@ -193,7 +202,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-01-11",
-    "2024-01-09",
     "Frazės/_IMAGES/Untitled.canvas",
     "Frazės/Untitled.canvas"
   ]

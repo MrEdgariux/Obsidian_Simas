@@ -1,0 +1,1 @@
+Kaip bebūtu man keista bet [[InsaneSimas]] man net nerašo nieko šiuo metu xd
