@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6723248335ba322d",
+        "id": "b4be4b3e20b72083",
         "type": "tabs",
         "children": [
           {
-            "id": "43e75b6e310d809d",
+            "id": "aff709162655bd31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-20/Simas užklipino kaip man auto collecta nupirko.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-20/Simas užklipino kaip man auto collecta nupirko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-20/Simas užklipino kaip man auto collecta nupirko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-20/Simas užklipino kaip man auto collecta nupirko.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43e75b6e310d809d",
+  "active": "aff709162655bd31",
   "lastOpenFiles": [
-    "2024-01-20/Neonke tingi skaityt chata.md",
     "2024-01-20/Simas užklipino kaip man auto collecta nupirko.md",
+    "2024-01-20/Neonke tingi skaityt chata.md",
     "2024-01-20/Kitas draugas nusipirko irgi auto collecta.md",
     "2024-01-20/Nusipirko autocollect.md",
     "2024-01-20/Mane moliu pavadino nx.md",
