@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakėsi kad bandė dienoraštį rašyt ir nepaėjo ir sviedė tlf į siena :)
