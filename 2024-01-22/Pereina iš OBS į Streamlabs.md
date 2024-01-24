@@ -1,0 +1,1 @@
+[[NeonPlusX]] pereiti žada iš OBS į Stream labs XD
