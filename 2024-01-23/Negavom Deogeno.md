@@ -1,0 +1,1 @@
+[[NeonPlusX]] žaidžiant [[Phasmophobia]] mes negavom ghost'o 

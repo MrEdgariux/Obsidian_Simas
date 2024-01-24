@@ -1,0 +1,1 @@
+Tai žaidimas kuris išleistas ant [[Steam]] platformos XD

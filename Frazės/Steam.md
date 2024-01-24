@@ -1,0 +1,1 @@
+Tai žaidimų platforma XD wtf kur gali pirkti žaidimus
