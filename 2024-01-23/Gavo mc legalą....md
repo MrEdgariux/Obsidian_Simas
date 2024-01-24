@@ -1,0 +1,1 @@
+[[InsaneSimas]] vis delto gavo legalą krč [[Minecraft]] bled

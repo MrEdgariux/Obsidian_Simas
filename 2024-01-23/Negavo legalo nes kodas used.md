@@ -1,0 +1,1 @@
+[[InsaneSimas]] [[Mc legalą nusipirko]] bet kodas was used HAHAHA noobas

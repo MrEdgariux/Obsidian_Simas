@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč nuėjo į maxima ir nusipirko [[Minecraft]] legalą iš enebos XD

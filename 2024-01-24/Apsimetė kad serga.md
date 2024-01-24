@@ -1,0 +1,1 @@
+[[InsaneSimas]] apsimetė kad serga durnelis
