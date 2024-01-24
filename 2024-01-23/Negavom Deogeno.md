@@ -1,1 +1,1 @@
-[[NeonPlusX]] žaidžiant [[Phasmophobia]] mes negavom ghost'o 
+[[NeonPlusX]] žaidžiant [[Phasmophobia]] mes negavom ghost'o [[Deogen]] :(
