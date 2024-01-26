@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč sakė kad monstrų kebabą gaus, tai čj kiek zombiu dėl to mirė minecrafte kad jam tai pagamintu
