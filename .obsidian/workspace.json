@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "436963fdac182cec",
+        "id": "c8506a6ea298bc42",
         "type": "tabs",
         "children": [
           {
-            "id": "bfdf21b37d9d4641",
+            "id": "c1799f6a1b93c0d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frazės/Random songs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Random songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Random songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frazės/Random songs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfdf21b37d9d4641",
+  "active": "c1799f6a1b93c0d4",
   "lastOpenFiles": [
+    "2024-01-26/Neatidavė skolos.md",
+    "Frazės/Random songs.md",
     "Frazės/Random Songs/Day 1.md",
     "Frazės/Draugai/WhyVejas.md",
     "Frazės/N.md",
@@ -192,9 +186,7 @@
     "Frazės/Discord.md",
     "Frazės/ChatMod.md",
     "Frazės/Žaidimų Frazės/Phasmophobia/Deogen.md",
-    "2024-01-25/Simas rado T raide grybas.md",
     "2024-01-25",
-    "2024-01-24/Apsimetė kad serga.md",
     "2024-01-24",
     "Frazės/Žaidimų Frazės/Phasmophobia",
     "Frazės/Žaidimų Frazės",

@@ -1,0 +1,1 @@
+[[InsaneSimas]] neatidavė man skolos 0.02€ blemba o sakė kad turi ot kokie storulė bobuška jis yr
