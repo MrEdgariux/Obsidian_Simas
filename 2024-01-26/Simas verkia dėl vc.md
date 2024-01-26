@@ -1,0 +1,1 @@
+[[InsaneSimas]] verkia, kad eitume [[Discord]] [[T ar N]] (kitaip sąkant klausia tiesiog ar vc?) krč užpisa tokie vaikai mane, reik tokius balvonus su bulka primušt

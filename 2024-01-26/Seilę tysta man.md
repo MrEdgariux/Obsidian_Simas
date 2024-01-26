@@ -1,1 +1,1 @@
-[[InsaneSimas]] [[Gavo VIP pacas]] krč ir db man 100 litru seilių išbėgo kątik krč
+[[InsaneSimas]] [[Gavo VIP pacas]] krč ir db man 100 litru seilių išbėgo kątik krč... ngl erzina mane simas.
