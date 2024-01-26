@@ -1,0 +1,1 @@
+[[InsaneSimas]] bled vėl man skambina naxui tai einu [[Nuke]] paleisiu db bled protokola kai paleisiu sprogs simo namas nx

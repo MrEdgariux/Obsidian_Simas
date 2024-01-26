@@ -1,0 +1,1 @@
+[[InsaneSimas]] nusiunčiau Nuke į namus krč nes [[VC]] nuėjom bled, bet be [[T ar N]] naxui
