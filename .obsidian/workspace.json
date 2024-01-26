@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc8d36deea5da98",
+        "id": "4b2e0f10486d699b",
         "type": "tabs",
         "children": [
           {
-            "id": "b65a6da3f6f47eb3",
+            "id": "d9f5633af30bb8c3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,14 +154,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "d9f5633af30bb8c3",
   "lastOpenFiles": [
+    "2024-01-26/NESPROGO SIMAS NAXUI.md",
+    "2024-01-26/Žvengia ir nesako iš ko.md",
+    "2024-01-26/Gavo VIP pacas.md",
     "Frazės/Nuke.md",
     "2024-01-26/Simas paskambino dešra.md",
     "2024-01-26/Simas tuoj sprogs.md",
     "2024-01-26/Simas verkia dėl vc.md",
     "2024-01-26/Seilę tysta man.md",
-    "2024-01-26/Gavo VIP pacas.md",
     "Frazės/Hypixel.md",
     "Frazės/Jailbreak.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
@@ -190,8 +188,6 @@
     "2024-01-23/Gavo mc legalą....md",
     "2024-01-24",
     "2024-01-23/Pasikeitė nicka.md",
-    "2024-01-23/Žaidėm phasmophobia xd.md",
-    "2024-01-23/Negavom Deogeno.md",
     "Frazės/Žaidimų Frazės/Phasmophobia",
     "Frazės/Žaidimų Frazės",
     "Frazės/_IMAGES/Untitled.canvas",
