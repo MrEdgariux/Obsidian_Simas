@@ -1,0 +1,1 @@
+Krč ačiū dievui revoliutas padėjo, nenupiso 100€ daunai.

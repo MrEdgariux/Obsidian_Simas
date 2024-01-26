@@ -1,0 +1,1 @@
+Krč mano korta įšaldė po [[Bandė 100€ pavogt iš manęs]] tai susikūriau nauja
