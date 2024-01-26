@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e85648bb6b7897ea",
+        "id": "eb2e410be9e70f54",
         "type": "tabs",
         "children": [
           {
-            "id": "4ef66c4eb06dfd8a",
+            "id": "8d147bacf277baa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frazės/Jailbreak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b2dcf8e433e435e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypixel/VIP.md",
+                "file": "2024-01-26/Gavo VIP pacas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypixel/VIP.md",
+                "file": "2024-01-26/Gavo VIP pacas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypixel/VIP.md",
+                "file": "2024-01-26/Gavo VIP pacas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypixel/VIP.md"
+                "file": "2024-01-26/Gavo VIP pacas.md"
               }
             }
           },
@@ -175,12 +162,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b2dcf8e433e435e",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "Gavo VIP pacas.md",
-    "Hypixel/VIP.md",
-    "Hypixel",
+    "Frazės/Hypixel.md",
+    "2024-01-26/Gavo VIP pacas.md",
     "Frazės/Jailbreak.md",
+    "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
+    "Frazės/Žaidimų Frazės/Minecraft/Servers",
+    "Frazės/Žaidimų Frazės/Minecraft",
+    "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
     "2024-01-26",
     "Frazės/GD Lygis.md",
     "Frazės/Sargyba.md",
@@ -211,9 +201,6 @@
     "2024-01-22/Simas vėl man rašo tąpati per tąpati.md",
     "2024-01-22",
     "2024-01-21/Untitled.md",
-    "2024-01-21/Simas nk nerašo.md",
-    "2024-01-21",
-    "2024-01-20",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
