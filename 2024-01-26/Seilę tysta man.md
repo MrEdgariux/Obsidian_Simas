@@ -1,0 +1,1 @@
+[[InsaneSimas]] [[Gavo VIP pacas]] krč ir db man 100 litru seilių išbėgo kątik krč

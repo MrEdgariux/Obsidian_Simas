@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2e410be9e70f54",
+        "id": "f7702f78db510ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "8d147bacf277baa5",
+            "id": "ae7308012769152d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md",
+                "file": "2024-01-26/Seilę tysta man.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md",
+                "file": "2024-01-26/Seilę tysta man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md",
+                "file": "2024-01-26/Seilę tysta man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-26/Gavo VIP pacas.md"
+                "file": "2024-01-26/Seilę tysta man.md"
               }
             }
           },
@@ -162,10 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "ae7308012769152d",
   "lastOpenFiles": [
-    "Frazės/Hypixel.md",
+    "2024-01-26/Seilę tysta man.md",
     "2024-01-26/Gavo VIP pacas.md",
+    "Frazės/Hypixel.md",
     "Frazės/Jailbreak.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers",
@@ -200,7 +201,6 @@
     "2024-01-22/Neonke gavo transitiona.md",
     "2024-01-22/Simas vėl man rašo tąpati per tąpati.md",
     "2024-01-22",
-    "2024-01-21/Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
