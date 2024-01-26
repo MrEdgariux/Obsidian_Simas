@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f806bc8527338e77",
+        "id": "1cc8d36deea5da98",
         "type": "tabs",
         "children": [
           {
-            "id": "d077715232db92ca",
+            "id": "b65a6da3f6f47eb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-26/Gavo VIP pacas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-26/Gavo VIP pacas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-26/Gavo VIP pacas.md"
+              }
             }
           },
           {
@@ -154,7 +158,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d077715232db92ca",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
     "Frazės/Nuke.md",
     "2024-01-26/Simas paskambino dešra.md",
