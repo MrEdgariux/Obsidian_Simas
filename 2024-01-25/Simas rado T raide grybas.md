@@ -1,0 +1,1 @@
+[[InsaneSimas]] vėl rado mano supista prakeikta 5000000 žodžiu parašytame sakinyje T raide todėl aš jam šiandiena kaip mesiu viena puodelį į galva kad net galva nulėks į kosmosą ir paryžiui mama suras ir pripisiu sima prie staktos [[T]] [[T ar N]]
