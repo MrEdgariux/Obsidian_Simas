@@ -4,5 +4,5 @@ Galima per diena kelis kartus duoti muzika, jeigu abudu sutinkame
 ---
 Taisyklės:
 
-> [!NOTE] Nebegalima dau
-> Contents
+> [!NOTE] Nebegalima daugiau nei 1 dainos per diena
+> Atsirado taisyklė vartotojo [[InsaneSimas]] kad nebegalima duoti daugiau negul 1 dainos per diena.
