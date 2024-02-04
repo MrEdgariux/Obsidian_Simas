@@ -1,0 +1,1 @@
+[[InsaneSimas]] numečiau nuoroda https://dienynas.tamo.lt/Content/img/dashboard/1.svg ir ištryniau ir jam rodo todėl užsirašiau

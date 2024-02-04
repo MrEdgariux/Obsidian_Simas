@@ -11,8 +11,12 @@
             "id": "49224755789ad7e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-31/Simui rodo linka.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-01-31/Simui rodo linka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-01-31/Simui rodo linka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-01-31/Simui rodo linka.md"
+              }
             }
           },
           {
@@ -156,6 +164,8 @@
   },
   "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2024-01-31/Simui rodo linka.md",
+    "2024-01-31",
     "Frazės/Ariana Grande.md",
     "2024-01-26/7 rings pasikeitė.md",
     "2024-01-26/Įšaldė kortą.md",
@@ -185,14 +195,12 @@
     "Frazės/Sargyba.md",
     "Frazės/Steam.md",
     "Frazės/Phasmophobia.md",
-    "Frazės/McPrison.LT.md",
     "2024-01-25",
     "2024-01-24",
     "Frazės/Žaidimų Frazės/Phasmophobia",
     "Frazės/Žaidimų Frazės",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-01-23",
-    "2024-01-22",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
