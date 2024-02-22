@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] kitam traininge bus čj skyriuje kitam nx negul aš
