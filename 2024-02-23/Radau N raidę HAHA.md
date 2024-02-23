@@ -1,0 +1,1 @@
+[[InsaneSimas]] NOOBAS YRA PARAŠĖ [[T ar N]] ir tan [[N]] buvo gaidys HAHAH

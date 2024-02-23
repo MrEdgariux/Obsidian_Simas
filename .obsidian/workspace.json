@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a39bcf14082e5f",
+        "id": "31abec2261c72670",
         "type": "tabs",
         "children": [
           {
-            "id": "a524fd3bb1c96600",
+            "id": "649f88af74eb4604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-02-22/Trainingas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-22/Trainingas.md",
+                "file": "Frazės/VC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-22/Trainingas.md",
+                "file": "Frazės/VC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-22/Trainingas.md"
+                "file": "Frazės/VC.md"
               }
             }
           },
@@ -162,10 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a524fd3bb1c96600",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "2024-02-22/Boba Cafe welcome message.md",
+    "2024-02-23/Spamina kad eičiau vc.md",
+    "Frazės/VC.md",
     "2024-02-22/Trainingas.md",
+    "2024-02-23/Radau N raidę HAHA.md",
+    "2024-02-23/Davė challange.md",
+    "2024-02-23",
+    "2024-02-22/Boba Cafe welcome message.md",
     "2024-01-31/Simui rodo linka.md",
     "2024-02-22/Verkiu.md",
     "2024-02-22/Traktorius aš.md",
@@ -188,10 +189,6 @@
     "2024-01-26/Simas paskambino dešra.md",
     "2024-01-26/Simas tuoj sprogs.md",
     "2024-01-26/Simas verkia dėl vc.md",
-    "2024-01-26/Seilę tysta man.md",
-    "Frazės/Hypixel.md",
-    "Frazės/Jailbreak.md",
-    "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers",
     "Frazės/Žaidimų Frazės/Minecraft",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
@@ -199,7 +196,6 @@
     "2024-01-25",
     "2024-01-24",
     "Frazės/Žaidimų Frazės/Phasmophobia",
-    "Frazės/Žaidimų Frazės",
     "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
