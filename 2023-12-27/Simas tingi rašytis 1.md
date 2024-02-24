@@ -1,1 +1,1 @@
-[[InsaneSimas]] lošia Brawl Stars ir tingi užsirašyt nes pirė
+[[InsaneSimas]] lošia Brawl Stars ir tingi užsirašyt nes mirė
