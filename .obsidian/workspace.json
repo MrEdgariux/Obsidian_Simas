@@ -11,8 +11,10 @@
             "id": "649f88af74eb4604",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
           }
         ]
@@ -154,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "996b178b790223ae",
+  "active": "649f88af74eb4604",
   "lastOpenFiles": [
     "Frazės/VC.md",
     "2024-02-23/Spamina kad eičiau vc.md",
