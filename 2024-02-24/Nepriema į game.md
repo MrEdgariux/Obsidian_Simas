@@ -1,0 +1,1 @@
+[[InsaneSimas]] ddosina mano intika ir nepriema į applications nx

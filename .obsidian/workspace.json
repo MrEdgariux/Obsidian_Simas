@@ -11,9 +11,11 @@
             "id": "649f88af74eb4604",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "2024-02-24/Nepriema į game.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-24/Nepriema į game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-24/Nepriema į game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-02-24/Nepriema į game.md"
+              }
             }
           },
           {
@@ -158,6 +164,9 @@
   },
   "active": "649f88af74eb4604",
   "lastOpenFiles": [
+    "2024-02-24/Piso iš kojos.md",
+    "2024-02-24/Nepriema į game.md",
+    "2024-02-24",
     "Frazės/VC.md",
     "2024-02-23/Spamina kad eičiau vc.md",
     "2024-02-22/Trainingas.md",
@@ -185,15 +194,12 @@
     "2024-01-26/Gavo VIP pacas.md",
     "Frazės/Nuke.md",
     "2024-01-26/Simas paskambino dešra.md",
-    "2024-01-26/Simas tuoj sprogs.md",
-    "2024-01-26/Simas verkia dėl vc.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers",
     "Frazės/Žaidimų Frazės/Minecraft",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
     "2024-01-26",
     "2024-01-25",
     "2024-01-24",
-    "Frazės/Žaidimų Frazės/Phasmophobia",
     "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

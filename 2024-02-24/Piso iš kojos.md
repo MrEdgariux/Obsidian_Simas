@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] užsirašė kad nepriema į gama manes
