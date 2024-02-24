@@ -1,0 +1,1 @@
+[[InsaneSimas]] tik taip moka darant [[Kokia tragedija pastatė simas]]

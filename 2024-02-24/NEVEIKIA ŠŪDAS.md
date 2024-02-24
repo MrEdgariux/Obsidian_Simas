@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė užrašyt kad neveik šūdas žaidime su note blokais xD

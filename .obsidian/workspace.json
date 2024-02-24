@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-24/Ant hopperio redstone padėjo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22402ca8f1d8b844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "2024-02-24/NEVEIKIA ŠŪDAS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-02-24/NEVEIKIA ŠŪDAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-02-24/NEVEIKIA ŠŪDAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2024-02-24/NEVEIKIA ŠŪDAS.md"
               }
             }
           },
@@ -175,10 +162,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22402ca8f1d8b844",
+  "active": "fb6f076aa7815ec5",
   "lastOpenFiles": [
-    "2024-02-24/Ant hopperio redstone padėjo.md",
+    "2024-02-24/Simas su Notes blokais.md",
+    "2024-02-24/NEVEIKIA ŠŪDAS.md",
+    "2024-02-24/NE TA BLOKA PADĖJO.md",
     "Untitled.md",
+    "2024-02-24/Ant hopperio redstone padėjo.md",
     "2024-02-24/Kokia tragedija pastatė simas.md",
     "2024-02-24/Psihas simas.md",
     "2024-02-24/EKSPERIMENTA DAINUOJA.md",
@@ -201,9 +191,6 @@
     "2024-02-24/APISA()UDYyu9HYD.md",
     "2024-02-24/NETURI BLOKO TOJ VERSIJOJ ARCHYVAS SAKIAU NX.md",
     "2024-02-24/TUTORIALO NEBERANDA.md",
-    "2024-02-24/Ieško blokų iš kokių statyt archyvinėj versijoje 1.8.md",
-    "2024-02-24/Programa man sulūžo.md",
-    "2024-02-24/Virvė tokia ilga kaip simo.md",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",
