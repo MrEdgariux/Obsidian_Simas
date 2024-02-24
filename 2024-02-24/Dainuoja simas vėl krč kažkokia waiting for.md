@@ -1,0 +1,1 @@
+[[InsaneSimas]] dainuoja waiting for kažko, vampyro čj laukia
