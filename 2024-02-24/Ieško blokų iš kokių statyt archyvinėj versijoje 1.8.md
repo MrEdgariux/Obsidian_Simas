@@ -1,0 +1,1 @@
+[[InsaneSimas]] db ieško kokius blokus šūdinus naudot
