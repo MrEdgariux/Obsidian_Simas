@@ -1,0 +1,1 @@
+[[InsaneSimas]] pajuokaujant sakiau programa kad sulūžo bet iš tikro nesulūžo nes norėjo kad [[INSTACAME vopšė]] pakeisčiau į facebooką
