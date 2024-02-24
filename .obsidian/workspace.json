@@ -11,8 +11,12 @@
             "id": "08115953298ca8f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-24/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-24/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-24/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-02-24/Untitled.md"
+              }
             }
           },
           {
@@ -156,6 +164,12 @@
   },
   "active": "08115953298ca8f8",
   "lastOpenFiles": [
+    "2024-02-24/InsaneSimas be T raidės joinino VC.md",
+    "2024-02-24/Untitled.md",
+    "2024-02-24/Dyzelinas pajoinino.md",
+    "2024-02-24/Plugino neina padaryt.md",
+    "2024-02-24/Dainuoja Chapa Chapa.md",
+    "2024-02-24/Untitled",
     "2023-12-27/Simas tingi rašytis 1.md",
     "2023-12-26/Simas vėl T raide iš manes parovė.md",
     "2024-02-24/Simui niekad nenuobodu.md",
@@ -181,17 +195,11 @@
     "2024-01-26/Bandė 100€ pavogt iš manęs.md",
     "2024-01-26/Neatidavė skolos.md",
     "Frazės/Random songs.md",
-    "Frazės/Random Songs/Day 1.md",
-    "Frazės/Draugai/WhyVejas.md",
-    "Frazės/N.md",
-    "2024-01-26/Monster Kebaba gaus.md",
-    "2024-01-26/NESPROGO SIMAS NAXUI.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers",
     "Frazės/Žaidimų Frazės/Minecraft",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
     "2024-01-26",
     "2024-01-25",
-    "2024-01-24",
     "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

@@ -1,0 +1,1 @@
+[[Dyzelinas]] prisijungė į vc su [[InsaneSimas]] kartu kur kalbėjom
