@@ -1,0 +1,1 @@
+[[InsaneSimas]] neranda texture paketo ir man ranka lūžta berašyt kažka čia

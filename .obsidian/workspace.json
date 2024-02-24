@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd1aa801a2b3b49",
+        "id": "56ad0e93f680f4ad",
         "type": "tabs",
         "children": [
           {
-            "id": "03d101787382fd08",
+            "id": "fb6f076aa7815ec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-24/DA KAS VALANDA BLET DUOS NAXUI NAUJA MUZIKA.md",
+                "file": "2024-02-24/Texture packo neranda.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-24/DA KAS VALANDA BLET DUOS NAXUI NAUJA MUZIKA.md",
+                "file": "2024-02-24/Texture packo neranda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-24/DA KAS VALANDA BLET DUOS NAXUI NAUJA MUZIKA.md",
+                "file": "2024-02-24/Texture packo neranda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-24/DA KAS VALANDA BLET DUOS NAXUI NAUJA MUZIKA.md"
+                "file": "2024-02-24/Texture packo neranda.md"
               }
             }
           },
@@ -162,10 +162,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03d101787382fd08",
+  "active": "fb6f076aa7815ec5",
   "lastOpenFiles": [
-    "2024-02-24/KURVA BLED NAXUI DIENINES SONGS RANDOM NENORIU BLET.md",
+    "2024-02-24/Medalis sugedo.md",
+    "2024-02-24/Texture packo neranda.md",
+    "2024-02-24/NEBEDARYS RANDOM SINGS OMG.md",
+    "2024-02-24/NES BLOGAI PARAŠIAU VĖL PRATĘS.md",
     "2024-02-24/DA KAS VALANDA BLET DUOS NAXUI NAUJA MUZIKA.md",
+    "2024-02-24/KURVA BLED NAXUI DIENINES SONGS RANDOM NENORIU BLET.md",
     "2024-02-24/In my mind dainuoja simas.md",
     "2024-02-24/Dainuoja simas vėl krč kažkokia waiting for.md",
     "2024-02-24/PATS SUGALVOJO TOKĮ GAME BE TUTORIALO.md",
@@ -187,10 +191,6 @@
     "2024-02-24/TELEGRAME VOPŠĖ.md",
     "2024-02-24/DAR TIKTOKE VOPŠĖ.md",
     "2024-02-24/DAR TUTORIALO JAM REIK.md",
-    "2024-02-24/Net nepradėjo statyt žaidimo.md",
-    "2024-02-24/Neveik cancel buttonas.md",
-    "2024-02-24/Labai gerai įjungtas simo servas.md",
-    "2024-02-24/Dainuoja Chapa Chapa.md",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",
