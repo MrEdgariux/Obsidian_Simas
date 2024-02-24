@@ -1,0 +1,1 @@
+[[InsaneSimas]] [[NEVEIKIA ŠŪDAS]] krč sakė sim rodyklė as
