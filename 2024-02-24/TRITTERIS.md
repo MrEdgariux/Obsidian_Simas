@@ -1,0 +1,1 @@
+[[WHAT THE FUCK]] VOPŠĖ TWITTERĮ IEŠKO arba 'X'erį

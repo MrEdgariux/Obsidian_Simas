@@ -1,0 +1,1 @@
+[[TRITTERIS]] krč jau žinot
