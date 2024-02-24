@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč nemoka statyt to melo detektoriaus vopšė
