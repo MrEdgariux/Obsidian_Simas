@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39304a4e51a372f2",
+        "id": "4bd1aa801a2b3b49",
         "type": "tabs",
         "children": [
           {
-            "id": "618f8e213b595ad6",
+            "id": "03d101787382fd08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-24/Koordinates bloke gaudė.md",
+                "file": "2024-02-24/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-24/Koordinates bloke gaudė.md",
+                "file": "2024-02-24/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-24/Koordinates bloke gaudė.md",
+                "file": "2024-02-24/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-24/Koordinates bloke gaudė.md"
+                "file": "2024-02-24/Untitled.md"
               }
             }
           },
@@ -162,11 +162,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "618f8e213b595ad6",
+  "active": "03d101787382fd08",
   "lastOpenFiles": [
-    "2024-02-24/Tingiu berašyt.md",
-    "2024-02-24/Koordinates bloke gaudė.md",
+    "2024-02-24/Untitled.md",
+    "2024-02-24/PATS SUGALVOJO TOKĮ GAME BE TUTORIALO.md",
+    "2024-02-24/Rokiškio rekordas.md",
     "2024-02-24/Untitled",
+    "2024-02-24/Koordinates bloke gaudė.md",
+    "2024-02-24/Tingiu berašyt.md",
     "2024-02-24/APISA()UDYyu9HYD.md",
     "2024-02-24/NETURI BLOKO TOJ VERSIJOJ ARCHYVAS SAKIAU NX.md",
     "2024-02-24/TUTORIALO NEBERANDA.md",
@@ -188,9 +191,6 @@
     "2024-02-24/ŽVENGIA SIMAS KAD VERSIJA NE TA.md",
     "2024-02-24/NE TA VERSIJA NAXUI.md",
     "2024-02-24/Prabėgo su laidu per langa.md",
-    "2024-02-24/DAINUOJA VĖL.md",
-    "2024-02-24/Dyzelinas valgo dribubasa kažkokį.md",
-    "2024-02-24/InsaneSimas be T raidės joinino VC.md",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",

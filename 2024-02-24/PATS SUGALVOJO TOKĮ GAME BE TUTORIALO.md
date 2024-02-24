@@ -1,0 +1,1 @@
+[[InsaneSimas]] naxui -_- bereikalo rašiau [[NETURI BLOKO TOJ VERSIJOJ ARCHYVAS SAKIAU NX]] [[INSTACAME vopšė]] ir t.t
