@@ -1,0 +1,1 @@
+[[Net nepradėjo statyt žaidimo]] krč ir da tutorialo yt ieško OMG

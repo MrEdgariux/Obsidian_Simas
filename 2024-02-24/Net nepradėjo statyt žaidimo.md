@@ -1,0 +1,1 @@
+[[InsaneSimas]] net nestato o sakė statys melo detektoriu bled kuris bus 99% LIE ir 1% NOT LIE NAXUI
