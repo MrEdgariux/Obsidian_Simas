@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/VC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/VC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frazės/VC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "996b178b790223ae",
   "lastOpenFiles": [
-    "2024-02-23/Spamina kad eičiau vc.md",
     "Frazės/VC.md",
+    "2024-02-23/Spamina kad eičiau vc.md",
     "2024-02-22/Trainingas.md",
     "2024-02-23/Radau N raidę HAHA.md",
     "2024-02-23/Davė challange.md",
