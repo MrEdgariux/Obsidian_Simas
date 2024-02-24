@@ -1,0 +1,1 @@
+[[InsaneSimas]] gaila manęs pasidarė
