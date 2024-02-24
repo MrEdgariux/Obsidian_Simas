@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė kad niekad jam nenubodu
