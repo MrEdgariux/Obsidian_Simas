@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c97426d25e9e67e",
+        "id": "845c9590cddf0108",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfa717aadb169bf",
+            "id": "bcdcd01284d70000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-24/Prabėgo su laidu per langa.md",
+                "file": "2024-02-24/Dainuoja Chapa Chapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-24/Prabėgo su laidu per langa.md",
+                "file": "2024-02-24/Dainuoja Chapa Chapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-24/Prabėgo su laidu per langa.md",
+                "file": "2024-02-24/Dainuoja Chapa Chapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-24/Prabėgo su laidu per langa.md"
+                "file": "2024-02-24/Dainuoja Chapa Chapa.md"
               }
             }
           },
@@ -162,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbfa717aadb169bf",
+  "active": "bcdcd01284d70000",
   "lastOpenFiles": [
+    "2024-02-24/ŽVENGIA SIMAS KAD VERSIJA NE TA.md",
+    "2024-02-24/NE TA VERSIJA NAXUI.md",
     "2024-02-24/Prabėgo su laidu per langa.md",
     "2024-02-24/DAINUOJA VĖL.md",
     "2024-02-24/Dyzelinas valgo dribubasa kažkokį.md",
@@ -193,8 +195,6 @@
     "2024-01-31",
     "Frazės/Ariana Grande.md",
     "2024-01-26/7 rings pasikeitė.md",
-    "2024-01-26/Įšaldė kortą.md",
-    "2024-01-26/Bandė 100€ pavogt iš manęs.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers",
     "Frazės/Žaidimų Frazės/Minecraft",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
