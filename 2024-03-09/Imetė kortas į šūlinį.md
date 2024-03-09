@@ -1,0 +1,1 @@
+[[InsaneSimas]] įmetė korta į šulinį

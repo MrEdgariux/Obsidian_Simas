@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56ad0e93f680f4ad",
+        "id": "efcf16821bb5bb95",
         "type": "tabs",
         "children": [
           {
-            "id": "fb6f076aa7815ec5",
+            "id": "168fddcda1ceb658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-02-24/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-24/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-24/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-02-24/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,15 +154,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb6f076aa7815ec5",
+  "active": "168fddcda1ceb658",
   "lastOpenFiles": [
-    "2024-02-24/Sprogo simo meilė.md",
+    "2024-03-09/Imetė kortas į šūlinį.md",
+    "Untitled.md",
+    "2024-03-09",
     "2024-02-24/Untitled.md",
+    "2024-02-24/Sprogo simo meilė.md",
     "2024-02-24/NEDUOS BITKOINU MAN SIMAS.md",
     "2024-02-24/NEVEIKIA ŠŪDAS.md",
     "2024-02-24/Simas su Notes blokais.md",
     "2024-02-24/NE TA BLOKA PADĖJO.md",
-    "Untitled.md",
     "2024-02-24/Ant hopperio redstone padėjo.md",
     "2024-02-24/Kokia tragedija pastatė simas.md",
     "2024-02-24/Psihas simas.md",
@@ -190,7 +184,6 @@
     "2024-02-24/Rokiškio rekordas.md",
     "2024-02-24/Untitled",
     "2024-02-24/Koordinates bloke gaudė.md",
-    "2024-02-24/Tingiu berašyt.md",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",
@@ -199,7 +192,6 @@
     "Frazės/Žaidimų Frazės/Minecraft",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
     "2024-01-26",
-    "2024-01-25",
     "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
