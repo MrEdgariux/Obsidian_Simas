@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efcf16821bb5bb95",
+        "id": "a9d376fc0bd92471",
         "type": "tabs",
         "children": [
           {
-            "id": "168fddcda1ceb658",
+            "id": "80c05252e406cbec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "168fddcda1ceb658",
+  "active": "80c05252e406cbec",
   "lastOpenFiles": [
+    "2024-03-09/Makro įsirašys.md",
     "2024-03-09/Imetė kortas į šūlinį.md",
     "Untitled.md",
     "2024-03-09",
@@ -183,7 +184,6 @@
     "2024-02-24/PATS SUGALVOJO TOKĮ GAME BE TUTORIALO.md",
     "2024-02-24/Rokiškio rekordas.md",
     "2024-02-24/Untitled",
-    "2024-02-24/Koordinates bloke gaudė.md",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",
