@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] susikūrė taisyklę, kad jeigu tipo numetu linka pvz https://ratchet.lombax.top/no_fox ar pan, su emoji ar stickeriu, kad einam vc tai pisiu jam viena į galva
