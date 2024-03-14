@@ -1,0 +1,3 @@
+Dalbajobas discordas, nekrauna fotkiu discord'e kai [[InsaneSimas]] numečiau emoji https://ratchet.lombax.top/angry_xenon
+
+...
