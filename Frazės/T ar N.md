@@ -28,5 +28,6 @@ Taip pat jeigu yra kelios žinutės su keliom T raidėm galima pridėti juos į 
 14. Suplanuota pokalbį vartotojas (simas arba edgaras) gali pakeisti, perkelti anksčiau arba vėliau, su tam skirta priežastimi.
 15. **TAČIAU jeigu yra suplanuotas pokalbis, ir likus 1 valandai iki to pokalbio nėra jis perkeliamas / atšaukiamas, tuomet jau to suplanuoto pokalbio perkelti / atšaukti nebėra galimybės.**
 16. Draudžiamos pateisinamos priežastys: ("Aj tingiu dabar", "Nenoriu", "Ne šiandiena (**except pridedama priežastis kodėl ne šiandiena**)")
-17. Iš šių taisyklių draudžiama rinkti T raidęs.
-18. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
+17. Taip pat simui irgi yra taisyklės, kad jeigu Edgaras randa N raidę, taip kaip galima rasti T raidės, pokalbis nebegali vykti tiek laiko, kiek galioja T raidė.
+18. Iš šių taisyklių draudžiama rinkti T raidęs.
+19. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
