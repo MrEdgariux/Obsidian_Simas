@@ -23,7 +23,9 @@ Taip pat jeigu yra kelios žinutės su keliom T raidėm galima pridėti juos į 
 9. Siunčiamos T raidės negali būti užfiksuotos jeigu jau esame VC, arba buvome kai buvo siųstas tekstas ar nuotrauka ar panašiai.
 10. Simo pridėta taisyklė: jeigu paklausi vc ir tiesiog pasako ok, galim ir pnš, tai nereikia T, galima skambint
 11. Jeigu yra pateisinama priežastis, tuomet skambinti galima tada, kada vartotojas ATSILAISVINO BE LAIKO APRIBOJIMU (t.y jeigu šiandiena visa diena neatsiliepiama, tuomet galima skambinti rytoj, jeigu vartotojas jau bus laisvas)
-12. ATNAUJINTA > Jeigu
-13. Draudžiamos pateisinamos priežastys: ("Aj tingiu dabar", "Nenoriu", "Ne šiandiena (**except pridedama priežastis kodėl ne šiandiena**)")
-14. Iš šių taisyklių draudžiama rinkti T raidęs.
-15. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
+12. ATNAUJINTA > Jeigu rasta buvo T raidė, ir vartotojas negali kalbėti šiuo metu, tuomet galima "Suplanuoti pokalbį". Planavimo laikas nėra ribojamas, galima planuoti net metus į priekį, tačiau jeigu vartotojas sutinka.
+13. Suplanuota pokalbį vartotojas gali pakeisti, perkelti anksčiau arba vėliau, su tam skirta priežastimi.
+14. Suplanuota pokalbį galima
+15. Draudžiamos pateisinamos priežastys: ("Aj tingiu dabar", "Nenoriu", "Ne šiandiena (**except pridedama priežastis kodėl ne šiandiena**)")
+16. Iš šių taisyklių draudžiama rinkti T raidęs.
+17. Aš pasilieku teisę pakeisti taisyklęs ir PRIVALAU pranešti, kada tai bus atlikta - Šios taisyklės galioja tiek Edgarui tiek Simui.
