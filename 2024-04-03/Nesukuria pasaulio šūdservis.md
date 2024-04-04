@@ -1,1 +1,1 @@
-Šitas serveris bled kainavo 12€ ir ble cpu toks lievx kad ble aternos geriau veik negu ši
+Šitas serveris bled kainavo 12€ ir ble cpu toks lievx kad ble aternos geriau veik negu šitas šūdas

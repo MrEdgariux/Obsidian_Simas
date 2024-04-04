@@ -1,0 +1,1 @@
+[[InsaneSimas]] su huzuni čytais ir milžiniškais kiškio ausimis prie mano burnos išgirdo kad kažka ėdu ir spama padarė dėl fotkiu

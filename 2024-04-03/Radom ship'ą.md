@@ -1,0 +1,1 @@
+[[InsaneSimas]] eini lootinti staigiai, gal rasi diamonda!
