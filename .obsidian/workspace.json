@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f63ecb595fad333c",
+        "id": "92ec3d4cd5bdcf37",
         "type": "tabs",
         "children": [
           {
-            "id": "a3dbd13deb67b78d",
+            "id": "a6559d0d7c3580a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-03/Išsisavino šiukšlę.md",
+                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-03/Išsisavino šiukšlę.md",
+                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-03/Išsisavino šiukšlę.md",
+                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-03/Išsisavino šiukšlę.md"
+                "file": "2024-03-14/Simas susikūrė taisyklę durna.md"
               }
             }
           },
@@ -162,10 +162,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3dbd13deb67b78d",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "2024-04-03/Išgirdo kad ėdu suka.md",
+    "2024-03-14/Nekrauna dc fotkiu.md",
+    "2024-03-14/NE TA DIENA PARAŠIAU.md",
+    "2024-04-03/Egza islaikiau anglu.md",
+    "2024-04-03/Raktus kažkas paliko mašinos.md",
+    "2024-04-03/Šūda išsisavino kurio nenuleidau tulike.md",
     "2024-04-03/Išsisavino šiukšlę.md",
+    "2024-04-03/Išgirdo kad ėdu suka.md",
     "2024-04-03/Radom ship'ą.md",
     "2024-04-03/Nbgl sprintinti nes ėst ntr.md",
     "Frazės/T ar N.md",
@@ -176,8 +181,6 @@
     "Suplanavimai/Upcoming.md",
     "2024-04-03",
     "Suplanavimai",
-    "2024-03-14/NE TA DIENA PARAŠIAU.md",
-    "2024-03-14/Nekrauna dc fotkiu.md",
     "2024-03-14/Simas susikūrė taisyklę durna.md",
     "2024-03-14",
     "2024-03-09/Makro įsirašys.md",
@@ -191,9 +194,6 @@
     "2024-02-24/Simas su Notes blokais.md",
     "2024-02-24/NE TA BLOKA PADĖJO.md",
     "2024-02-24/Ant hopperio redstone padėjo.md",
-    "2024-02-24/Kokia tragedija pastatė simas.md",
-    "2024-02-24/Psihas simas.md",
-    "2024-02-24/EKSPERIMENTA DAINUOJA.md",
     "2024-02-24/Untitled",
     "2024-02-24",
     "2024-02-23",
