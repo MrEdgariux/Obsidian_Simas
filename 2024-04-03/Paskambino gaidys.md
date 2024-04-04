@@ -1,0 +1,1 @@
+[[InsaneSimas]] paskambino kai tik parašiau tarkim kad ok blemba, tešliukas kažkokx
