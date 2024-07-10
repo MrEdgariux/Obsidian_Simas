@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "988a613a5211d09b",
+        "id": "9343d0b734ae339c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9ebcf564ed3164",
+            "id": "e4f327d5369a294c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Frazės/_IMAGES/Untitled.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": -495,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/_IMAGES/Untitled.canvas",
+                "file": "2023-12-29/Žodžiu paskambino asilas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/_IMAGES/Untitled.canvas",
+                "file": "2023-12-29/Žodžiu paskambino asilas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/_IMAGES/Untitled.canvas"
+                "file": "2023-12-29/Žodžiu paskambino asilas.md"
               }
             }
           },
@@ -167,6 +160,13 @@
   },
   "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "2023-12-29/Variau į konca.md",
+    "2023-12-26/Žaidimui/Vėl išrinko mane prezentuoti 2.md",
+    "2024-07-10/Gavo muta ant gamsterio.md",
+    "2024-07-10/TikToka žiūrės.md",
+    "2024-07-10/Neonke rėkauja ragina.md",
+    "Frazės/_IMAGES/Untitled.canvas",
+    "README.md",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
     "Frazės/Random Songs/Day 43.md",
     "Suplanavimai/Upcoming.md",
@@ -187,12 +187,6 @@
     "2023-12-26/Rado T raide.md",
     "2023-12-26/Paskambino snarglys.md",
     "2023-12-26/Palygink šitus su PaQ kažkokį.md",
-    "2023-12-26/Pacas čipsus ėda.md",
-    "2023-12-26/Nupirko pacukui kreditus už frankus.md",
-    "2023-12-26/Monsterį baigia ir pabaigė išgert.md",
-    "2023-12-26/Liepia man duoti triusikus savo paskutinius.md",
-    "2023-12-26/Liepė trinti visas taisyklęs keksė.md",
-    "2023-12-26/Jau dega žaliuzės pas sima namuose.md",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
@@ -203,7 +197,6 @@
     "2024-02-23",
     "2024-02-22",
     "2024-01-31",
-    "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
