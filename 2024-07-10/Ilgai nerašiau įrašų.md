@@ -1,0 +1,1 @@
+Taip, ilgai nerašiau užsirašymų su simu nes dažnai nebekalbam + tik šiandiena programa persisiunčiau, nes labai tingėjau xD tai va krč daug įrašų su [[InsaneSimas]] nėra dė
