@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92ec3d4cd5bdcf37",
+        "id": "7545f73e32c93900",
         "type": "tabs",
         "children": [
           {
-            "id": "a6559d0d7c3580a6",
+            "id": "45318c04829aae5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
+                "file": "2024-07-10/Robloxa nori eit.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
+                "file": "2024-07-10/Robloxa nori eit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-14/Simas susikūrė taisyklę durna.md",
+                "file": "2024-07-10/Robloxa nori eit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-14/Simas susikūrė taisyklę durna.md"
+                "file": "2024-07-10/Robloxa nori eit.md"
               }
             }
           },
@@ -162,8 +162,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "45318c04829aae5b",
   "lastOpenFiles": [
+    "2024-07-10/Žiūri tiktoka.md",
+    "2024-07-10/Robloxa nori eit.md",
+    "2024-07-10/Zyzia dėl tiktok ranko ant gamsterio.md",
+    "2024-07-10/Gavo muta ant gamsterio.md",
+    "2024-03-14/Simas susikūrė taisyklę durna.md",
+    "2024-07-10",
     "2024-03-14/Nekrauna dc fotkiu.md",
     "2024-03-14/NE TA DIENA PARAŠIAU.md",
     "2024-04-03/Egza islaikiau anglu.md",
@@ -181,7 +187,6 @@
     "Suplanavimai/Upcoming.md",
     "2024-04-03",
     "Suplanavimai",
-    "2024-03-14/Simas susikūrė taisyklę durna.md",
     "2024-03-14",
     "2024-03-09/Makro įsirašys.md",
     "2024-03-09/Imetė kortas į šūlinį.md",
@@ -190,16 +195,11 @@
     "2024-02-24/Untitled.md",
     "2024-02-24/Sprogo simo meilė.md",
     "2024-02-24/NEDUOS BITKOINU MAN SIMAS.md",
-    "2024-02-24/NEVEIKIA ŠŪDAS.md",
-    "2024-02-24/Simas su Notes blokais.md",
-    "2024-02-24/NE TA BLOKA PADĖJO.md",
-    "2024-02-24/Ant hopperio redstone padėjo.md",
     "2024-02-24/Untitled",
     "2024-02-24",
     "2024-02-23",
     "2024-02-22",
     "2024-01-31",
-    "Frazės/Žaidimų Frazės/Minecraft/Servers",
     "Frazės/_IMAGES/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

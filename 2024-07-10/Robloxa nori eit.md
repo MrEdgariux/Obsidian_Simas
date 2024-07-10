@@ -1,0 +1,1 @@
+[[InsaneSimas]] laukia kol joininsiu prie jb naxui 100%

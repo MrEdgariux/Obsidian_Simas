@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] krč gavo muta ant mc žaidimo gamsterio nx
