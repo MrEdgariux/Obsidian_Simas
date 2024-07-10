@@ -1,0 +1,1 @@
+[[InsaneSimas]] nori įsivaikint mane nors mano mintis nuskaito
