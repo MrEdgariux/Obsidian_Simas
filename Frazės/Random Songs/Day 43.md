@@ -1,7 +1,7 @@
-| Kas davė?       |   Muzika   | Mėgstamiausi lyricsai | Mėgstamiausia vieta | Įvertinimas |
-| --------------- |:----------:|:---------------------:|:-------------------:|:-----------:|
-| **MrEdgariux**  | Formula | -                     | 0:08                | 2            |
-| **InsaneSimas** | Try   | -                      | -                    | 1            |
+| Kas davė?       | Muzika  | Mėgstamiausi lyricsai | Mėgstamiausia vieta | Įvertinimas |
+| --------------- | :-----: | :-------------------: | :-----------------: | :---------: |
+| **MrEdgariux**  | Formula |           -           |        0:08         |      2      |
+| **InsaneSimas** |   Try   |           -           |          -          |      1      |
 
 
 > [!WARNING] Galimai neišklausyta muzika
