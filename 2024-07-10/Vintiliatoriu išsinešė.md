@@ -1,0 +1,1 @@
+[[InsaneSimas]] pavertė mane į vintiliatoriu ir išsinešė padla

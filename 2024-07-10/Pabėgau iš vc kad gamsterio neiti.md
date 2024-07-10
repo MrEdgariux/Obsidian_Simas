@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč gamster sugalvojo eit per mc tai alt+f4 paspaudžiau ir sakiau tr varyt i parde xD

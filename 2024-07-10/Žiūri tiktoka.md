@@ -1,1 +1,1 @@
-[[InsaneSimas]] žiūri tiktoka
+[[InsaneSimas]] žiūri tiktoka kaip visada, atsibodo ans mane jau

@@ -1,0 +1,1 @@
+[[InsaneSimas]] pasakiau kad parašysiu kada grįšiu bet tng kalbėtis toliau todėl nerašiau jam kada grįžau nors net nebuvau išėjęs niekur nes karšta bv xD

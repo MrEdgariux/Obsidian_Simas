@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7545f73e32c93900",
+        "id": "2367cd09ee190656",
         "type": "tabs",
         "children": [
           {
-            "id": "45318c04829aae5b",
+            "id": "62fb051729af6608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-10/Šaldytuvas namuos atsirado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1e144d9ee27c723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-10/Ilgai nerašiau įrašų.md",
+                "file": "Suplanavimai/Upcoming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-10/Ilgai nerašiau įrašų.md",
+                "file": "Suplanavimai/Upcoming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-10/Ilgai nerašiau įrašų.md",
+                "file": "Suplanavimai/Upcoming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-10/Ilgai nerašiau įrašų.md"
+                "file": "Suplanavimai/Upcoming.md"
               }
             }
           },
@@ -175,10 +162,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1e144d9ee27c723",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
-    "2023-12-26/Tuoletus pacukas perka.md",
+    "2024-07-10/Pabėgau iš vc kad gamsterio neiti.md",
+    "2024-07-10/Prižadėjau pareit į vc.md",
+    "2024-07-10/Žiūri tiktoka.md",
+    "2024-07-10/Vintiliatoriu išsinešė.md",
+    "2024-07-10/Šaldytuvas namuos atsirado.md",
     "2024-07-10/Ilgai nerašiau įrašų.md",
+    "2023-12-26/Tuoletus pacukas perka.md",
     "2023-12-26/Sumaišė dainas random songu.md",
     "2023-12-26/Simas vėl T raide iš manes parovė.md",
     "2023-12-26/Simas nusipirko kilimą.md",
@@ -198,11 +190,6 @@
     "2023-12-26/Gers monsterį Simas.md",
     "2023-12-26/Davė chapa chapa.md",
     "2023-12-26/Dainuoja ChatGPT.md",
-    "2023-12-26/Dainuoja Chapa Chapa bled kurva.md",
-    "2023-12-26/Atsiraugojo.md",
-    "2023-12-26/Ariana edita pamatė su Chapa Chapa muzika.md",
-    "2023-12-26/Žaidimui/Apšiko mane 1.md",
-    "2023-12-25/Žino kas TON 618 yr.md",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
