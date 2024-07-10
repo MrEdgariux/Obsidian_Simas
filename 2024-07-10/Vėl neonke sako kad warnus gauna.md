@@ -1,0 +1,1 @@
+[[NeonPlusX]] sakė kad marijus gavo warna už tai kad parašė "Cigaretė"
