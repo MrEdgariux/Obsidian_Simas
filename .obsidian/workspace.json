@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9343d0b734ae339c",
+        "id": "467a5aace118cf9b",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f327d5369a294c",
+            "id": "c96c1a73870a6431",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-29/Žodžiu paskambino asilas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-29/Žodžiu paskambino asilas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-12-29/Žodžiu paskambino asilas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +154,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de375df0b8bbae15",
+  "active": "c96c1a73870a6431",
   "lastOpenFiles": [
+    "2024-01-08/Apipiso mane simas kad ne mokykloj.md",
+    "2023-12-29/Žodžiu paskambino asilas.md",
     "2023-12-29/Variau į konca.md",
     "2023-12-26/Žaidimui/Vėl išrinko mane prezentuoti 2.md",
     "2024-07-10/Gavo muta ant gamsterio.md",
@@ -185,8 +183,6 @@
     "2023-12-26/Sakė nededi N su T raidėm šūdo.md",
     "2023-12-26/Sakė kad eisim vc.md",
     "2023-12-26/Rado T raide.md",
-    "2023-12-26/Paskambino snarglys.md",
-    "2023-12-26/Palygink šitus su PaQ kažkokį.md",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
