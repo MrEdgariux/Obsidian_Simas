@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2367cd09ee190656",
+        "id": "988a613a5211d09b",
         "type": "tabs",
         "children": [
           {
-            "id": "62fb051729af6608",
+            "id": "0c9ebcf564ed3164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
-                "mode": "source",
-                "source": false
+                "file": "Frazės/_IMAGES/Untitled.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": -495,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
+                "file": "Frazės/_IMAGES/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
+                "file": "Frazės/_IMAGES/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md"
+                "file": "Frazės/_IMAGES/Untitled.canvas"
               }
             }
           },
@@ -158,11 +161,13 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62fb051729af6608",
+  "active": "de375df0b8bbae15",
   "lastOpenFiles": [
+    "Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
     "Frazės/Random Songs/Day 43.md",
     "Suplanavimai/Upcoming.md",
     "2024-07-10/Pabėgau iš vc kad gamsterio neiti.md",
@@ -188,7 +193,6 @@
     "2023-12-26/Liepia man duoti triusikus savo paskutinius.md",
     "2023-12-26/Liepė trinti visas taisyklęs keksė.md",
     "2023-12-26/Jau dega žaliuzės pas sima namuose.md",
-    "2023-12-26/Gers monsterį Simas.md",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
