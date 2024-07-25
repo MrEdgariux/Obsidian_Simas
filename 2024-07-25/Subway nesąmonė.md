@@ -1,1 +1,1 @@
-[[InsaneSimas]] žaidėm mes The Intruder
+[[InsaneSimas]] žaidėm mes The Intruder ir tan šūdas kažkoks
