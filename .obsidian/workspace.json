@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7419fd72149784",
+        "id": "bc93a64c967e76b0",
         "type": "tabs",
         "children": [
           {
-            "id": "86a93aa75edb408d",
+            "id": "b747be0b8ecd7e79",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -156,7 +154,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86a93aa75edb408d",
+  "active": "b747be0b8ecd7e79",
   "lastOpenFiles": [
     "2024-07-10/Vėl neonke sako kad warnus gauna.md",
     "2024-01-08/Apipiso mane simas kad ne mokykloj.md",
