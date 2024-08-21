@@ -1,0 +1,1 @@
+Krč kątik [[InsaneSimas]] gavo notificatyiona iš duxo prisono kad jis tuoj priž gaus tai nueisiu db su diržu pas sima ir povila ir nuta (riešutas nxj) ir da pas ta medūza ir priplosiu į ausis sakysiu mldc geras darbas!
