@@ -1,0 +1,1 @@
+Blemba [[Minecraft]] bandau pajungti clienta ir nekrauna riešutas, dar 500 update bv krč užpiso jau o [[InsaneSimas]] rushina mane kad eičiau į jo tą serverį nx
