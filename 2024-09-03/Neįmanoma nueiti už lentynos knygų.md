@@ -1,1 +1,1 @@
-[[InsaneSimas]] nepadar
+[[InsaneSimas]] nepadarė per granny kad krč tan galėtum nueit už knygų lentynos kur paveiksla numeti naxui :D

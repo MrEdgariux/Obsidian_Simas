@@ -1,0 +1,1 @@
+[[InsaneSimas]] torčus db pradėjo dėliot :DDD krč žiauru kiek monstru pizdaaa
