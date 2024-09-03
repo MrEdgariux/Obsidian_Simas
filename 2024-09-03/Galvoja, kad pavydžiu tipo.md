@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] galvoja, kad aš pavydžiu dėl [[Simui pasakė kad priž pasiekt gali]] įrašo, o taip iš tikro nėra, debiliukas simas biški, 

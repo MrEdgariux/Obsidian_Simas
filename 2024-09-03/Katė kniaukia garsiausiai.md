@@ -1,0 +1,1 @@
+Krč kalbu aš su [[InsaneSimas]] ir mano katė tokia MIAUUUUUUUUUUUUU blyat net ausis išskrido ir katės nebėra, užkniso jau biški mane.
