@@ -1,0 +1,1 @@
+[[InsaneSimas]] neįdėjo jokio daikto į stalčius man bliamba main roome padla
