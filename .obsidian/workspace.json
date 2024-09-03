@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adf2b7a21c8b0c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-03/Į serva kviečia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-25/Į jailbreak privertė.md",
+                "file": "2024-09-03/Į serva kviečia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-25/Į jailbreak privertė.md",
+                "file": "2024-09-03/Į serva kviečia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-25/Į jailbreak privertė.md"
+                "file": "2024-09-03/Į serva kviečia.md"
               }
             }
           },
@@ -162,11 +175,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b747be0b8ecd7e79",
+  "active": "adf2b7a21c8b0c0f",
   "lastOpenFiles": [
-    "2024-08-20/Simui pasakė kad priž pasiekt gali.md",
-    "Untitled.md",
+    "2024-09-03/Paskambino medis.md",
+    "2024-09-03/Į serva kviečia.md",
     "2024-07-25/Į jailbreak privertė.md",
+    "2024-09-03",
+    "2024-08-20/Simui pasakė kad priž pasiekt gali.md",
     "2024-08-20",
     "2024-07-25/Subway nesąmonė.md",
     "2024-07-25/Perėjom šūdų krūva.md",
@@ -192,7 +207,6 @@
     "2024-07-10/Ilgai nerašiau įrašų.md",
     "2023-12-26/Tuoletus pacukas perka.md",
     "2023-12-26/Sumaišė dainas random songu.md",
-    "2023-12-26/Simas vėl T raide iš manes parovė.md",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
@@ -200,7 +214,6 @@
     "2024-03-09",
     "2024-02-24/Untitled",
     "2024-02-24",
-    "2024-02-23",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
