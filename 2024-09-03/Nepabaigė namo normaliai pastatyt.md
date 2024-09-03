@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė kad tik 40% baigtas ir krč čia gali iškrist naxui iš namo ir labai lengvai pabėgti :DD

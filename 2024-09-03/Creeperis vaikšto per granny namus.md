@@ -1,0 +1,1 @@
+[[InsaneSimas]] torču nesudėjo, creeperis vaikšto apačioje pizda
