@@ -1,0 +1,1 @@
+[[InsaneSimas]] supyka kad ignorinu krč nes nnr vc su juo

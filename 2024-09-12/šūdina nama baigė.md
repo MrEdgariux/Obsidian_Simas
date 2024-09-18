@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė kad nama baigė šūdina

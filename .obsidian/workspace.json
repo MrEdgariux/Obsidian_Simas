@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc93a64c967e76b0",
+        "id": "f3b17e8390250b80",
         "type": "tabs",
         "children": [
           {
-            "id": "b747be0b8ecd7e79",
+            "id": "dee7c72e35842913",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-25/Į jailbreak privertė.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adf2b7a21c8b0c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-03/Lova pistis slenderinai.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-03/Lova pistis slenderinai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-03/Lova pistis slenderinai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-09-03/Lova pistis slenderinai.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +154,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf2b7a21c8b0c0f",
+  "active": "dee7c72e35842913",
   "lastOpenFiles": [
-    "2024-09-03/O PIZE PALĖPĖ PILNA MONSTRU GRANNY.md",
+    "2024-07-25/Į jailbreak privertė.md",
+    "2024-09-12/šūdina nama baigė.md",
+    "2024-09-12/Simas supyko kad ignorinu.md",
     "2024-09-03/Lova pistis slenderinai.md",
+    "2024-09-12",
+    "2024-09-03/O PIZE PALĖPĖ PILNA MONSTRU GRANNY.md",
     "2024-09-03/Neįmanoma nueiti už lentynos knygų.md",
     "2024-09-03/Nepabaigė namo normaliai pastatyt.md",
     "2024-09-03/Vora girdžiu granny name.md",
@@ -194,7 +177,6 @@
     "2024-09-03/Katė kniaukia garsiausiai.md",
     "2024-09-03/Į serva kviečia.md",
     "2024-09-03/Paskambino medis.md",
-    "2024-07-25/Į jailbreak privertė.md",
     "2024-09-03",
     "2024-08-20",
     "2024-07-25/Subway nesąmonė.md",
@@ -204,8 +186,6 @@
     "2024-01-08/Apipiso mane simas kad ne mokykloj.md",
     "2023-12-29/Žodžiu paskambino asilas.md",
     "2023-12-29/Variau į konca.md",
-    "2023-12-26/Žaidimui/Vėl išrinko mane prezentuoti 2.md",
-    "2024-07-10/Gavo muta ant gamsterio.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-07-10",
     "2024-04-03",
@@ -213,7 +193,6 @@
     "2024-03-14",
     "2024-03-09",
     "2024-02-24/Untitled",
-    "2024-02-24",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
