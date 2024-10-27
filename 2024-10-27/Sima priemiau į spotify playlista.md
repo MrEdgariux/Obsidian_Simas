@@ -1,0 +1,1 @@
+Žodžiu [[InsaneSimas]] priemiau į playlisto bendrakūrius krč ir sakė iš 1146 į 2300 taps rytoj :DDD
