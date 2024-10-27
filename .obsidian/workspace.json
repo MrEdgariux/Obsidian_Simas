@@ -11,8 +11,12 @@
             "id": "dee7c72e35842913",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-27/Simas paskambino.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-10-27/Simas paskambino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-10-27/Simas paskambino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-10-27/Simas paskambino.md"
+              }
             }
           },
           {
@@ -156,6 +164,9 @@
   },
   "active": "dee7c72e35842913",
   "lastOpenFiles": [
+    "2024-10-27/Halovynas party muzikėlė.md",
+    "2024-10-27/Simas paskambino.md",
+    "2024-10-27",
     "2024-07-25/Į jailbreak privertė.md",
     "2024-09-12/šūdina nama baigė.md",
     "2024-09-12/Simas supyko kad ignorinu.md",
@@ -184,15 +195,12 @@
     "2024-07-25",
     "2024-07-10/Vėl neonke sako kad warnus gauna.md",
     "2024-01-08/Apipiso mane simas kad ne mokykloj.md",
-    "2023-12-29/Žodžiu paskambino asilas.md",
-    "2023-12-29/Variau į konca.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
     "2024-03-14",
     "2024-03-09",
-    "2024-02-24/Untitled",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"

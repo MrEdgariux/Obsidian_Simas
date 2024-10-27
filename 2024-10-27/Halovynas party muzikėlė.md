@@ -1,0 +1,1 @@
+[[InsaneSimas]] paskambino ir ble baisi muzika užgrojo
