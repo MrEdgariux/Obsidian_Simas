@@ -1,1 +1,1 @@
-[[InsaneSimas]] kaip visada mane pradeda atsibosti, ir kaip visada su savo magišku klausimu: ""
+[[InsaneSimas]] kaip visada mane pradeda atsibosti, ir kaip visada su savo magišku klausimu: `KADA VC?`, `EINAM ČIULBĖT ČIULPALAS`, `EINAM ČIULBĖT KAIP PAUKŠČIAI`, `PAPŪGA ESI, EINAM ČIULBĖT` nu taip atsibodo aš ngl su savo čiulpalu, uoj, čiublėjimu, čiulba ir čiulba

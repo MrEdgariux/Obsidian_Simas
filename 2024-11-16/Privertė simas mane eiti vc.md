@@ -1,0 +1,1 @@
+Žodžiu kaip visada [[InsaneSimas]] pats kalčiausias žmogus privertė mane eiti vc, įspyrė į šikna, sako eini tik staigiai į vc, tai teko eit čiulbėt su ta papūga
