@@ -1,0 +1,1 @@
+[[InsaneSimas]] prisijungė į voice pokalbį serveryje [[Žaidimų Discord Serveris]] kol mes kalbėjome ir žaidėme [[Phasmophobia]] su [[Dyzelinas]] [[NeonPlusX]] krč ir kalbėjo apie krūmus kažkokius, nepirko phasmo ir sedėjo 1 valanda ir išėjo lauk

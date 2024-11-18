@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c58e3433628677d7",
+        "id": "b0db6216ef132983",
         "type": "tabs",
         "children": [
           {
-            "id": "80265c5906c223e1",
+            "id": "f3c10b8b3b4a8f8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-17/Prisijungė kol žaidėm phasmo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prisijungė kol žaidėm phasmo"
             }
           }
         ]
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-11-17/Prisijungė kol žaidėm phasmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Prisijungė kol žaidėm phasmo"
             }
           },
           {
@@ -120,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-11-17/Prisijungė kol žaidėm phasmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Prisijungė kol žaidėm phasmo"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2024-11-17/Prisijungė kol žaidėm phasmo.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Prisijungė kol žaidėm phasmo"
             }
           },
           {
@@ -174,8 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80265c5906c223e1",
+  "active": "f3c10b8b3b4a8f8a",
   "lastOpenFiles": [
+    "Frazės/Žaidimų Discord Serveris.md",
+    "2024-11-17/Prisijungė kol žaidėm phasmo.md",
+    "2024-11-17",
     "Frazės/Roblox žaidimas.md",
     "Frazės/YouTube.md",
     "Frazės/Duok triusikus.md",
@@ -206,13 +217,10 @@
     "2024-09-03/Neįmanoma nueiti už lentynos knygų.md",
     "2024-09-03/Nepabaigė namo normaliai pastatyt.md",
     "2024-09-03/Vora girdžiu granny name.md",
-    "2024-09-03/Creeperis vaikšto per granny namus.md",
-    "2024-09-03/Kur aš maudysiuos.md",
     "2024-09-03",
     "2024-08-20",
     "2024-07-25",
     "Frazės/_IMAGES/Untitled.canvas",
-    "2024-07-10",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
