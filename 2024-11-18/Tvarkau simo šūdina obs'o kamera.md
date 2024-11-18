@@ -1,0 +1,1 @@
+[[InsaneSimas]] obs kamera sugedo sulūžo krč ir taisau db su replėm xD

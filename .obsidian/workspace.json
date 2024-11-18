@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0fcc1c5c19b649",
+        "id": "71609522b8044d99",
         "type": "tabs",
         "children": [
           {
-            "id": "abf32d1c0471cce7",
+            "id": "8affd8673c2ded53",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abf32d1c0471cce7",
+  "active": "8affd8673c2ded53",
   "lastOpenFiles": [
+    "2024-11-18/Tvarkau simo šūdina obs'o kamera.md",
     "2024-11-18/Visi pradėjo rašyt kas tik tegali.md",
     "2024-01-02/Sakė palauksi dar.md",
     "2024-01-02/MIRIAU NAXUI.md",
@@ -202,7 +203,6 @@
     "Frazės/Nuke.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-11-17/Prisijungė kol žaidėm phasmo.md",
-    "Frazės/Žaidimų Discord Serveris.md",
     "2024-11-17",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",
     "2024-11-16",
