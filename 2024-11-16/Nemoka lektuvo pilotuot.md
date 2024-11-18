@@ -1,1 +1,1 @@
-[[InsaneSimas]] per [[Roblox žaidimas]] kažkokį lektuvo pilotavimo tan šūdina game krč
+[[InsaneSimas]] per [[Roblox žaidimas]] kažkokį lektuvo pilotavimo tan šūdina game krč nusipirko kapitono rolę tipo ėjo į 10 trainingu bet netikiu tai pamačiau kaip skraidyt nemoka net į ora nepakilom pize 3 kartus nepakilom, noobas jis yra

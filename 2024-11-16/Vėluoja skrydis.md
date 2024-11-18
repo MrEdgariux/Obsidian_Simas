@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] žaidime [[Roblox žaidimas]] krč tan kažkokiam lektuvo pilotavime nemoka pilotuot lektuvo, atėjo nx užkurt variklio nesugeba, 10 val praėjo kol pajudėjom ir lektuvas sukrito
