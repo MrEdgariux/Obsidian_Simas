@@ -1,1 +1,1 @@
-[[InsaneSimas]] torču nesudėjo, creeperis vaikšto apačioje pizda
+[[InsaneSimas]] torču nesudėjo, creeperis vaikšto apačioje pizda, db drebu paeit kažkur
