@@ -1,1 +1,0 @@
-Tai žaidimas kur tokia sena boba vaikšto su lazdele ir apipisinėja žaidėjai ją, u

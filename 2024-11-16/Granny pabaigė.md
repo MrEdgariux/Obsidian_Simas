@@ -1,1 +1,1 @@
-[[InsaneSimas]] pagaliau po 100 metų per [[Minecraft]] simo serveryje pabaigė [[Granny]] žaidimą krč žemėlapį
+[[InsaneSimas]] pagaliau po 100 metų per [[Minecraft]] simo serveryje pabaigė [[Granny]] žaidimą krč žemėlapį, tai pize db reiks naudotis kažkokiu tais [šituo puslapio itemais](https://granny.fandom.com/wiki/Item_Locations "https://granny.fandom.com/wiki/Item_Locations") kad tipo sudėti daiktus, pizda
