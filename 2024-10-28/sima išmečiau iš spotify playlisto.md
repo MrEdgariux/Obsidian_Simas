@@ -1,0 +1,2 @@
+Žodžiu krč [[InsaneSimas]] taip prisidirbo šiandiena, kad pizda
+Prikėlė tokiu muziku ir tokiu šūdų iš playlisto kad net akys nugriuvo pamačius, perklausiau puse ir viska tryniau naxui beveik, o sima per duris išsviedžiau, net duru nespėjo jis pamatyt kaip skrido per duris.

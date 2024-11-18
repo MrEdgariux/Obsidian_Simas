@@ -1,0 +1,1 @@
+[[InsaneSimas]] kaip visada mane pradeda atsibosti, ir kaip visada su savo magišku klausimu: ""

@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-27/Sima priemiau į spotify playlista.md",
+                "file": "2024-11-18/Vėl rašo kad nori vc.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Vėl rašo kad nori vc"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,7 +95,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-27/Sima priemiau į spotify playlista.md",
+                "file": "2024-11-18/Vėl rašo kad nori vc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vėl rašo kad nori vc"
             }
           },
           {
@@ -113,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-27/Sima priemiau į spotify playlista.md",
+                "file": "2024-11-18/Vėl rašo kad nori vc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vėl rašo kad nori vc"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-27/Sima priemiau į spotify playlista.md"
-              }
+                "file": "2024-11-18/Vėl rašo kad nori vc.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vėl rašo kad nori vc"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -164,8 +184,13 @@
   },
   "active": "dee7c72e35842913",
   "lastOpenFiles": [
-    "2024-10-27/Simas paskambino.md",
+    "README.md",
+    "2024-11-18/Vėl rašo kad nori vc.md",
+    "2024-11-18",
+    "2024-10-28/sima išmečiau iš spotify playlisto.md",
     "2024-10-27/Sima priemiau į spotify playlista.md",
+    "2024-10-28",
+    "2024-10-27/Simas paskambino.md",
     "2024-10-27/Halovynas party muzikėlė.md",
     "2024-10-27",
     "2024-07-25/Į jailbreak privertė.md",
@@ -191,16 +216,11 @@
     "2024-09-03/Paskambino medis.md",
     "2024-09-03",
     "2024-08-20",
-    "2024-07-25/Subway nesąmonė.md",
-    "2024-07-25/Perėjom šūdų krūva.md",
     "2024-07-25",
-    "2024-07-10/Vėl neonke sako kad warnus gauna.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-07-10",
     "2024-04-03",
     "Suplanavimai",
-    "2024-03-14",
-    "2024-03-09",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
