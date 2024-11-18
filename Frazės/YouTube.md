@@ -1,1 +1,1 @@
-YouTube platforma vaizdo įrašams dalintis hahaha
+YouTube platforma vaizdo įrašams dalintis hahaha, galvojai aš toks durnas???

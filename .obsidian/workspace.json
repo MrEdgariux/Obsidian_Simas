@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a681eba5a9385c81",
+        "id": "c58e3433628677d7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab025ab97500b5c8",
+            "id": "80265c5906c223e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,8 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab025ab97500b5c8",
+  "active": "80265c5906c223e1",
   "lastOpenFiles": [
+    "Frazės/Roblox žaidimas.md",
+    "Frazės/YouTube.md",
+    "Frazės/Duok triusikus.md",
+    "Frazės/Ariana Grande.md",
+    "Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",
     "2024-11-16/Apipiso babulke.md",
     "2024-11-16/Granny pabaigė.md",
     "2024-11-16/Vėluoja skrydis.md",
@@ -203,16 +208,11 @@
     "2024-09-03/Vora girdžiu granny name.md",
     "2024-09-03/Creeperis vaikšto per granny namus.md",
     "2024-09-03/Kur aš maudysiuos.md",
-    "2024-09-03/Stalčiai tušti.md",
-    "2024-09-03/Pacas tura darys man granny namo.md",
-    "2024-09-03/Granny 3 nestatys, savo sukurs sakė.md",
-    "2024-09-03/Po giljotina atsiradau.md",
     "2024-09-03",
     "2024-08-20",
     "2024-07-25",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-07-10",
-    "2024-04-03",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
