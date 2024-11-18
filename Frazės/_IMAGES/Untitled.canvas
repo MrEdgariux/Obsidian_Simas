@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"5fcb6399d464f69f","type":"text","text":"> [!NOTE]\n> Bankas ėjo lauk bet bananai išėjo į lauką","x":-360,"y":-580,"width":360,"height":170,"color":"1"},
-		{"id":"fccfd1cc83d73544","type":"text","text":"**2023 nušovė bomba mane ir namas išėjo pasivaikšioti**","x":-700,"y":-620,"width":250,"height":170,"color":"1"}
-	],
-	"edges":[
-		{"id":"d1b7130e021d3417","fromNode":"fccfd1cc83d73544","fromSide":"right","toNode":"5fcb6399d464f69f","toSide":"left","color":"1"}
-	]
-}
