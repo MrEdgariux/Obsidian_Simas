@@ -1,1 +1,1 @@
-YAY
+YAY pagaliau kurva
