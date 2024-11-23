@@ -1,0 +1,1 @@
+Krč [[InsaneSimas]] prispamino man "DC" į snapa

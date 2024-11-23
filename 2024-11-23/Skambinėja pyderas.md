@@ -1,0 +1,1 @@
+[[InsaneSimas]] nx skambinėja į snapa ir trūgdo susikaupt žaist nx

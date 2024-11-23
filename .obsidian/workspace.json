@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71609522b8044d99",
+        "id": "875b787fa3eb0063",
         "type": "tabs",
         "children": [
           {
-            "id": "8affd8673c2ded53",
+            "id": "21a694753abc30ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "2024-02-24/TUTORIALO NEBERANDA.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "TUTORIALO NEBERANDA"
             }
           }
         ]
@@ -176,8 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8affd8673c2ded53",
+  "active": "21a694753abc30ad",
   "lastOpenFiles": [
+    "2024-11-23/Medalis pabėga.md",
+    "2024-11-23/Skambinėja pyderas.md",
+    "2024-11-23/Simas prispamino.md",
+    "2024-11-23",
     "2024-11-18/Tvarkau simo šūdina obs'o kamera.md",
     "2024-11-18/Visi pradėjo rašyt kas tik tegali.md",
     "2024-01-02/Sakė palauksi dar.md",
@@ -201,10 +207,7 @@
     "2024-09-03/Po giljotina atsiradau.md",
     "2024-09-03/Creeperis vaikšto per granny namus.md",
     "2024-09-12/šūdina nama baigė.md",
-    "2024-09-12/Simas supyko kad ignorinu.md",
-    "Frazės/Nuke.md",
     "Frazės/_IMAGES/Untitled.canvas",
-    "2024-11-17/Prisijungė kol žaidėm phasmo.md",
     "2024-11-17",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",
     "2024-11-16",
@@ -214,7 +217,6 @@
     "2024-09-12",
     "2024-09-03",
     "2024-08-20",
-    "2024-07-25",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"
