@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a209a1bf563c5e61",
+        "id": "b7d35fffa6005a62",
         "type": "tabs",
         "children": [
           {
-            "id": "1b37e07bcd1c8f6d",
+            "id": "e7bafb9c231178d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-23/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -178,16 +174,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b37e07bcd1c8f6d",
+  "active": "e7bafb9c231178d0",
   "lastOpenFiles": [
+    "2024-11-23/Simas prispamino.md",
+    "Frazės/Run for life.md",
+    "2024-11-23/Miriau quadrilijona kartu žaidime.md",
+    "Frazės/Inside The Backrooms.md",
     "2024-11-23/Medalis pabėga.md",
-    "2024-11-23/Untitled.md",
     "2024-11-23/Skambinėja pyderas.md",
     "2024-04-03/Egza islaikiau anglu.md",
     "2024-02-24/Kinderį rado simas.md",
     "2024-02-24/INSTACAME vopšė.md",
     "2024-02-24/TUTORIALO NEBERANDA.md",
-    "2024-11-23/Simas prispamino.md",
     "2024-11-23",
     "2024-11-18/Tvarkau simo šūdina obs'o kamera.md",
     "2024-11-18/Visi pradėjo rašyt kas tik tegali.md",
@@ -205,8 +203,6 @@
     "2024-04-03/Išsisavino šiukšlę.md",
     "2024-04-03/Išgirdo kad ėdu suka.md",
     "2024-07-10/Ilgai nerašiau įrašų.md",
-    "2024-07-10/Gavo muta ant gamsterio.md",
-    "2024-11-16/Vėluoja skrydis.md",
     "Frazės/_IMAGES/Untitled.canvas",
     "2024-11-17",
     "Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",

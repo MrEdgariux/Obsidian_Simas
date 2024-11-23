@@ -1,0 +1,1 @@
+Žaidimas krč  [[Steam]] esantis baisiai brangus nx
