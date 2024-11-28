@@ -1,0 +1,1 @@
+[[InsaneSimas]] ant videka [[Simas 500 views gavo youtube videke]] sureagavo belekai lievas krč, ir da pize tan kaip šūdinai sureagavo

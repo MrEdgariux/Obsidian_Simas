@@ -1,0 +1,1 @@
+[[InsaneSimas]] per videka [[Simas 500 views gavo youtube videke]] kurva taip įdėjo teksta greitai dingstanti kad net smurfai nepamatytu pizda nx
