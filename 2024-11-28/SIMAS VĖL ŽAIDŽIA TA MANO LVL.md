@@ -1,0 +1,1 @@
+[[InsaneSimas]] vėl žaidžia ta [[GD Lygis]] kur aš nepereinu naxui blet tan neįmanoma yra o simas ble be problemu praeina naxui kurva kokia padla jis yra tas platinum adventure naxui koks šūdas tas žaidimas tai kad pize pavogsiu aš ta lvl ir taip sutrinsiu į feiri kad bus pizda [[Platinum Adventure (GD)]]
