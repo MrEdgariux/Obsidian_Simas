@@ -1,0 +1,1 @@
+[[InsaneSimas]] ištrynė mano varkša ekstensiona iš chrome
