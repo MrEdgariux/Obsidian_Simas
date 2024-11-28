@@ -1,0 +1,1 @@
+[[InsaneSimas]] ant tiek noobas kad net per ta [[Simas 500 views gavo youtube videke]] surinko tik 89% best rune ir da sakė čia lygis baigias

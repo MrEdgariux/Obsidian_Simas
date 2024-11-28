@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč per video [[Simas 500 views gavo youtube videke]] krč baisi muzika tan groja, ausis linksta į kaire puse
