@@ -1,0 +1,1 @@
+[[InsaneSimas]] [[Simas 500 views gavo youtube videke]] ant 0:35 žodis focus nieko nereiškia, ez čia botas praeitu
