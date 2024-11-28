@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb77bf0decb9ef2",
+        "id": "cec986d428e4d80c",
         "type": "tabs",
         "children": [
           {
-            "id": "9993406a4395931e",
+            "id": "987d5bdf2d6010f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-28/Snapchate catnapas aš.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Snapchate catnapas aš"
+              "title": "New tab"
             }
           }
         ]
@@ -162,11 +158,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9993406a4395931e",
+  "active": "987d5bdf2d6010f8",
   "lastOpenFiles": [
-    "2024-11-28/Mane soniku užsivadinęs.md",
+    "Templates/Day x.md",
+    "Templates/Robloxui.md",
+    "CatNap.md",
     "2024-11-28/Snapchate catnapas aš.md",
+    "2024-11-28/Mane soniku užsivadinęs.md",
     "2024-11-28/Apipiso mane su descriptionu.md",
     "2024-11-23/Skambinėja pyderas.md",
     "2024-11-23/Miriau quadrilijona kartu žaidime.md",
@@ -203,9 +202,6 @@
     "2024-04-03/Neonke neleido žaisti su simu.md",
     "2024-04-03/Nbgl sprintinti nes ėst ntr.md",
     "2024-04-03/Išsisavino šiukšlę.md",
-    "2024-04-03/Išgirdo kad ėdu suka.md",
-    "2024-04-03/Egza islaikiau anglu.md",
-    "2024-07-25/Subway nesąmonė.md",
     "2024-11-28",
     "2024-11-23",
     "Frazės/_IMAGES/Untitled.canvas",
