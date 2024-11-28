@@ -1,0 +1,1 @@
+Tai programa kuria naudoja tokie geri bičai kad omg xD

@@ -1,4 +1,4 @@
-[[InsaneSimas]] prispamino man į snapą tokių lempų kad omg:
+[[InsaneSimas]] prispamino man į [[Snapchat]] tokių lempų kad omg:
 - Ot koks
 - Grįžti asile
 - xD
@@ -39,4 +39,8 @@
 - gyvent
 - su ateiviais
 - turėsi savo spaceshipa (I wish to be alone actually xD)
-- 
+- Skraidysi
+- kaip durs iš švirkšto
+- ateiviai
+- per sėdimają
+Ir jam pamoka prasidėjo hehehe, nebaigė visko rašyt, kelis dalykus pats pridėjau nes out of context biški buvo tai va xD
