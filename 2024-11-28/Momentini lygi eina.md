@@ -1,0 +1,1 @@
+[[InsaneSimas]] žaidžia [[GD Lygis]] Moment kažkokį tais kurį jis perėjo ant [[Simas 500 views gavo youtube videke]] kurva ir aš labai jį reviewinau nes simas prispyrė mane
