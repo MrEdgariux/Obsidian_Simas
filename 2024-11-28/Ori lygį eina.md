@@ -1,1 +1,1 @@
-[[InsaneSimas]] 
+[[InsaneSimas]] eina [[GD Lygis]] kuris tan rodo "Ori" žaidimo xD
