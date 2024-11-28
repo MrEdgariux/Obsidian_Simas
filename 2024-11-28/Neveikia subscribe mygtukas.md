@@ -1,0 +1,1 @@
+[[InsaneSimas]] nesubinu nes nebeveik sub mygtukas sugedo pelė
