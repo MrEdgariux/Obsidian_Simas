@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd2f6c2605e0050",
+        "id": "5fb77bf0decb9ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "2cfd861a05863049",
+            "id": "9993406a4395931e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-03/Nbgl sprintinti nes ėst ntr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nbgl sprintinti nes ėst ntr"
             }
           }
         ]
@@ -174,8 +178,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cfd861a05863049",
+  "active": "9993406a4395931e",
   "lastOpenFiles": [
+    "2024-04-03/Išsisavino šiukšlę.md",
+    "2024-04-03/Išgirdo kad ėdu suka.md",
+    "2024-04-03/Egza islaikiau anglu.md",
+    "2024-07-25/Subway nesąmonė.md",
+    "2024-07-25/Perėjom šūdų krūva.md",
+    "2024-03-14/Simas susikūrė taisyklę durna.md",
+    "2024-03-14/Nekrauna dc fotkiu.md",
+    "2024-03-14/NE TA DIENA PARAŠIAU.md",
+    "2024-03-09/Makro įsirašys.md",
+    "2024-03-09/Imetė kortas į šūlinį.md",
+    "2024-02-24/WHAT THE FUCK.md",
     "2024-02-24/TELEGRAME VOPŠĖ.md",
     "2024-02-24/DAR TIKTOKE VOPŠĖ.md",
     "2024-02-24/DAR TUTORIALO JAM REIK.md",
@@ -191,17 +206,6 @@
     "2024-11-28/Išjungė kątik čytus kad parodyt simbolį baisu.md",
     "2024-11-28/Momentini lygi eina.md",
     "2024-11-28/Čytus simas pasijungė.md",
-    "2024-11-28/Sharina simas ekrana.md",
-    "2024-11-28/Katė kniaukia garsiausiai.md",
-    "2024-11-28/Vėl kurva žada žaidimą sharint.md",
-    "2024-11-28/Kada kitas susitikimas.md",
-    "2024-11-28/Nori nuhackint simas mane.md",
-    "2024-11-28/Siūlo eit gamint.md",
-    "2024-11-28/Nieko simas neužsirašė.md",
-    "2024-11-28/Kitas vc su simu kada.md",
-    "2024-11-28/Siūlo eit vc bet aš netingiu.md",
-    "2024-11-28/Lievas reactionas realiai.md",
-    "2024-11-28/Apipiso mane su descriptionu.md",
     "2024-11-28",
     "2024-11-23",
     "Frazės/_IMAGES/Untitled.canvas",
