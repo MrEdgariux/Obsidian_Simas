@@ -1,0 +1,1 @@
+[[Simas 500 views gavo youtube videke]] pas [[InsaneSimas]] krč žiūri į mane velnias kažkoks kampe nx bijau toliau žiūrėt tai va
