@@ -1,0 +1,1 @@
+[[InsaneSimas]] per videka [[Simas 500 views gavo youtube videke]] apipiso kad surinko 89% [[Best RUN 89%]] kurva o dabar jau beatino ant 100%

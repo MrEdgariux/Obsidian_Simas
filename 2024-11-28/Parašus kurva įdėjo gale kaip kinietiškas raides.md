@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč per videka [[Simas 500 views gavo youtube videke]] ant 0:58 parašus sako įdėjo kūrėjai ždž neįdomu bv
