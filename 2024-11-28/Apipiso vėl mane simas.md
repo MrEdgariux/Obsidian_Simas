@@ -1,0 +1,1 @@
+[[InsaneSimas]] per video [[Simas 500 views gavo youtube videke]] buvo parašęs aprašyme "Attempts: 36K-38K + rebeat 434 atts" o per video matosi kad praėjo tik 53 attempts jumps tik 1039 tai čia niekis vopšė apipisėja žmones kaip triušius
