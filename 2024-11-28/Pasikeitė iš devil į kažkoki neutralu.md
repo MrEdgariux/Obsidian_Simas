@@ -1,0 +1,1 @@
+[[Simas 500 views gavo youtube videke]] [[InsaneSimas]] krč per videka 0:31 pakeitė veida išraiška savo ir nebe devil kažkoks kaip rašiau tarp [[Baisus velnias į mane kampe žiūri]] o daba kažkoks idk xD

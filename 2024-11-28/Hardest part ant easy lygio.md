@@ -1,0 +1,1 @@
+[[InsaneSimas]] per savo videka [[Simas 500 views gavo youtube videke]] ant 0:20 sako kad čia sunkiausia vieta nors melagis yr, čia lengviausia vieta yra, kaip semka praeičiau
