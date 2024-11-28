@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč paskambino (tikrai ne aš jam paskambinau nene) ir da 10 sek nepraėjo
