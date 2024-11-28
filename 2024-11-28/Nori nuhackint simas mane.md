@@ -1,1 +1,1 @@
-[[InsaneSimas]] [[gamin]]
+[[InsaneSimas]] [[Siūlo eit gamint]] bet siūlo eit kur mane gali nuhackint, aš belekai bijau tan eit

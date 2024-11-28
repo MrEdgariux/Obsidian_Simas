@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a04b99082893b384",
+        "id": "c04ad47227b8cd49",
         "type": "tabs",
         "children": [
           {
-            "id": "578a2c04c7d8ebdb",
+            "id": "f9c37c63804ae5e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-28/Nori nuhackint simas mane.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nori nuhackint simas mane"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "578a2c04c7d8ebdb",
+  "active": "f9c37c63804ae5e5",
   "lastOpenFiles": [
-    "2024-11-28/Siūlo eit gamint.md",
     "2024-11-28/Nori nuhackint simas mane.md",
+    "2024-11-28/Siūlo eit gamint.md",
     "2024-11-28/Nieko simas neužsirašė.md",
     "2024-11-28/Kitas vc su simu kada.md",
     "2024-11-28/Subscribe knopke susitaisė.md",
