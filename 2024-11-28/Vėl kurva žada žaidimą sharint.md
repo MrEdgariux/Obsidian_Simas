@@ -1,0 +1,1 @@
+[[InsaneSimas]] kurva perskaitė kaip žaidė [[Eina furry žaist]] ir prisiminė kad reik pasharint man ekrana ir rodyt kaip jam lygis statyt sekas ot kurva sako pykti nori išsiliet
