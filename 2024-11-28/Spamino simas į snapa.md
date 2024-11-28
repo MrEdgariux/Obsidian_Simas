@@ -1,1 +1,17 @@
 [[InsaneSimas]] prispamino man į snapą tokių lempų kad omg:
+- Ot koks
+- Grįžti asile
+- xD
+- Išėjo iš pamokos
+- N raide gausi
+- Ir pastaba į dienyna
+- 2 į tamo
+- Nori?
+- Dabar
+- Ant vietos
+- Išmes iš kolegijos
+- skrisi
+- kaip paukštis
+- Po to mama ateis
+- su diržu
+- Nes indu neišplovei
