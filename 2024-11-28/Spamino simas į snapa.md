@@ -15,3 +15,28 @@
 - Po to mama ateis
 - su diržu
 - Nes indu neišplovei
+- da ita 2 gausi
+- už kardo nedavima
+- dar povilas ateis
+- i namus
+- su API
+- atnaujintu (XD)
+- siūlys meet'ą
+- prašys labai
+- atnaujinti mcprisonstat puslapį
+- jį sugrąžinti
+- da justinas prisistatys
+- kai pis iš kepštuvės
+- motyvacinį spyrį į sėdimają
+- Tai sprando nebejusi savaite
+- Atbėgs dėstytoja į namus
+- su red buliu
+- duos atsigert
+- gausi sparnus
+- skrisi dangun
+- kaip raketa
+- liksi marse
+- gyvent
+- su ateiviais
+- turėsi savo spaceshipa (I wish to be alone actually xD)
+- 
