@@ -1,0 +1,1 @@
+[[InsaneSimas]] [[GD Lygis]] rodo tą [[Parašus kurva įdėjo gale kaip kinietiškas raides]] ale naxui tam [[Momentini lygi eina]] kurva lygyje nx

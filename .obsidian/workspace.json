@@ -11,10 +11,14 @@
             "id": "8add91255fae1ec6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-28/Ori lygį eina.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ori lygį eina"
             }
           }
         ]
@@ -176,6 +180,8 @@
   },
   "active": "8add91255fae1ec6",
   "lastOpenFiles": [
+    "2024-11-28/Išjungė kątik čytus kad parodyt simbolį baisu.md",
+    "2024-11-28/Ori lygį eina.md",
     "2024-11-28/Momentini lygi eina.md",
     "2024-11-28/Čytus simas pasijungė.md",
     "2024-11-28/Sharina simas ekrana.md",
@@ -200,8 +206,6 @@
     "2024-11-28/Sako reik fokusuot kamera čj.md",
     "2024-11-28/Kinietiška raide mačiau.md",
     "2024-11-28/Pasikeitė iš devil į kažkoki neutralu.md",
-    "2024-11-28/Hardest part ant easy lygio.md",
-    "2024-11-28/Baisus velnias į mane kampe žiūri.md",
     "2024-11-28",
     "2024-11-23",
     "Frazės/_IMAGES/Untitled.canvas",
