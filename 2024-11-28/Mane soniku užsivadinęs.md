@@ -1,0 +1,1 @@
+[[InsaneSimas]] ble mane soniku užsivadino ot koks
