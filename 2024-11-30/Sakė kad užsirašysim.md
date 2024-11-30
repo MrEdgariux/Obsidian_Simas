@@ -1,1 +1,1 @@
-[[InsaneSimas]] sakė kad užsirašysim, t
+[[InsaneSimas]] sakė kad užsirašysim, tai reik užsirašyt
