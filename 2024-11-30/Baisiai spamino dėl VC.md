@@ -1,0 +1,1 @@
+[[InsaneSimas]] žiauriai šiandiena darė spamą dėl VC

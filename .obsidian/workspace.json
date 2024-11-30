@@ -11,10 +11,14 @@
             "id": "987d5bdf2d6010f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-30/Sakė kad užsirašysim.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sakė kad užsirašysim"
             }
           }
         ]
@@ -176,6 +180,10 @@
   },
   "active": "987d5bdf2d6010f8",
   "lastOpenFiles": [
+    "2024-11-30/Baisiai spamino dėl VC.md",
+    "2024-11-30/Sakė kad užsirašysim.md",
+    "2024-11-30/Paskambino pačiulbėt sugalvojo.md",
+    "2024-11-30",
     "Templates/Day x.md",
     "Templates/Robloxui.md",
     "CatNap.md",
@@ -199,9 +207,6 @@
     "2024-09-03/Galvoja, kad pavydžiu tipo.md",
     "2024-07-10/Ilgai nerašiau įrašų.md",
     "2024-07-10/Gavo muta ant gamsterio.md",
-    "2024-04-03/Neonke neleido žaisti su simu.md",
-    "2024-04-03/Nbgl sprintinti nes ėst ntr.md",
-    "2024-04-03/Išsisavino šiukšlę.md",
     "2024-11-28",
     "2024-11-23",
     "Frazės/_IMAGES/Untitled.canvas",
@@ -212,7 +217,6 @@
     "2024-10-28",
     "2024-10-27",
     "2024-09-12",
-    "2024-09-03",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Frazės/Untitled.canvas"

@@ -1,0 +1,1 @@
+[[InsaneSimas]] paskambino man nes parašiau kad galim eit vc 3 sekundėm, db žadu padėt telefona.
