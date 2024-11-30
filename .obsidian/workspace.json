@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e255026be2b40551",
+        "id": "75f090282de393f3",
         "type": "tabs",
         "children": [
           {
-            "id": "6aac2b5f14d93bef",
+            "id": "7500a39f7038fbf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-30/Baisiai spamino dėl VC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Baisiai spamino dėl VC"
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +174,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6aac2b5f14d93bef",
+  "active": "7500a39f7038fbf8",
   "lastOpenFiles": [
+    "2024-11-30/Mane meme pavadino.md",
+    "2024-11-30/Baisiai spamino dėl VC.md",
     "2024-11-30/Alaus parekomendavo eit išgert.md",
     "2024-11-30/Batonu mane pavadino.md",
     "2024-11-30/Grybu pavadino.md",
@@ -192,7 +190,6 @@
     "2024-11-30/Sakė einam GD.md",
     "2024-11-30/Žodžiu į lova nenuveda manęs.md",
     "2024-11-30/Sakė kad užsirašysim.md",
-    "2024-11-30/Baisiai spamino dėl VC.md",
     "2024-11-30",
     "Templates/Day x.md",
     "Templates/Robloxui.md",
@@ -206,7 +203,6 @@
     "2024-11-23/Medalis pabėga.md",
     "2024-11-18/Visi pradėjo rašyt kas tik tegali.md",
     "2024-11-18/Tvarkau simo šūdina obs'o kamera.md",
-    "2024-11-18/Vėl rašo kad nori vc.md",
     "2024-11-28",
     "2024-11-23",
     "Frazės/_IMAGES/Untitled.canvas",
