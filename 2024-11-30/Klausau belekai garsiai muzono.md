@@ -1,0 +1,1 @@
+Klausau belekai garsiai [[Spotify]] kad [[InsaneSimas]] negirdėt kaip dainuoja savo baisiausia Superman muzika

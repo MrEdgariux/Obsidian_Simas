@@ -1,0 +1,1 @@
+[[InsaneSimas]] krč pasakė vietoj "Kaip sekas?" -> "Kaip seksas?", tai taip supykau raudonas likau
