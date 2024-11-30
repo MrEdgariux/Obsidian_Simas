@@ -1,0 +1,1 @@
+[[InsaneSimas]] įžeidė mane pavadindamas mane "Durnius"

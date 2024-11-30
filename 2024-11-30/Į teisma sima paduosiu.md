@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakiau kad laiška rašau kas jam bus už tai nes [[]]
