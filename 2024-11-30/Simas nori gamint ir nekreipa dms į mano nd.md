@@ -1,0 +1,1 @@
+[[InsaneSimas]] toks durnelis, kad nekreipia į mano nd dėmesio ir nori eit [[Žodžiu į lova nenuveda manęs]] xDDD nu į jailbreak tiksliau ofc
