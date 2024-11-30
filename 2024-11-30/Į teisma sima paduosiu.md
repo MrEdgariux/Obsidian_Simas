@@ -3,4 +3,5 @@
 2. Palauksiu kol čeinikas užvirs
 3. Išmesiu per langa čeinika
 4. Atsinešiu lėkštę
-5. 
+5. Parašysiu "Eik miau katė"
+6. Trenksiu per galva simui
