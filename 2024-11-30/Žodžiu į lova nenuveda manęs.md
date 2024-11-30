@@ -1,0 +1,1 @@
+[[InsaneSimas]] kurva į [[Jailbreak]] nuvest nori o ne į lova kur sakiau kad telefonas miega nx
