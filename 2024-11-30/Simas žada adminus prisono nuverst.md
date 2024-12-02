@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė kad [[McPrison.LT]] Administracija nuvers, sekmės, lauksiu rezultatu!
