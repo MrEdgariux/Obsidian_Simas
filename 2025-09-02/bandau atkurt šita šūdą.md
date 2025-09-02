@@ -1,0 +1,1 @@
+Bled jau kelias valandas pisuos kad atkurti obsidiana naxui, dick kurwa neveikia kaip turi!
