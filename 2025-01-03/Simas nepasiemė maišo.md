@@ -1,0 +1,1 @@
+[[InsaneSimas]] numetė maišą ir paliko išskrido su [[Dyzelinas]] xD [[Simas žaidžia jailbreak]]

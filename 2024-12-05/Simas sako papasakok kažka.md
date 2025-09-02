@@ -1,0 +1,1 @@
+[[InsaneSimas]] sako "Papasakok", nu tai ir pradėjau pasakot kaip gegute per langa mačiau viena diena čia grąžia, ir simas sako "Ok supratau, ok"

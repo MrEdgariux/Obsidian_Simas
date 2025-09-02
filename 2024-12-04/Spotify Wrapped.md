@@ -1,0 +1,1 @@
+[[InsaneSimas]] pažėjo mano spotify wrapped ir apspjovė jį ir sakė "Eik šikt babulytę eik šiknon"

@@ -1,0 +1,1 @@
+[[Bandė prisono nicka spėt]] bet vistiek neatspėjo xD

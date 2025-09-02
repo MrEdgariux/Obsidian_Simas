@@ -1,0 +1,1 @@
+[[InsaneSimas]] toks tinginys kad net [[Spotify Wrapped]] tingi pasižėt ant savo tlf dėl cracko krč

@@ -1,0 +1,1 @@
+[[InsaneSimas]] sakė apie ta [[Susprogdins padanga arianai]] kad pripūs su burna padanga

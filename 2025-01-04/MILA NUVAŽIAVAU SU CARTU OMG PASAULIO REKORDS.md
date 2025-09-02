@@ -1,0 +1,1 @@
+[[Dyzelinas]] bei [[InsaneSimas]] nubai esat, nenuvažiavot milijono kaip aš nuvažiavau HAHA

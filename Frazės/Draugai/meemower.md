@@ -1,0 +1,1 @@
+Kažkokstais [[Discord]] randominis draugas kurį turiu savo maine, susitikom alte nx :D

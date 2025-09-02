@@ -1,0 +1,1 @@
+Su [[Dyzelinas]] žaidėm ilgai kartu žaidimą kuriame ble degaliniu nebūna random kurwa

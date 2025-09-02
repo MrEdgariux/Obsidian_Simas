@@ -1,0 +1,1 @@
+[[InsaneSimas]] negirdėjo duxas manęs nes volume ausinėse nusuko ir neatsisuko

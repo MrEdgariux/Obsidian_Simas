@@ -1,0 +1,1 @@
+[[InsaneSimas]] užpisa mane vien dėl to nes ble db klausinėja kad naxui kiek vertinu ta baisia [[Simas davė muzika klausyt durnelis]]

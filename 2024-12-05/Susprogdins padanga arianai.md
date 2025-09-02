@@ -1,0 +1,1 @@
+Ant kiek [[InsaneSimas]] durnas, [[Ariana Grande]] krč sakė padanga mašinai susprogdins, su pieštuku

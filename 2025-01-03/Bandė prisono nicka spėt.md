@@ -1,0 +1,1 @@
+[[InsaneSimas]] ir [[Dyzelinas]] spėliojo mano nicka tarp MrBambukas (mačiau jį) ir da kažkokio Furry (irgi mačiau), bet neatspėjo ! :) [[Minecraft]] [[McPrison.LT]]

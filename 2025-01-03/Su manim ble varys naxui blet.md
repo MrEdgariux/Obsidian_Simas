@@ -1,0 +1,1 @@
+[[Dyzelinas]] nori su manim kartu eit kažka žaist [[Roblox žaidimas]] naxui

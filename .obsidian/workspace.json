@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4457a349ff90af8e",
+    "id": "158eb74ff7e90973",
     "type": "split",
     "children": [
       {
-        "id": "4a769d63caf12ffa",
+        "id": "5795cbe97ec7ac16",
         "type": "tabs",
         "children": [
           {
-            "id": "314bcec430da8698",
+            "id": "b0793b04d2608c53",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,27 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "010fe170ce1f574c",
+    "id": "8d8f9399f616e572",
     "type": "split",
     "children": [
       {
-        "id": "aba7a1b81b1eec1a",
+        "id": "abb74a60b742b8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "de375df0b8bbae15",
+            "id": "1e3d04fdcb46d570",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "886bb3c812a32ff2",
+            "id": "d9bc67da7dc79902",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +61,7 @@
             }
           },
           {
-            "id": "3bece4f377d2a124",
+            "id": "83817aabb651df6d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,18 +74,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 300
   },
   "right": {
-    "id": "2b1911995f53f609",
+    "id": "60cf666d66c7fcbc",
     "type": "split",
     "children": [
       {
-        "id": "0753abbb5597d7bb",
+        "id": "3ae57197721acb20",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d7da981d871d88",
+            "id": "5375a06856863041",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-12-05/Presentas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Presentas"
+            }
+          },
+          {
+            "id": "fbfbaeb9998d0ede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "38fa9cf75340c0da",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -97,48 +131,19 @@
             }
           },
           {
-            "id": "5ad0f1d81f768c0c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "007f09e6cb138328",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "53fee56a5f71d1bf",
+            "id": "b173e15b0e7a0489",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Welcome.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "996b178b790223ae",
+            "id": "a813c4346f037cf9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,75 +151,65 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "2423d481c8849ed0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "314bcec430da8698",
+  "active": "a813c4346f037cf9",
   "lastOpenFiles": [
-    "2024-11-30/Alaus parekomendavo eit išgert.md",
-    "2024-11-30/Simas žada adminus prisono nuverst.md",
-    "2024-11-30/Kaip Seksas.md",
-    "2024-11-30/Į teisma sima paduosiu.md",
-    "2024-11-30/Durnium mane pavadino.md",
-    "2024-11-30/Mane meme pavadino.md",
-    "2024-11-30/Baisiai spamino dėl VC.md",
-    "2024-11-30/Batonu mane pavadino.md",
-    "2024-11-30/Grybu pavadino.md",
-    "2024-11-30/Klausau belekai garsiai muzono.md",
-    "Frazės/Spotify.md",
-    "2024-11-30/Visi man rašo kas tik gali.md",
-    "2024-11-30/Paskambino pačiulbėt sugalvojo.md",
-    "2024-11-30/Simas nori gamint ir nekreipa dms į mano nd.md",
-    "2024-11-30/Sakė einam GD.md",
-    "2024-11-30/Žodžiu į lova nenuveda manęs.md",
-    "2024-11-30/Sakė kad užsirašysim.md",
-    "2024-11-30",
-    "Templates/Day x.md",
+    "Menu.base",
+    "README.md",
     "Templates/Robloxui.md",
-    "Frazės/CatNap.md",
-    "2024-11-28/Snapchate catnapas aš.md",
-    "2024-11-28/Mane soniku užsivadinęs.md",
-    "2024-11-28/Apipiso mane su descriptionu.md",
-    "2024-11-23/Skambinėja pyderas.md",
-    "2024-11-23/Miriau quadrilijona kartu žaidime.md",
-    "2024-11-23/Simas prispamino.md",
-    "2024-11-28",
-    "2024-11-23",
-    "Frazės/_IMAGES/Untitled.canvas",
-    "2024-11-17",
-    "Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",
-    "2024-11-16",
-    "2024-11-18",
-    "2024-10-28",
-    "2024-10-27",
-    "2024-09-12",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Frazės/Untitled.canvas"
+    "Templates/Day x.md",
+    "Templates",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison/Sargyba.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison/McPrison.LT.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison/ChatMod.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/VIP.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel/Hypixel.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/McPrison",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers/Hypixel",
+    "export/Frazės/Žaidimų Frazės/Phasmophobia/Phasmophobia.md",
+    "export/Frazės/Žaidimų Frazės/Phasmophobia/Deogen.md",
+    "export/Frazės/Žaidimų Frazės/Minecraft/Servers",
+    "export/Frazės/Žaidimų Frazės/Minecraft",
+    "export/Frazės/Žaidimų Frazės/Phasmophobia",
+    "export/Frazės/Draugai/InsaneSimas.md",
+    "export/Frazės/Draugai/WhyVejas.md",
+    "export/Frazės/Draugai/NeonPlusX.md",
+    "export/Frazės/Draugai/Dyzelinas.md",
+    "export/Frazės/Draugai/Arūnė.md",
+    "export/2024-01-04/Žaidimui/Įrašė 2 mokytoja.md",
+    "export/2024-01-04/Žaidimui/Piso per klyną.md",
+    "export/2024-01-04/Žaidimui/Pieštuka metė į mane.md",
+    "export/2024-01-04/Žaidimui/Nupirko christmas ohio.md",
+    "export/2024-01-04/Žaidimui/Išsityčiojo iš manęs.md",
+    "export/2024-01-04/Žaidimui/Išrinko mane prezentuoti.md",
+    "export/2024-01-04/Žaidimui/apšiko mane nu bl.md",
+    "export/2024-01-04/Žaidimui/Apšiko letenytę mano.md",
+    "export/2023-12-27/Žaidimui/Suemė mus Oil Rige.md",
+    "export/2023-12-27/Žaidimui/Praėjau mantioną XD.md",
+    "export/Frazės/Žaidimų Frazės",
+    "export/Frazės/Draugai",
+    "export/2024-01-04/Žaidimui",
+    "export/2023-12-27/Žaidimui",
+    "Excalidraw/Pasted image 20241205203703.png"
   ]
 }

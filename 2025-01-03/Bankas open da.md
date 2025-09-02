@@ -1,0 +1,1 @@
+[[Dyzelinas]] sako kad bankas already open dar vis [[Dyzelis žaidia kartu]]
