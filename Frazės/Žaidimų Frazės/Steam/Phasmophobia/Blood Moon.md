@@ -1,0 +1,1 @@
+[[Phasmophobia]] skirtas įvykis žaidimui investigationui atlikt nx

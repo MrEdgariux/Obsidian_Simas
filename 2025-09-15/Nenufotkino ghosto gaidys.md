@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir [[NeonPlusX]] nesugebėjo nufotkinti Ghosto per bled 100 kartu gal su [[Photo Camera]] XD

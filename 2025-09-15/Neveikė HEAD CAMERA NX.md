@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir [[Head Camera]] tiesiog nebuvo rodoma kompiuteryje ir negalėjau stebėt ką jie daro nx bugovas žaidimas einat fixint staigei už cimudanu ir bėgat fixint
