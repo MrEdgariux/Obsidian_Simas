@@ -1,1 +1,1 @@
-[[Žaidžiau Phasmophobia]] ir [[Dyzelinas]] nežino kur padėjo [[Kryžius]] :)
+[[Žaidžiau Phasmophobia]] ir [[Dyzelinas]] nežino kur padėjo [[Crucifix]] :)

@@ -1,0 +1,1 @@
+[[Phasmophobia]] skirtas daiktas žaidimui investigationui atlikt nx (Pagaliukas arba smilkalas kaip jie jį ten vadina xD sticku dažniausiai)

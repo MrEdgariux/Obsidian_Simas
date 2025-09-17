@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1858be4d4d8f53ea",
+        "id": "77d6c334dc8e62ac",
         "type": "tabs",
         "children": [
           {
-            "id": "fa70c8debb27284a",
+            "id": "527850e4cfcc558d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2025-09-15/Nenufotkino ghosto gaidys.md",
-                "mode": "source",
-                "source": false
+                "file": "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Nenufotkino ghosto gaidys"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -176,11 +175,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e3d04fdcb46d570",
+  "active": "527850e4cfcc558d",
   "lastOpenFiles": [
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Incense.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Untitled.base",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Head Gear.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Firelight.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Crucifix.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Parabolic.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Video Camera.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Photo Camera.md",
+    "2024-01-12/Rado T raide chatgpt nx.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Banshee.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Deogen.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Goryo.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Jinn.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Ghost.md",
+    "2025-09-15/Atspėjo ghosta OMG.md",
     "2025-09-15/Nenufotkino ghosto gaidys.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Photo Camera.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Blood Moon.md",
     "2025-09-15/Blood Moonas dar.md",
     "2025-09-15/Neveikė HEAD CAMERA NX.md",
@@ -188,32 +200,18 @@
     "2025-09-15/Neatspėjo ghosto.md",
     "2025-09-15/Žaidžiau Phasmophobia.md",
     "2025-09-15/Parabolika kurjerio paprašė.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Head Camera.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Kryžius.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Parabolic.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Goryo.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/xdd.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Deogen.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Banshee.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai",
     "2025-09-15/2x XP OMGGGGG.md",
     "Frazės/VC.md",
     "Menu.base",
-    "Frazės/Spotify.md",
-    "Frazės/Snapchat.md",
-    "Frazės/Steam.md",
-    "Frazės/Ariana Grande.md",
-    "Frazės/Žaidimų Frazės/Roblox/The Mimic.md",
-    "Frazės/Žaidimų Frazės/Roblox/The Vents.md",
-    "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms/Run for life.md",
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms",
     "Frazės/Žaidimų Frazės/Steam",
     "Frazės/Žaidimų Frazės/Steam/Geometry Dash/Lygiai",
     "Frazės/Draugai/InsaneSimas/Susitarimo dalykėliai",
     "Frazės/Draugai/InsaneSimas",
     "Frazės/Pliušiniai Žaislai",
-    "Frazės/Žaidimų Frazės/Minecraft/Serveriai/InsaneSimas Serveriai/Untitled",
     "Excalidraw/Pasted image 20241205203703.png"
   ]
 }

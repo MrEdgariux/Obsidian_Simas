@@ -1,1 +1,1 @@
-[[Phasmophobia]] žaidimo vaiduokliukas
+[[Phasmophobia]] žaidimo [[Ghost]] 
