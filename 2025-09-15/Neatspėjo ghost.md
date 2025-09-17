@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] xD ir duxai neatspėjo [[Mare]] spėjo kad bus [[Poltergeist]] 
