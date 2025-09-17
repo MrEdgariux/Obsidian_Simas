@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir pgl matau per video ką rodau nx ... xD

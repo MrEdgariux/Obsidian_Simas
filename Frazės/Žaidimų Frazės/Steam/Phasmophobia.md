@@ -1,0 +1,1 @@
+ok [[Steam]] žaidimas, I give up nx

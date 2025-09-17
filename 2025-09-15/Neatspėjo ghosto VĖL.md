@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir jie vėl neatspėjo ghosto [[Shade]] galvojo kad buvo [[Banshee]] 

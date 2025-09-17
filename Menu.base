@@ -1,6 +1,6 @@
 views:
   - type: table
-    name: Table
+    name: Visi failai
     order:
       - file.name
       - file.size

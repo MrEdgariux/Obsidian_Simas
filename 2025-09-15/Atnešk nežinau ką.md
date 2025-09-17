@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] bet [[Dyzelinas]] sako "Atnešk, nežinau ką atnešk, sticką atnešk" bet ofc ne man o [[NeonPlusX]] nešė xD
