@@ -1,1 +1,1 @@
-Žodžiu pasakė man [[InsaneSimas]] kad per lengva, išmok žaist snargly kai žaidė ale kažokį tais [[GD Lygis]] tai žiauriai įsižeidžiau nes db rašiau [[Simas neina savo sesės išvaryt iš kambario]]
+Žodžiu pasakė man [[InsaneSimas]] kad per lengva, išmok žaist snargly kai žaidė ale kažokį tais [[Lygis]] tai žiauriai įsižeidžiau nes db rašiau [[Simas neina savo sesės išvaryt iš kambario]]

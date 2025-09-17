@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir [[Dyzelinas]] nežino kur padėjo [[Kryžius]] :)

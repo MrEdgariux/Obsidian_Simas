@@ -1,1 +1,0 @@
-Žodžiu tai [[YouTube]] video kur tiesiog rodomi visokiausi [[GD Lygis]] ir tipo turi juos atspėti ir gauni taškų XD

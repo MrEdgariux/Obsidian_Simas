@@ -1,4 +1,4 @@
-Karoče [[InsaneSimas]] ant [[GD Lygis |Gd Lygių]]:
+Karoče [[InsaneSimas]] ant [[Lygis|Gd Lygių]]:
 - [x] Mirė 1 kartą
 - [x] Mirė 2 kartus
 - [x] Mirė 3 kartus

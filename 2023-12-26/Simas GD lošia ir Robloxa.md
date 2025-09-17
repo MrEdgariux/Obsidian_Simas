@@ -1,1 +1,1 @@
-Žodžiu [[InsaneSimas]] lošia [[GD Lygis]] ir dar lošia [[Roblox žaidimas]] [[Presentation Excerience]] kaip tai suprasti db?
+Žodžiu [[InsaneSimas]] lošia [[Lygis]] ir dar lošia [[Roblox žaidimas]] [[Presentation Excerience]] kaip tai suprasti db?

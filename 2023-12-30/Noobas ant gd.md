@@ -1,1 +1,1 @@
-[[InsaneSimas]] yra šūdinas ant [[GD Lygis]] karoče ir toks nemokša
+[[InsaneSimas]] yra šūdinas ant [[Lygis]] karoče ir toks nemokša

@@ -1,1 +1,1 @@
-[[InsaneSimas]] MIRĖ PER [[GD Lygis]] karoče snarglys yr
+[[InsaneSimas]] MIRĖ PER [[Lygis]] karoče snarglys yr

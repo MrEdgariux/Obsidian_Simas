@@ -1,0 +1,1 @@
+Itemas kuri naudoja per [[Phasmophobia]]

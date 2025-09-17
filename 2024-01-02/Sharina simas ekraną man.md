@@ -1,1 +1,1 @@
-[[InsaneSimas]] vėl man sharina ekrana rodo kaip [[GD Lygis]] eina blemba ir da dainuoja muzikos žodžius xd
+[[InsaneSimas]] vėl man sharina ekrana rodo kaip [[Lygis]] eina blemba ir da dainuoja muzikos žodžius xd

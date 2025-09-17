@@ -1,1 +1,1 @@
-ŠŪDAS NE ŽAIDIMAS ČIA [[GD Lygis]]
+ŠŪDAS NE ŽAIDIMAS ČIA [[Lygis]]

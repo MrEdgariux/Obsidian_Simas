@@ -1,1 +1,1 @@
-Krč [[InsaneSimas]] davė [[GD Lygis]] challange surasti čytus kur naudojo bled koks žiurkė
+Krč [[InsaneSimas]] davė [[Lygis]] challange surasti čytus kur naudojo bled koks žiurkė

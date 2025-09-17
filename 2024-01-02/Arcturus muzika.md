@@ -1,1 +1,1 @@
-[[InsaneSimas]] užrašė omg pizda [[GD Lygis]] baisu žėt
+[[InsaneSimas]] užrašė omg pizda [[Lygis]] baisu žėt

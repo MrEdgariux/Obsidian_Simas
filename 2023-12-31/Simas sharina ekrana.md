@@ -1,1 +1,1 @@
-Na jo [[InsaneSimas]] sharini vis man tą ekraną neturi ką veikt ir rodai kaip nemoki pereiti [[GD Lygis]]
+Na jo [[InsaneSimas]] sharini vis man tą ekraną neturi ką veikt ir rodai kaip nemoki pereiti [[Lygis]]

@@ -1,0 +1,1 @@
+[[InsaneSimas]] sugalvojo kad reik man pasukt pažaist [[Lygis]] naxui man matai sukūrė gd lygį duxeliukas... :(

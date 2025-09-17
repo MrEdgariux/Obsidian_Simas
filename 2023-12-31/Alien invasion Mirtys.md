@@ -1,3 +1,3 @@
-[[InsaneSimas]] [[GD Lygis]] mirtys
+[[InsaneSimas]] [[Lygis]] mirtys
 
 Mirė: 17

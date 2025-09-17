@@ -1,1 +1,1 @@
-[[InsaneSimas]] sako kad nori eit [[GD Lygis]] tai neisiu ir tuoj telefonas atsikels
+[[InsaneSimas]] sako kad nori eit [[Lygis]] tai neisiu ir tuoj telefonas atsikels

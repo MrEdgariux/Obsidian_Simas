@@ -1,1 +1,1 @@
-[[InsaneSimas]] blemba bando pereiti [[GD Lygis]] ir jį [[GD verify]] bet naudoja gal 10 NoClipų bled zaraza, todėl aš ir užsirašiau
+[[InsaneSimas]] blemba bando pereiti [[Lygis]] ir jį [[Patvirtinti]] bet naudoja gal 10 NoClipų bled zaraza, todėl aš ir užsirašiau

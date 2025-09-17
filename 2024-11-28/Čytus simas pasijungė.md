@@ -1,1 +1,1 @@
-[[InsaneSimas]] kurva pasijungė čytus ant [[GD Lygis]] ir toks yra jis gaidys dėl to
+[[InsaneSimas]] kurva pasijungė čytus ant [[Lygis]] ir toks yra jis gaidys dėl to

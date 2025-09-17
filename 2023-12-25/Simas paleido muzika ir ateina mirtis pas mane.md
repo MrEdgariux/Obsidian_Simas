@@ -1,1 +1,1 @@
-Žodžiu karoče [[InsaneSimas]] paleido arturus kažkokia daina ir taip prišikau į kelnes mirtis atėjo pas mane karoče drebėjau kelnės šikau simas koks blogas omg, ir ta muzika yra [[GD Lygis]] muzika kažkokio arcurus manrodos.
+Žodžiu karoče [[InsaneSimas]] paleido arturus kažkokia daina ir taip prišikau į kelnes mirtis atėjo pas mane karoče drebėjau kelnės šikau simas koks blogas omg, ir ta muzika yra [[Lygis]] muzika kažkokio arcurus manrodos.

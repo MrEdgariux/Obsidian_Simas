@@ -1,1 +1,1 @@
-[[InsaneSimas]] sakė užrašyt, tai užrašiau kad [[GD Lygis]] nepereina snarglys nemokša
+[[InsaneSimas]] sakė užrašyt, tai užrašiau kad [[Lygis]] nepereina snarglys nemokša

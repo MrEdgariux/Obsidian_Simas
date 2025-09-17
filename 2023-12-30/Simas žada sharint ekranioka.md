@@ -1,1 +1,1 @@
-Žodžiu [[InsaneSimas]] žada sharint [[GD Lygis]] BloodBath XD tai žodžiu... karoče
+Žodžiu [[InsaneSimas]] žada sharint [[Lygis]] BloodBath XD tai žodžiu... karoče
