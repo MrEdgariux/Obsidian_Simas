@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Untitled.base",
+                "file": "Frazės/Žaidimų Frazės/Steam/Phasmophobia.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Phasmophobia"
             }
           }
         ]
@@ -175,13 +175,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "527850e4cfcc558d",
+  "active": "1e3d04fdcb46d570",
   "lastOpenFiles": [
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Crucifix.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia.base",
+    "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia.md",
+    "Untitled.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Incense.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Untitled.base",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Head Gear.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Firelight.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Crucifix.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Parabolic.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Video Camera.md",
     "2024-01-12/Rado T raide chatgpt nx.md",
@@ -200,18 +204,14 @@
     "2025-09-15/Neatspėjo ghosto.md",
     "2025-09-15/Žaidžiau Phasmophobia.md",
     "2025-09-15/Parabolika kurjerio paprašė.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/xdd.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai",
-    "2025-09-15/2x XP OMGGGGG.md",
-    "Frazės/VC.md",
     "Menu.base",
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms",
     "Frazės/Žaidimų Frazės/Steam",
     "Frazės/Žaidimų Frazės/Steam/Geometry Dash/Lygiai",
     "Frazės/Draugai/InsaneSimas/Susitarimo dalykėliai",
     "Frazės/Draugai/InsaneSimas",
-    "Frazės/Pliušiniai Žaislai",
     "Excalidraw/Pasted image 20241205203703.png"
   ]
 }

@@ -1,1 +1,1 @@
-[[Phasmophobia]] skirtas daiktas žaidimui investigationui atlikt nx
+[[Phasmophobia.base]] skirtas daiktas žaidimui investigationui atlikt nx
