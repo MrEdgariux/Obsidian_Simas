@@ -2,3 +2,4 @@ NeonPlusX = Gediminas, kuris gyvena Vilniuje krÄ, ir tan studijuoja, ir labai Å
 
 ---
 2025-07-06 Eik tu, nebedraugaujam jau
+2025-09-13 Eik tu, toliau draugaujam
