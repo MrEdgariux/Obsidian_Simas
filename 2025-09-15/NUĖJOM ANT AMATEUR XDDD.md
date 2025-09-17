@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] bet kadangi [[Neonke prestižą pasidarė]] tai tas gi šūdas man atiteko ownershipas ir krč ant manęs buvo nustatytas difficulty žaidimo ant amateur ir krč mes nuėjom žaist su tokiu lvl 2 kartus debilai :DDD ir antram karte tik pamačiau what's wrong yra xDDD

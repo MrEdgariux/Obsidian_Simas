@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79b338ab509db6f6",
+        "id": "ce89b2a9bdc40f33",
         "type": "tabs",
         "children": [
           {
-            "id": "411682d4823751e4",
+            "id": "268e9810eb060d5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-09-15/Neatspėjau ghosto nes apgavo mane.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Neatspėjau ghosto nes apgavo mane"
+              "title": "New tab"
             }
           }
         ]
@@ -176,10 +172,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "411682d4823751e4",
+  "active": "268e9810eb060d5b",
   "lastOpenFiles": [
-    "2025-09-15/Mirė dyzelinas once again.md",
+    "2025-09-15/NUĖJOM ANT AMATEUR XDDD.md",
     "2025-09-15/Neatspėjau ghosto nes apgavo mane.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Raiju.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Wraith.md",
+    "2025-09-15/Mirė dyzelinas once again.md",
     "2025-09-15/Neonke prestižą pasidarė.md",
     "2025-09-15/Žaidžiau Phasmophobia.md",
     "2025-09-15/2x XP OMGGGGG.md",
@@ -201,9 +200,6 @@
     "2025-09-15/Atspėjo ghosta omg vėl.md",
     "2025-09-15/Atspėjo ghosta.md",
     "2025-09-15/Interviu paimė iš dyzelio XD.md",
-    "2025-09-15/Neatspėjom ghosto VĖL.md",
-    "2025-09-15/Atnešk nežinau ką.md",
-    "2025-09-15/Vėl nepaėjo nufotkint ghosto.md",
     "Menu.base",
     "Phasmophobia.base",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia.base",
@@ -213,4 +209,7 @@
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms",
     "Frazės/Žaidimų Frazės/Steam",
     "Frazės/Žaidimų Frazės/Steam/Geometry Dash/Lygiai",
-    "Frazės/Draugai/InsaneSimas/S
+    "Frazės/Draugai/InsaneSimas/Susitarimo dalykėliai",
+    "Excalidraw/Pasted image 20241205203703.png"
+  ]
+}

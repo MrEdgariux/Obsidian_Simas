@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir naxui naxui... Sakė kad bus [[Wraith]] bet aš duxelis pasirinkau [[Raiju]] :DDD
