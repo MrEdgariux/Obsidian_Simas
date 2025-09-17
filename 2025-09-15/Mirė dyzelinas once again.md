@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] bet [[Dyzelinas]] mirė vėl nuo ghosto xD ir apkaltino [[NeonPlusX]] kad maišės xDDD

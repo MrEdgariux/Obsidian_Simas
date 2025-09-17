@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir [[Dyzelinas]] neatspėjo [[Banshee]]. Galvojo kad bus [[The Twins]]

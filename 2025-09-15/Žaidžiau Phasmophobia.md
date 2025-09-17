@@ -1,1 +1,1 @@
-Žaidžiau [[Phasmophobia]] su [[NeonPlusX]] ir [[Dyzelinas]]. Yay ane
+[[2x XP OMGGGGG]] dabar todėl žaidžiau su [[NeonPlusX]] ir [[Dyzelinas]]. 
