@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "893961e7e4472ce4",
+        "id": "4dc8d58c648510c6",
         "type": "tabs",
         "children": [
           {
-            "id": "77d4c9051277e7d2",
+            "id": "635562087209e82d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-09-15/Interviu paimė iš dyzelio XD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Interviu paimė iš dyzelio XD"
             }
           }
         ]
@@ -172,8 +176,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77d4c9051277e7d2",
+  "active": "635562087209e82d",
   "lastOpenFiles": [
+    "2025-09-15/Interviu paimė iš dyzelio XD.md",
+    "2025-09-15/Neatspėjom ghosto VĖL.md",
     "2025-09-15/Atnešk nežinau ką.md",
     "2025-09-15/Vėl nepaėjo nufotkint ghosto.md",
     "2025-09-15/Pagaliau brightnessa padidinau bled.md",
@@ -202,8 +208,6 @@
     "2025-09-15/Atspėjo ghosta OMG.md",
     "2025-09-15/Nenufotkino ghosto gaidys.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Photo Camera.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Blood Moon.md",
-    "2025-09-15/Blood Moonas dar.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai",
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms",
