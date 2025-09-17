@@ -1,1 +1,1 @@
-[[Dyzelinas]] paprašė manęs [[Parabolikas]] kol [[Žaidžiau Phasmophobia]]
+[[Dyzelinas]] paprašė manęs [[Parabolic]] kol [[Žaidžiau Phasmophobia]]

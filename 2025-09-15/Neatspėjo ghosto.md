@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir [[Dyzelinas]] mane apipiso, sakė kad [[Banshee]] bet dėja, buvo [[Goryo]] 

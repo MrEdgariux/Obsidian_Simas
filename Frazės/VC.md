@@ -1,1 +1,1 @@
-xDD
+[[Discord]] dažniausias dalykas kai nueini su žmogum kalbėt nx balsu, nevaidink durno kad nžn kas tas yr

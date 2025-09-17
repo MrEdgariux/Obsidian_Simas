@@ -1,0 +1,1 @@
+[[Phasmophobia]] žaidime dabar yra 2x XP OMG todėl pyzda reik eit baliavot (5y anniversary proga)

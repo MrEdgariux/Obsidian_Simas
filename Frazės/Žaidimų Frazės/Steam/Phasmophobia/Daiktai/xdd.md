@@ -1,0 +1,1 @@
+[[Phasmophobia]] skirtas daiktas žaidimui investigationui atlikt nx
