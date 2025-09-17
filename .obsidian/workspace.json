@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc8d58c648510c6",
+        "id": "0964983701e85042",
         "type": "tabs",
         "children": [
           {
-            "id": "635562087209e82d",
+            "id": "42c010e3a221ba7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-09-15/Interviu paimė iš dyzelio XD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Interviu paimė iš dyzelio XD"
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "635562087209e82d",
+  "active": "42c010e3a221ba7d",
   "lastOpenFiles": [
+    "2025-09-15/Orbsu nepažiūrėjo duxai.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/The Mimic.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/The Twins.md",
+    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Banshee.md",
+    "2025-09-15/Atspėjo ghosta omg vėl.md",
+    "2025-09-15/Atspėjo ghosta.md",
     "2025-09-15/Interviu paimė iš dyzelio XD.md",
     "2025-09-15/Neatspėjom ghosto VĖL.md",
     "2025-09-15/Atnešk nežinau ką.md",
@@ -190,7 +192,6 @@
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Crucifix.md",
     "Phasmophobia.base",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia.base",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Banshee.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia.md",
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms.md",
     "Untitled.md",
@@ -203,11 +204,6 @@
     "2024-01-12/Rado T raide chatgpt nx.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Deogen.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Goryo.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai/Jinn.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Ghost.md",
-    "2025-09-15/Atspėjo ghosta OMG.md",
-    "2025-09-15/Nenufotkino ghosto gaidys.md",
-    "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai/Photo Camera.md",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Daiktai",
     "Frazės/Žaidimų Frazės/Steam/Phasmophobia/Vaiduokliai",
     "Frazės/Žaidimų Frazės/Steam/Inside The Backrooms",

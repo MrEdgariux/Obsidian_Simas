@@ -1,0 +1,1 @@
+[[Žaidžiau Phasmophobia]] ir atspėjom [[Goryo]] :)
